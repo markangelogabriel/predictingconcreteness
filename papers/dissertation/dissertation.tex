@@ -44,7 +44,7 @@
 
 \section{Abstract} The COVID-19 pandemic has forced a sudden change in society that we weren't fully prepared for.  Self-isolation and physical distancing has been imposed on everyone in varying degrees and the effect of it on people's mental wellbeing is an area of interest, especially if a second or third wave of the pandemic will require people to undergo isolation again. Certain members of the community are going to be affected more than others from this rapid disruption of the day-to-day because they are not getting the usual levels of social interaction they need or are used to to maintain a healthy mental wellbeing. It is in our interest to find which members of our community are at most risk with a method that is highly accessible given the physical restrictions that such a societal condition imposes. 
 
-This study aims to be able to predict a person's concreteness of mental imagery from their free-text response to a scenario using natural language processing techniques. 
+Mental imagery, the simulation of perceptual experience across sensory modalities, has been strongly linked to depression. It is one avenue that we may attempt to examine a person on to see if they are at risk of suffering from loneliness. Inference and prediction of a person's quality of mental imagery, particularly concreteness, is the focus of this research. Classical techniques and natural language processing techniques have been employed to generate a series of models to understand mental imagery concreteness. 
 
 \section{Review of Literature}
 
@@ -76,7 +76,7 @@ A point of discussion would be if our research problem would work better with ba
 
 For the lack of literature on comparison between the two techniques on different domains, there is merit in trying both individually, or creating a model that uses both techniques in tandem and empirically comparing which technique works best for our research problem.
 
-\subsection{Transfer Learning and XLNet}
+\subsection{Transfer Learning}
 Language is complex. In order to get reasonably performing models from scratch, one would need an extremely large dataset in addition to the computing power needed to process it. This is often impossible for many researchers, and a solution to this problem is transfer learning. Transfer learning is a machine learning technique where a model is trained on a particular problem, then reused in a similar domain to carry over the knowledge of the neural network. Depending on how different the pre-trained model is to your problem, Additional training needs to be done to finetune the model to your specific domain. \cite{ruder2019transfer}
 
 Popular pre-trained NLP models include Google's BERT, Google and Carnegie Mellon University's XLNet, and Facebook's RoBERTa. All of these models are transformers which are deep learning models designed to handle sequential data using the concept of attention mechanisms. Attention mechanisms allow the model to access and use any previous states and utilises them based on relevance to the current node. \cite{vaswani2017attention} 
