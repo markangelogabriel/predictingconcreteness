@@ -1,0 +1,1270 @@
+"Participant","Duration.x","Date.x","Image_Action.x","Image_People.x","Image_Emotion.x","Image_Vivid.x","Rater2.x","Q1","Q2","Q3","Q4","Q1.new","Q2.new","Q3.new","Q4.new","Steps","Effective","Concrete","Emotion"
+1,1791,"16/04/2020 7:59","Sometimes","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+2,1396,"16/04/2020 9:08","About half the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",2,2,3,3,2,2,3,3,2,2,3,3
+3,931,"16/04/2020 15:50","Sometimes","About half the time","Sometimes","Dim & vague, flat","",3,4,3,3,3,4,3,3,3,4,3,3
+4,4228,"16/04/2020 19:53","Sometimes","Most of the time","Most of the time","Clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+5,2773,"16/04/2020 20:21","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",4,3,4,3,4,3,4,3,4,3,4,3
+6,1278,"16/04/2020 20:53","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",3,3,4,3,3,3,4,3,3,3,4,3
+7,1271,"16/04/2020 21:12","About half the time","Sometimes","About half the time","Dim & vague, flat","LL",3,2,3,3,1.5,1,1.5,1.5,1.5,1,1.5,1.5
+8,755,"16/04/2020 21:34","About half the time","All/almost all of the time","About half the time","Moderately clear and lively","CP",10,9,8,7,5,4.5,4,3.5,5,4.5,4,3.5
+9,10151,"17/04/2020 0:25","About half the time","Most of the time","Sometimes","Moderately clear and lively","",4,4,3,3,4,4,3,3,4,4,3,3
+10,740,"17/04/2020 0:59","Sometimes","Sometimes","Sometimes","Moderately clear and lively","CP",4,3,3,3,2,1.5,1.5,1.5,2,1.5,1.5,1.5
+11,3414,"17/04/2020 1:57","About half the time","","","","",9,8,8,7,9,8,8,7,9,8,8,7
+12,2528,"17/04/2020 4:13","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",6,3,3,3,6,3,3,3,6,3,3,3
+13,666,"17/04/2020 4:18","About half the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+14,52130,"17/04/2020 10:00","Sometimes","About half the time","Most of the time","Moderately clear and lively","KH",4,5,5,5,2,2.5,2.5,2.5,2,2.5,2.5,2.5
+15,1395,"17/04/2020 18:15","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",4,3,5,2,4,3,5,2,4,3,5,2
+16,468,"17/04/2020 20:47","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+17,792,"17/04/2020 20:51","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",3,4,5,4,3,4,5,4,3,4,5,4
+18,1468,"18/04/2020 4:43","Most of the time","Sometimes","About half the time","Moderately clear and lively","",2,5,5,5,2,5,5,5,2,5,5,5
+19,828,"18/04/2020 5:13","All/almost all of the time","Most of the time","Sometimes","Clear and lively","",7,8,7,6,7,8,7,6,7,8,7,6
+20,668,"18/04/2020 6:33","Not at all","Most of the time","Not at all","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+21,5260,"18/04/2020 6:53","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",5,3,3,2,5,3,3,2,5,3,3,2
+22,451,"18/04/2020 8:42","Sometimes","Sometimes","Sometimes","Moderately clear and lively","JS",5,8,5,8,2.5,4,2.5,4,2.5,4,2.5,4
+23,762,"18/04/2020 19:24","Sometimes","About half the time","Sometimes","Moderately clear and lively","",3,2,2,1,3,2,2,1,3,2,2,1
+24,1668,"18/04/2020 21:47","About half the time","About half the time","Most of the time","Moderately clear and lively","",6,8,9,6,6,8,9,6,6,8,9,6
+25,703,"18/04/2020 23:31","Not at all","About half the time","About half the time","No image at all, you only “know” that you are thinking of the object","LL",3,2,2,4,1.5,1,1,2,1.5,1,1,2
+26,559,"19/04/2020 3:56","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",4,3,4,3,4,3,4,3,4,3,4,3
+27,1305,"19/04/2020 5:50","About half the time","About half the time","About half the time","Perfectly clear and lively as real seeing","",6,4,2,3,6,4,2,3,6,4,2,3
+28,1150,"19/04/2020 8:05","Not at all","Sometimes","Sometimes","Dim & vague, flat","",5,3,5,5,5,3,5,5,5,3,5,5
+29,893,"19/04/2020 9:07","Not at all","Sometimes","Sometimes","Clear and lively","",3,4,2,4,3,4,2,4,3,4,2,4
+30,2172,"19/04/2020 9:25","About half the time","Most of the time","Sometimes","Moderately clear and lively","KH",5,5,5,5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+31,833,"19/04/2020 9:36","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",3,3,2,3,3,3,2,3,3,3,2,3
+32,606,"19/04/2020 15:47","Sometimes","All/almost all of the time","About half the time","Moderately clear and lively","",1,1,3,2,1,1,3,2,1,1,3,2
+33,1497,"19/04/2020 18:15","Sometimes","All/almost all of the time","Sometimes","Perfectly clear and lively as real seeing","",0,1,1,1,0,1,1,1,0,1,1,1
+34,1072,"19/04/2020 21:22","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",0,0,1,2,0,0,1,2,0,0,1,2
+35,1589,"19/04/2020 21:28","Sometimes","Most of the time","About half the time","Moderately clear and lively","",2,3,1,1,2,3,1,1,2,3,1,1
+36,1319,"19/04/2020 21:38","Not at all","Most of the time","All/almost all of the time","Dim & vague, flat","",4,2,2,3,4,2,2,3,4,2,2,3
+37,2459,"20/04/2020 0:26","About half the time","Most of the time","Most of the time","Clear and lively","",5,5,4,3,5,5,4,3,5,5,4,3
+38,6504,"20/04/2020 7:02","Most of the time","All/almost all of the time","About half the time","Clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+39,790,"20/04/2020 18:45","About half the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+40,1458,"20/04/2020 19:10","Not at all","Sometimes","Most of the time","Dim & vague, flat","",4,4,3,3,4,4,3,3,4,4,3,3
+41,1865,"20/04/2020 19:21","Sometimes","Not at all","Not at all","Perfectly clear and lively as real seeing","CP",5,4,3,4,2.5,2,1.5,2,2.5,2,1.5,2
+42,642,"20/04/2020 23:15","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+43,4264,"21/04/2020 2:18","Sometimes","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",3,4,5,4,3,4,5,4,3,4,5,4
+44,3766,"21/04/2020 3:06","Sometimes","About half the time","Sometimes","Moderately clear and lively","CP",10,8,7,7,5,4,3.5,3.5,5,4,3.5,3.5
+45,803,"21/04/2020 6:08","All/almost all of the time","All/almost all of the time","Not at all","Perfectly clear and lively as real seeing","",6,4,3,4,6,4,3,4,6,4,3,4
+46,2143,"21/04/2020 8:52","Sometimes","About half the time","About half the time","Moderately clear and lively","",6,4,3,4,6,4,3,4,6,4,3,4
+47,578,"21/04/2020 10:35","Sometimes","All/almost all of the time","Sometimes","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+48,85098,"21/04/2020 19:45","Sometimes","About half the time","Sometimes","Moderately clear and lively","",3,2,3,5,3,2,3,5,3,2,3,5
+49,1642,"21/04/2020 20:51","Not at all","About half the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+50,5964,"21/04/2020 21:48","Most of the time","Not at all","Most of the time","Clear and lively","JL",6,6,6,6,3,3,3,3,3,3,3,3
+51,1991,"21/04/2020 22:12","Sometimes","About half the time","Sometimes","Clear and lively","",3,4,5,4,3,4,5,4,3,4,5,4
+52,561,"22/04/2020 20:05","All/almost all of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","KH",2,2,3,3,1,1,1.5,1.5,1,1,1.5,1.5
+53,1915,"23/04/2020 1:24","Sometimes","About half the time","About half the time","Dim & vague, flat","",7,5,5,4,7,5,5,4,7,5,5,4
+54,2175,"23/04/2020 17:54","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+55,23,"23/04/2020 21:40","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+56,336,"24/04/2020 9:22","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+57,2111,"24/04/2020 20:41","Most of the time","About half the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+58,88,"25/04/2020 1:17","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+59,119,"25/04/2020 4:44","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+60,948,"25/04/2020 13:41","About half the time","About half the time","About half the time","Clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+61,2552,"26/04/2020 17:29","About half the time","Most of the time","Sometimes","Dim & vague, flat","",5,3,2,4,5,3,2,4,5,3,2,4
+62,70198,"27/04/2020 20:12","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+63,1538,"28/04/2020 19:43","Sometimes","Most of the time","All/almost all of the time","Clear and lively","",6,5,5,4,6,5,5,4,6,5,5,4
+64,6533,"5/05/2020 0:22","About half the time","Most of the time","Most of the time","Clear and lively","",2,2,3,3,2,2,3,3,2,2,3,3
+65,1044,"5/05/2020 3:20","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,2,4,3,2,2,4,3,2,2,4,3
+66,1621,"5/05/2020 17:42","About half the time","About half the time","About half the time","Moderately clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+67,501,"5/05/2020 21:59","About half the time","Most of the time","About half the time","Clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+68,895,"6/05/2020 1:13","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+69,4413,"6/05/2020 2:54","Sometimes","About half the time","Most of the time","Clear and lively","",6,5,4,4,6,5,4,4,6,5,4,4
+70,82,"7/05/2020 1:01","Sometimes","About half the time","Not at all","Perfectly clear and lively as real seeing","",0,1,1,0,0,1,1,0,0,1,1,0
+71,868,"7/05/2020 17:11","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","JL",11,8,8,7,5.5,4,4,3.5,5.5,4,4,3.5
+72,882,"8/05/2020 4:11","About half the time","Most of the time","Most of the time","Dim & vague, flat","",3,2,2,2,3,2,2,2,3,2,2,2
+73,1735,"8/05/2020 5:00","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,1,1,1,2,1,1,1,2,1,1
+74,623,"8/05/2020 7:09","Most of the time","Most of the time","Sometimes","Clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+75,664,"8/05/2020 13:47","Sometimes","Most of the time","Not at all","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+76,1278,"8/05/2020 17:22","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JS",1,1,2,3,0.5,0.5,1,1.5,0.5,0.5,1,1.5
+77,813,"8/05/2020 18:12","Most of the time","Most of the time","Most of the time","Clear and lively","",6,3,2,3,6,3,2,3,6,3,2,3
+78,961,"8/05/2020 18:38","About half the time","About half the time","About half the time","Moderately clear and lively","",5,3,2,3,5,3,2,3,5,3,2,3
+79,2229,"8/05/2020 19:05","Not at all","All/almost all of the time","About half the time","Moderately clear and lively","",7,4,3,3.5,7,4,3,3.5,7,4,3,3.5
+80,944,"8/05/2020 20:19","Sometimes","Most of the time","About half the time","Moderately clear and lively","",3,3,2,4,3,3,2,4,3,3,2,4
+81,9491,"8/05/2020 21:44","Most of the time","Not at all","Sometimes","Clear and lively","AM",4,5,9,9,2,2.5,4.5,4.5,2,2.5,4.5,4.5
+82,384,"8/05/2020 21:48","Most of the time","Most of the time","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+83,829,"8/05/2020 22:54","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+84,777,"8/05/2020 23:43","Sometimes","About half the time","About half the time","Moderately clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+85,352,"9/05/2020 0:03","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",1,2,1,4,1,2,1,4,1,2,1,4
+86,3071,"9/05/2020 0:14","Sometimes","Sometimes","Sometimes","Clear and lively","",9,4,4,4,9,4,4,4,9,4,4,4
+87,1119,"9/05/2020 0:30","Sometimes","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+88,1208,"9/05/2020 0:54","Not at all","About half the time","Not at all","No image at all, you only “know” that you are thinking of the object","",2,1,1,5,2,1,1,5,2,1,1,5
+89,983,"9/05/2020 1:10","Sometimes","About half the time","Sometimes","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+90,2475,"9/05/2020 1:19","Sometimes","Sometimes","Not at all","Dim & vague, flat","CP",11,7,7,6,5.5,3.5,3.5,3,5.5,3.5,3.5,3
+91,811,"9/05/2020 1:28","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,3,3,3,1,3,3,3,1,3,3,3
+92,1031,"9/05/2020 1:34","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",4,3,2,5,4,3,2,5,4,3,2,5
+93,1057,"9/05/2020 1:35","Sometimes","Not at all","Sometimes","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+94,715,"9/05/2020 1:37","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",1,2,1,4,1,2,1,4,1,2,1,4
+95,1140,"9/05/2020 1:49","About half the time","About half the time","About half the time","Moderately clear and lively","",4,3,3,4,4,3,3,4,4,3,3,4
+96,5529,"9/05/2020 2:40","Most of the time","Most of the time","Most of the time","Clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+97,1474,"9/05/2020 2:45","About half the time","About half the time","Most of the time","Clear and lively","",5,4,5,2,5,4,5,2,5,4,5,2
+98,1353,"9/05/2020 3:08","Sometimes","Not at all","Sometimes","Clear and lively","LL",3,3,2,4,1.5,1.5,1,2,1.5,1.5,1,2
+99,1188,"9/05/2020 3:40","Sometimes","Most of the time","All/almost all of the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+100,1025,"9/05/2020 3:48","About half the time","Not at all","Not at all","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+101,1819,"9/05/2020 4:13","Sometimes","Most of the time","About half the time","Moderately clear and lively","",1,1,2,1,1,1,2,1,1,1,2,1
+102,994,"9/05/2020 4:27","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","AM",9,7,6,6,4.5,3.5,3,3,4.5,3.5,3,3
+103,1283,"9/05/2020 4:40","Not at all","Most of the time","All/almost all of the time","Dim & vague, flat","",2,3,3,3,2,3,3,3,2,3,3,3
+104,1473,"9/05/2020 4:59","Not at all","All/almost all of the time","Most of the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+105,1071,"9/05/2020 5:08","About half the time","All/almost all of the time","Most of the time","Clear and lively","",2,3,5,4,2,3,5,4,2,3,5,4
+106,1122,"9/05/2020 5:30","Most of the time","About half the time","Not at all","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+107,1975,"9/05/2020 5:45","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+108,1325,"9/05/2020 5:48","About half the time","Most of the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+109,2111,"9/05/2020 6:12","Not at all","About half the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",6,5,4,4,6,5,4,4,6,5,4,4
+110,9803,"9/05/2020 6:21","Not at all","Most of the time","Sometimes","Moderately clear and lively","LL",2,3,4,3,1,1.5,2,1.5,1,1.5,2,1.5
+111,4572,"9/05/2020 6:34","Sometimes","All/almost all of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+112,854,"9/05/2020 6:51","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",4,3,2,3.5,4,3,2,3.5,4,3,2,3.5
+113,696,"9/05/2020 6:59","Not at all","About half the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+114,851,"9/05/2020 7:10","About half the time","About half the time","Sometimes","Moderately clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+115,3516,"9/05/2020 7:25","About half the time","Most of the time","Most of the time","Moderately clear and lively","JL",5,6,6,6,2.5,3,3,3,2.5,3,3,3
+116,2348,"9/05/2020 7:46","Sometimes","Most of the time","Most of the time","Moderately clear and lively","LL",4,4,4,3,2,2,2,1.5,2,2,2,1.5
+117,804,"9/05/2020 15:17","About half the time","Most of the time","Most of the time","Clear and lively","",1,4,2,5,1,4,2,5,1,4,2,5
+118,1384,"9/05/2020 15:20","About half the time","About half the time","About half the time","Moderately clear and lively","",5,5,4,5,5,5,4,5,5,5,4,5
+119,1217,"9/05/2020 16:41","Not at all","Most of the time","About half the time","Moderately clear and lively","",8,1,2,4,8,1,2,4,8,1,2,4
+120,1422,"9/05/2020 16:46","Sometimes","Most of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",5,3,3,5,5,3,3,5,5,3,3,5
+121,908,"9/05/2020 17:47","About half the time","Most of the time","All/almost all of the time","Moderately clear and lively","",3,3,3,2,3,3,3,2,3,3,3,2
+122,925,"9/05/2020 19:04","About half the time","Sometimes","Not at all","Moderately clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+123,571,"9/05/2020 19:37","About half the time","About half the time","About half the time","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+124,856,"9/05/2020 19:38","Most of the time","Most of the time","About half the time","Moderately clear and lively","",2,3,2.5,4,2,3,2.5,4,2,3,2.5,4
+125,933,"9/05/2020 19:50","Not at all","Sometimes","About half the time","Moderately clear and lively","JL",5,6,8,6,2.5,3,4,3,2.5,3,4,3
+126,1173,"9/05/2020 20:19","About half the time","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",2,3,3,4,2,3,3,4,2,3,3,4
+127,382,"9/05/2020 20:31","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+128,1917,"9/05/2020 22:54","All/almost all of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",2,3,2,4,2,3,2,4,2,3,2,4
+129,1183,"9/05/2020 23:24","About half the time","Sometimes","Sometimes","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+130,1167,"10/05/2020 0:06","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","LL",2,3,2,3,1,1.5,1,1.5,1,1.5,1,1.5
+131,902,"10/05/2020 0:25","Sometimes","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+132,2086,"10/05/2020 1:16","About half the time","Most of the time","About half the time","Moderately clear and lively","",4,5,2,5,4,5,2,5,4,5,2,5
+133,1132,"10/05/2020 2:17","Sometimes","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",3,4,4,4,3,4,4,4,3,4,4,4
+134,2211,"10/05/2020 2:38","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",3,4,5,2,3,4,5,2,3,4,5,2
+135,760,"10/05/2020 2:53","Most of the time","About half the time","About half the time","Moderately clear and lively","CP",6,5,6,6,3,2.5,3,3,3,2.5,3,3
+136,1167,"10/05/2020 3:27","Sometimes","Sometimes","About half the time","Moderately clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+137,3115,"10/05/2020 3:32","Most of the time","About half the time","Sometimes","Perfectly clear and lively as real seeing","",5,3,4,3,5,3,4,3,5,3,4,3
+138,1902,"10/05/2020 5:01","Sometimes","About half the time","Sometimes","Dim & vague, flat","",5,3,1,4,5,3,1,4,5,3,1,4
+139,3030,"10/05/2020 5:28","Sometimes","Sometimes","Sometimes","Moderately clear and lively","JL",13,9,8,10,6.5,4.5,4,5,6.5,4.5,4,5
+140,824,"10/05/2020 17:39","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","LL",3,3,2,4,1.5,1.5,1,2,1.5,1.5,1,2
+141,1126,"10/05/2020 18:08","Sometimes","Sometimes","Sometimes","Clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+142,1255,"10/05/2020 19:27","Sometimes","Sometimes","About half the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+143,4346,"10/05/2020 19:53","Most of the time","About half the time","About half the time","Dim & vague, flat","",3,2,2,3,3,2,2,3,3,2,2,3
+144,236,"10/05/2020 19:53","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,1,2,1,1,1,2,1,1,1,2,1
+145,1378,"10/05/2020 20:13","Most of the time","Most of the time","Most of the time","Clear and lively","AM",12,8,7,6.5,6,4,3.5,3.25,6,4,3.5,3.25
+146,2606,"10/05/2020 20:43","Sometimes","About half the time","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+147,916,"10/05/2020 20:52","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,2,3,1,2,2,3,1,2,2,3
+148,1071,"10/05/2020 21:47","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",3,2,1,3,3,2,1,3,3,2,1,3
+149,1005,"10/05/2020 22:42","Sometimes","Sometimes","Sometimes","Clear and lively","LL",3,4,4,3,1.5,2,2,1.5,1.5,2,2,1.5
+150,1649,"10/05/2020 23:30","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","KH",3,3,4,3,1.5,1.5,2,1.5,1.5,1.5,2,1.5
+151,1026,"11/05/2020 4:43","Sometimes","About half the time","Sometimes","Clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+152,2980,"11/05/2020 5:14","Sometimes","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",5,5,5,4,5,5,5,4,5,5,5,4
+153,1749,"11/05/2020 6:37","Not at all","Not at all","Not at all","Moderately clear and lively","",2,3,1,4,2,3,1,4,2,3,1,4
+154,35464,"11/05/2020 6:54","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",8,5,4,4,8,5,4,4,8,5,4,4
+155,683,"11/05/2020 16:26","Sometimes","Most of the time","Sometimes","Dim & vague, flat","CP",10,7,7,6,5,3.5,3.5,3,5,3.5,3.5,3
+156,379,"11/05/2020 16:33","About half the time","Sometimes","Most of the time","Moderately clear and lively","",0,1,1,1,0,1,1,1,0,1,1,1
+157,1043,"11/05/2020 16:33","About half the time","About half the time","Sometimes","Clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+158,995,"11/05/2020 16:46","Sometimes","Most of the time","About half the time","Moderately clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+159,1320,"11/05/2020 16:47","All/almost all of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",3,2,2,2,3,2,2,2,3,2,2,2
+160,940,"11/05/2020 16:53","About half the time","About half the time","Sometimes","Clear and lively","",2,4,2,4,2,4,2,4,2,4,2,4
+161,882,"11/05/2020 16:55","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JL",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+162,1744,"11/05/2020 17:09","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+163,892,"11/05/2020 17:37","About half the time","Most of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",4,3,3,3,4,3,3,3,4,3,3,3
+164,882,"11/05/2020 17:42","About half the time","About half the time","Sometimes","Moderately clear and lively","CP",9,9,8,6,4.5,4.5,4,3,4.5,4.5,4,3
+165,1822,"11/05/2020 17:57","About half the time","About half the time","About half the time","Moderately clear and lively","",1,2,3,3,1,2,3,3,1,2,3,3
+166,1066,"11/05/2020 18:04","Not at all","Not at all","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+167,2779,"11/05/2020 18:05","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",10,5,5,3,10,5,5,3,10,5,5,3
+168,2619,"11/05/2020 18:05","About half the time","Sometimes","Sometimes","Clear and lively","",5,4,5,5,5,4,5,5,5,4,5,5
+169,1533,"11/05/2020 18:21","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",3,2,1,3,3,2,1,3,3,2,1,3
+170,942,"11/05/2020 18:25","About half the time","About half the time","Sometimes","Dim & vague, flat","",4,3,3,4,4,3,3,4,4,3,3,4
+171,1510,"11/05/2020 18:41","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",2,3,3,3,2,3,3,3,2,3,3,3
+172,1284,"11/05/2020 18:42","All/almost all of the time","Most of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",3,2,2,3,3,2,2,3,3,2,2,3
+173,5874,"11/05/2020 18:50","About half the time","All/almost all of the time","Sometimes","Moderately clear and lively","",4,3.5,3,3,4,3.5,3,3,4,3.5,3,3
+174,1217,"11/05/2020 18:56","Most of the time","All/almost all of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",4,2,2,2,4,2,2,2,4,2,2,2
+175,1814,"11/05/2020 19:06","About half the time","Most of the time","Most of the time","Clear and lively","",6,5,4,5,6,5,4,5,6,5,4,5
+176,1654,"11/05/2020 19:14","Sometimes","Sometimes","Most of the time","Perfectly clear and lively as real seeing","",2,4,2,5,2,4,2,5,2,4,2,5
+177,1036,"11/05/2020 19:14","Not at all","Sometimes","Most of the time","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+178,1325,"11/05/2020 19:19","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",4,4,3,3,4,4,3,3,4,4,3,3
+179,3153,"11/05/2020 19:24","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+180,2100,"11/05/2020 19:28","Most of the time","All/almost all of the time","Not at all","Moderately clear and lively","",6,3,3,3,6,3,3,3,6,3,3,3
+181,1021,"11/05/2020 20:16","Most of the time","Most of the time","About half the time","Moderately clear and lively","",2,2.5,1,3,2,2.5,1,3,2,2.5,1,3
+182,1655,"11/05/2020 20:22","Not at all","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",4,3,4,3,4,3,4,3,4,3,4,3
+183,3037,"11/05/2020 20:25","Sometimes","About half the time","Most of the time","Perfectly clear and lively as real seeing","",1,2,3,3,1,2,3,3,1,2,3,3
+184,1498,"11/05/2020 20:52","Most of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",5,4,5,5,5,4,5,5,5,4,5,5
+185,485,"11/05/2020 20:54","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",1,4,4,5,1,4,4,5,1,4,4,5
+186,1529,"11/05/2020 20:55","About half the time","Most of the time","Most of the time","Moderately clear and lively","",4,4,3,2,4,4,3,2,4,4,3,2
+187,842,"11/05/2020 20:56","Sometimes","About half the time","About half the time","Moderately clear and lively","",5,4,3.5,4,5,4,3.5,4,5,4,3.5,4
+188,1110,"11/05/2020 21:02","Most of the time","Most of the time","Most of the time","Moderately clear and lively","CP",7,7,6,7,3.5,3.5,3,3.5,3.5,3.5,3,3.5
+189,8491,"11/05/2020 21:06","Sometimes","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",5,4,4,2,5,4,4,2,5,4,4,2
+190,1133,"11/05/2020 21:08","Sometimes","About half the time","Sometimes","Clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+191,1058,"11/05/2020 21:18","Not at all","Most of the time","Most of the time","Perfectly clear and lively as real seeing","KH",6,5,3.5,4,3,2.5,1.75,2,3,2.5,1.75,2
+192,1031,"11/05/2020 21:25","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JL",2,4,4,7,1,2,2,3.5,1,2,2,3.5
+193,1227,"11/05/2020 21:29","Sometimes","Sometimes","About half the time","Moderately clear and lively","LL",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+194,1506,"11/05/2020 21:33","Most of the time","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",1,2,1,1,1,2,1,1,1,2,1,1
+195,2949,"11/05/2020 21:56","Most of the time","Most of the time","Sometimes","Clear and lively","",5,4,5,2,5,4,5,2,5,4,5,2
+196,932,"11/05/2020 21:59","Sometimes","Most of the time","About half the time","Moderately clear and lively","",1,2,2,5,1,2,2,5,1,2,2,5
+197,1856,"11/05/2020 22:08","Not at all","About half the time","Sometimes","Dim & vague, flat","",3,0,0,0,3,0,0,0,3,0,0,0
+198,842,"11/05/2020 22:43","Most of the time","Most of the time","Most of the time","Clear and lively","",5,3,3.5,1,5,3,3.5,1,5,3,3.5,1
+199,1168,"11/05/2020 22:55","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+200,1261,"11/05/2020 22:57","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+201,2524,"11/05/2020 22:59","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+202,769,"11/05/2020 23:05","Not at all","Not at all","About half the time","Moderately clear and lively","",3,2,3,3,3,2,3,3,3,2,3,3
+203,1633,"11/05/2020 23:26","Sometimes","Most of the time","Most of the time","Perfectly clear and lively as real seeing","JL",4,8,9,7,2,4,4.5,3.5,2,4,4.5,3.5
+204,1463,"11/05/2020 23:35","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",2,3,2,4,2,3,2,4,2,3,2,4
+205,6997,"12/05/2020 0:07","About half the time","About half the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+206,2007,"12/05/2020 0:10","Most of the time","Most of the time","About half the time","Clear and lively","",2,3,4,4,2,3,4,4,2,3,4,4
+207,2087,"12/05/2020 0:19","About half the time","About half the time","Most of the time","Moderately clear and lively","",2,4,3,3,2,4,3,3,2,4,3,3
+208,1314,"12/05/2020 0:49","Sometimes","Most of the time","About half the time","Clear and lively","",3,3,3,4,3,3,3,4,3,3,3,4
+209,1423,"12/05/2020 0:55","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",5,5,3,4,5,5,3,4,5,5,3,4
+210,908,"12/05/2020 1:37","Most of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+211,931,"12/05/2020 1:37","Most of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",2,3,4,4,2,3,4,4,2,3,4,4
+212,1246,"12/05/2020 2:03","Sometimes","Sometimes","Not at all","Moderately clear and lively","KH",5,5,5,5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+213,1616,"12/05/2020 2:12","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",2,1,3,2,2,1,3,2,2,1,3,2
+214,830,"12/05/2020 2:49","Not at all","Most of the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+215,1873,"12/05/2020 2:50","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",4,5,5,3,4,5,5,3,4,5,5,3
+216,171850,"12/05/2020 3:11","Sometimes","Sometimes","Sometimes","Moderately clear and lively","KH",4,5,5,4,2,2.5,2.5,2,2,2.5,2.5,2
+217,1426,"12/05/2020 3:47","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","KH",2,4,4,2,1,2,2,1,1,2,2,1
+218,5436,"12/05/2020 4:05","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",9,5,5,5,9,5,5,5,9,5,5,5
+219,894,"12/05/2020 4:20","Sometimes","Sometimes","About half the time","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+220,786,"12/05/2020 4:46","About half the time","All/almost all of the time","Most of the time","Clear and lively","",3,2,2,4,3,2,2,4,3,2,2,4
+221,4185,"12/05/2020 4:58","About half the time","About half the time","Sometimes","Clear and lively","",3,4,5,3,3,4,5,3,3,4,5,3
+222,1221,"12/05/2020 5:05","Sometimes","Sometimes","Not at all","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+223,3230,"12/05/2020 5:06","Most of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+224,2510,"12/05/2020 5:10","Sometimes","Not at all","Sometimes","Clear and lively","LL",3,3,2,2,1.5,1.5,1,1,1.5,1.5,1,1
+225,941,"12/05/2020 5:15","About half the time","Sometimes","Not at all","Moderately clear and lively","",4,4,5,3,4,4,5,3,4,4,5,3
+226,909,"12/05/2020 5:16","Not at all","Most of the time","Sometimes","Dim & vague, flat","",0,1,1,2,0,1,1,2,0,1,1,2
+227,3464,"12/05/2020 5:29","Most of the time","All/almost all of the time","About half the time","Clear and lively","",3,4,3.5,5,3,4,3.5,5,3,4,3.5,5
+228,941,"12/05/2020 5:42","Sometimes","About half the time","Most of the time","Moderately clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+229,821,"12/05/2020 5:47","Sometimes","Sometimes","Sometimes","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+230,1635,"12/05/2020 5:56","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+231,2396,"12/05/2020 6:03","Most of the time","All/almost all of the time","About half the time","Perfectly clear and lively as real seeing","JL",2,3,4,3,1,1.5,2,1.5,1,1.5,2,1.5
+232,1247,"12/05/2020 6:15","About half the time","Most of the time","Most of the time","Clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+233,2893,"12/05/2020 6:17","Not at all","Most of the time","Sometimes","Moderately clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+234,1299,"12/05/2020 6:24","About half the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",2,2,2,2,2,2,2,2,2,2,2,2
+235,921,"12/05/2020 6:37","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+236,1011,"12/05/2020 7:20","Not at all","Not at all","Not at all","","",0,0,0,0,0,0,0,0,0,0,0,0
+237,4056,"12/05/2020 7:26","Sometimes","Not at all","About half the time","Clear and lively","",5,4,3,4,5,4,3,4,5,4,3,4
+238,4732,"12/05/2020 8:41","All/almost all of the time","All/almost all of the time","Most of the time","Clear and lively","",6,4,3,4,6,4,3,4,6,4,3,4
+239,57181,"12/05/2020 14:43","All/almost all of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",0,1,1,4,0,1,1,4,0,1,1,4
+240,967,"12/05/2020 15:53","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+241,1692,"12/05/2020 15:55","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",3,3,3.5,3,3,3,3.5,3,3,3,3.5,3
+242,826,"12/05/2020 16:09","Not at all","Sometimes","Sometimes","Dim & vague, flat","",2,3,3,3,2,3,3,3,2,3,3,3
+243,499,"12/05/2020 16:10","All/almost all of the time","All/almost all of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+244,53385,"12/05/2020 16:12","Sometimes","Sometimes","About half the time","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+245,952,"12/05/2020 16:24","Not at all","All/almost all of the time","Not at all","No image at all, you only “know” that you are thinking of the object","",3,3,4,3,3,3,4,3,3,3,4,3
+246,2341,"12/05/2020 16:32","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+247,1765,"12/05/2020 16:35","Most of the time","About half the time","About half the time","Moderately clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+248,1040,"12/05/2020 16:44","Not at all","Sometimes","Most of the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+249,1828,"12/05/2020 17:12","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",1,4,3,3,1,4,3,3,1,4,3,3
+250,1594,"12/05/2020 17:14","Most of the time","All/almost all of the time","Most of the time","Clear and lively","CP",8,6,8,6,4,3,4,3,4,3,4,3
+251,777,"12/05/2020 17:15","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",4,5,4,3,4,5,4,3,4,5,4,3
+252,1214,"12/05/2020 17:17","About half the time","Most of the time","Most of the time","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+253,964,"12/05/2020 17:22","Sometimes","All/almost all of the time","Most of the time","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+254,1950,"12/05/2020 17:28","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",2,3,4,5,2,3,4,5,2,3,4,5
+255,2437,"12/05/2020 17:29","Sometimes","Not at all","Most of the time","Clear and lively","",2,3,4,5,2,3,4,5,2,3,4,5
+256,891,"12/05/2020 17:30","Not at all","All/almost all of the time","Sometimes","Clear and lively","",1,2,3,3,1,2,3,3,1,2,3,3
+257,965,"12/05/2020 17:43","Not at all","Sometimes","Sometimes","Moderately clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+258,578,"12/05/2020 17:44","Not at all","Most of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,3,3,1,2,3,3,1,2,3,3,1
+259,1680,"12/05/2020 17:52","Sometimes","Most of the time","All/almost all of the time","Clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+260,1574,"12/05/2020 18:02","Sometimes","Not at all","About half the time","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+261,625,"12/05/2020 18:04","Not at all","Most of the time","Most of the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+262,366,"12/05/2020 18:11","About half the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+263,4027,"12/05/2020 18:15","Not at all","About half the time","Sometimes","Moderately clear and lively","",0,3,0,3,0,3,0,3,0,3,0,3
+264,1050,"12/05/2020 18:20","Sometimes","Not at all","Not at all","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+265,789,"12/05/2020 18:22","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",4,2,2,3,4,2,2,3,4,2,2,3
+266,2819,"12/05/2020 18:41","Sometimes","About half the time","Sometimes","Dim & vague, flat","",3,3,4,3,3,3,4,3,3,3,4,3
+267,5991,"12/05/2020 18:47","Sometimes","About half the time","About half the time","Moderately clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+268,1244,"12/05/2020 18:55","Not at all","About half the time","About half the time","Clear and lively","",1,2,3,4,1,2,3,4,1,2,3,4
+269,956,"12/05/2020 18:56","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+270,618,"12/05/2020 18:57","Not at all","Sometimes","Not at all","Perfectly clear and lively as real seeing","",1,2,2,3,1,2,2,3,1,2,2,3
+271,5009,"12/05/2020 18:58","Not at all","About half the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,3,3,3,3,3,3,3,3,3,3,3
+272,1301,"12/05/2020 18:59","Not at all","About half the time","Sometimes","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+273,339,"12/05/2020 19:05","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,1,1,1,0,1,1,1,0,1,1,1
+274,1308,"12/05/2020 19:10","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+275,631,"12/05/2020 19:10","Not at all","Most of the time","Sometimes","Dim & vague, flat","",5,4,4,3,5,4,4,3,5,4,4,3
+276,2538,"12/05/2020 19:18","Most of the time","Most of the time","About half the time","Clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+277,1007,"12/05/2020 19:21","Sometimes","About half the time","Most of the time","Clear and lively","",2,4,4,4,2,4,4,4,2,4,4,4
+278,1177,"12/05/2020 19:37","Sometimes","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",6,5,5,4,6,5,5,4,6,5,5,4
+279,1382,"12/05/2020 19:40","About half the time","About half the time","About half the time","Clear and lively","",5,5,3,3,5,5,3,3,5,5,3,3
+280,1336,"12/05/2020 19:40","About half the time","Sometimes","Most of the time","Moderately clear and lively","",1,5,5,5,1,5,5,5,1,5,5,5
+281,1005,"12/05/2020 19:52","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",1,1,2,2.5,1,1,2,2.5,1,1,2,2.5
+282,731,"12/05/2020 19:57","Sometimes","Sometimes","Sometimes","Dim & vague, flat","AM",2,4,5,4,1,2,2.5,2,1,2,2.5,2
+283,1242,"12/05/2020 19:59","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",6,3,4,3,6,3,4,3,6,3,4,3
+284,1345,"12/05/2020 20:02","Not at all","Most of the time","Most of the time","Moderately clear and lively","CP",6,4,3,6,3,2,1.5,3,3,2,1.5,3
+285,1317,"12/05/2020 20:06","Not at all","Sometimes","Not at all","Perfectly clear and lively as real seeing","",2,3,3,4,2,3,3,4,2,3,3,4
+286,1537,"12/05/2020 20:09","About half the time","All/almost all of the time","About half the time","Clear and lively","KH",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+287,911,"12/05/2020 20:09","About half the time","Sometimes","Sometimes","Moderately clear and lively","",3,1,1,3,3,1,1,3,3,1,1,3
+288,2491,"12/05/2020 20:16","Most of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",6,3,4,2,6,3,4,2,6,3,4,2
+289,1255,"12/05/2020 20:29","All/almost all of the time","All/almost all of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+290,1597,"12/05/2020 20:32","About half the time","Most of the time","About half the time","Perfectly clear and lively as real seeing","",4,3,2,3,4,3,2,3,4,3,2,3
+291,638,"12/05/2020 20:36","Not at all","Not at all","About half the time","Dim & vague, flat","",5,4,3,2,5,4,3,2,5,4,3,2
+292,4921,"12/05/2020 20:37","About half the time","Most of the time","About half the time","Clear and lively","KH",3,2,3,3,1.5,1,1.5,1.5,1.5,1,1.5,1.5
+293,3030,"12/05/2020 20:47","Not at all","Not at all","About half the time","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+294,2858,"12/05/2020 20:49","Most of the time","Most of the time","Most of the time","Clear and lively","",6,5,5,5,6,5,5,5,6,5,5,5
+295,915,"12/05/2020 20:54","Sometimes","Most of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","CP",1,2,2,3,0.5,1,1,1.5,0.5,1,1,1.5
+296,986,"12/05/2020 21:24","Sometimes","Most of the time","About half the time","Clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+297,1016,"12/05/2020 21:26","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+298,2187,"12/05/2020 21:28","All/almost all of the time","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+299,676,"12/05/2020 21:39","Sometimes","Most of the time","All/almost all of the time","Dim & vague, flat","",1,1,1,3,1,1,1,3,1,1,1,3
+300,2242,"12/05/2020 21:45","Most of the time","Most of the time","Most of the time","Clear and lively","KH",6,4,5,5,3,2,2.5,2.5,3,2,2.5,2.5
+301,1921,"12/05/2020 21:52","Most of the time","Most of the time","Most of the time","Clear and lively","JL",4,3,4,3,2,1.5,2,1.5,2,1.5,2,1.5
+302,3128,"12/05/2020 21:57","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",7,4,2,4,7,4,2,4,7,4,2,4
+303,1013,"12/05/2020 22:07","Sometimes","Most of the time","Most of the time","Clear and lively","",4,3,4,3,4,3,4,3,4,3,4,3
+304,857,"12/05/2020 22:07","Most of the time","Most of the time","Most of the time","Clear and lively","",2,2,2,2,2,2,2,2,2,2,2,2
+305,1316,"12/05/2020 22:16","Sometimes","Most of the time","About half the time","Clear and lively","",2,2,3,2,2,2,3,2,2,2,3,2
+306,1053,"12/05/2020 22:19","About half the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+307,3144,"12/05/2020 22:28","Not at all","Not at all","Not at all","","",0,1,1,1,0,1,1,1,0,1,1,1
+308,1162,"12/05/2020 22:28","Sometimes","Most of the time","Most of the time","Clear and lively","",4,4,4,5,4,4,4,5,4,4,4,5
+309,1796,"12/05/2020 22:41","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,2,2,3,2,2,2,3,2,2,2,3
+310,1568,"12/05/2020 22:45","Most of the time","Sometimes","About half the time","Moderately clear and lively","",5,4,2,3,5,4,2,3,5,4,2,3
+311,2882,"12/05/2020 22:45","Not at all","Not at all","Sometimes","Dim & vague, flat","",1,1,1,2,1,1,1,2,1,1,1,2
+312,703,"12/05/2020 22:49","Sometimes","Sometimes","Most of the time","No image at all, you only “know” that you are thinking of the object","LL",1,3,1,3,0.5,1.5,0.5,1.5,0.5,1.5,0.5,1.5
+313,738,"12/05/2020 22:50","About half the time","Most of the time","Most of the time","Moderately clear and lively","",2,2,1,2,2,2,1,2,2,2,1,2
+314,575,"12/05/2020 22:56","Not at all","","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,5,5,5,3,5,5,5,3,5,5,5
+315,1160,"12/05/2020 22:58","Most of the time","About half the time","Sometimes","Moderately clear and lively","LL",7,5,3,3,3.5,2.5,1.5,1.5,3.5,2.5,1.5,1.5
+316,2274,"12/05/2020 23:07","All/almost all of the time","Not at all","Most of the time","Dim & vague, flat","JL",5,7,8,8,2.5,3.5,4,4,2.5,3.5,4,4
+317,4854,"12/05/2020 23:41","About half the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+318,715,"12/05/2020 23:44","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JS",2,2,2,3,1,1,1,1.5,1,1,1,1.5
+319,1057,"12/05/2020 23:54","Sometimes","About half the time","Not at all","Clear and lively","JL",3,5,5,6,1.5,2.5,2.5,3,1.5,2.5,2.5,3
+320,1444,"12/05/2020 23:56","Most of the time","All/almost all of the time","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+321,1082,"13/05/2020 0:02","Not at all","Sometimes","About half the time","Dim & vague, flat","",2,3,2,3,2,3,2,3,2,3,2,3
+322,445,"13/05/2020 0:05","","","","","KH",0,0,0,0,0,0,0,0,0,0,0,0
+323,922,"13/05/2020 0:08","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+324,988,"13/05/2020 0:13","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,1,2,1,2,1,2,1,2,1,2
+325,1078,"13/05/2020 0:16","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+326,741,"13/05/2020 0:19","Sometimes","Sometimes","Not at all","Dim & vague, flat","",2,2,2,4,2,2,2,4,2,2,2,4
+327,812,"13/05/2020 0:23","Sometimes","About half the time","Sometimes","Moderately clear and lively","",1,3,3,3,1,3,3,3,1,3,3,3
+328,1600,"13/05/2020 0:26","Sometimes","Most of the time","About half the time","Dim & vague, flat","",2,2,2,3,2,2,2,3,2,2,2,3
+329,1684,"13/05/2020 0:30","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",3,3,4,3,3,3,4,3,3,3,4,3
+330,1340,"13/05/2020 0:31","Sometimes","Not at all","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",2,2,2,2,2,2,2,2,2,2,2,2
+331,1520,"13/05/2020 0:38","About half the time","About half the time","About half the time","Moderately clear and lively","",3,4,3,4,3,4,3,4,3,4,3,4
+332,2129,"13/05/2020 0:51","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","LL",5,3,2,3,2.5,1.5,1,1.5,2.5,1.5,1,1.5
+333,887,"13/05/2020 0:53","Most of the time","About half the time","About half the time","Clear and lively","",3,2,3,3,3,2,3,3,3,2,3,3
+334,1143,"13/05/2020 0:53","Most of the time","About half the time","Most of the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+335,6242,"13/05/2020 1:01","Not at all","Most of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",5,2,3,3,5,2,3,3,5,2,3,3
+336,1460,"13/05/2020 1:01","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",5,2,3,2,5,2,3,2,5,2,3,2
+337,1299,"13/05/2020 1:14","About half the time","Most of the time","Most of the time","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+338,712,"13/05/2020 1:14","Most of the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+339,4603,"13/05/2020 1:15","Sometimes","About half the time","About half the time","Dim & vague, flat","",6,4,3,3,6,4,3,3,6,4,3,3
+340,3102,"13/05/2020 1:17","Most of the time","About half the time","About half the time","Perfectly clear and lively as real seeing","JL",6,7,7,6,3,3.5,3.5,3,3,3.5,3.5,3
+341,1393,"13/05/2020 1:27","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",4,4,4,3,4,4,4,3,4,4,4,3
+342,2288,"13/05/2020 1:27","About half the time","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",5,1,5,3,5,1,5,3,5,1,5,3
+343,1289,"13/05/2020 1:30","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",2,3,1,3,2,3,1,3,2,3,1,3
+344,1058,"13/05/2020 1:30","About half the time","About half the time","About half the time","Moderately clear and lively","JL",11,9,8,6,5.5,4.5,4,3,5.5,4.5,4,3
+345,1294,"13/05/2020 1:32","Sometimes","Sometimes","Sometimes","Clear and lively","",2,3,1,2,2,3,1,2,2,3,1,2
+346,1533,"13/05/2020 1:37","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,3,2,4,3,3,2,4,3,3,2,4
+347,1960,"13/05/2020 1:40","Sometimes","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+348,1608,"13/05/2020 1:42","Most of the time","Most of the time","Most of the time","Moderately clear and lively","CP",6,4,3,6,3,2,1.5,3,3,2,1.5,3
+349,1461,"13/05/2020 1:45","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",5,4,2,4,5,4,2,4,5,4,2,4
+350,3128,"13/05/2020 1:46","Sometimes","Most of the time","Sometimes","Clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+351,2984,"13/05/2020 1:50","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+352,848,"13/05/2020 1:53","Most of the time","Most of the time","Most of the time","Clear and lively","KH",4,3,2,3,2,1.5,1,1.5,2,1.5,1,1.5
+353,1129,"13/05/2020 2:05","Not at all","Sometimes","About half the time","Dim & vague, flat","KH",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+354,1251,"13/05/2020 2:07","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+355,1438,"13/05/2020 2:08","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,2,3,4,3,2,3,4,3,2,3,4
+356,1132,"13/05/2020 2:09","Not at all","Sometimes","Sometimes","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+357,1096,"13/05/2020 2:10","Sometimes","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",3,4,4,4,3,4,4,4,3,4,4,4
+358,621,"13/05/2020 2:14","About half the time","All/almost all of the time","Not at all","Moderately clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+359,1026,"13/05/2020 2:17","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",2,4,4,3,2,4,4,3,2,4,4,3
+360,522,"13/05/2020 2:23","Not at all","Most of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",1,1,1,2,1,1,1,2,1,1,1,2
+361,389,"13/05/2020 2:26","About half the time","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+362,561,"13/05/2020 2:30","Sometimes","Sometimes","Sometimes","Clear and lively","",1,3,1,4,1,3,1,4,1,3,1,4
+363,2515,"13/05/2020 2:32","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+364,541,"13/05/2020 2:35","Not at all","Not at all","Not at all","Dim & vague, flat","CP",0,0,0,0,0,0,0,0,0,0,0,0
+365,1304,"13/05/2020 2:42","About half the time","Most of the time","Most of the time","Clear and lively","",1,3,1,3,1,3,1,3,1,3,1,3
+366,16647,"13/05/2020 2:42","Not at all","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+367,605,"13/05/2020 2:47","Not at all","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+368,1189,"13/05/2020 2:48","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+369,4814,"13/05/2020 2:53","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",4,3,3,2,4,3,3,2,4,3,3,2
+370,1241,"13/05/2020 2:53","About half the time","About half the time","Sometimes","Moderately clear and lively","",2,1,2,3,2,1,2,3,2,1,2,3
+371,3352,"13/05/2020 2:54","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","AM",5,2,3,3,2.5,1,1.5,1.5,2.5,1,1.5,1.5
+372,1497,"13/05/2020 2:56","Sometimes","Sometimes","Sometimes","Clear and lively","KH",1,3,4,4,0.5,1.5,2,2,0.5,1.5,2,2
+373,914,"13/05/2020 2:58","Not at all","Sometimes","Sometimes","Dim & vague, flat","",5,4,2,3,5,4,2,3,5,4,2,3
+374,86,"13/05/2020 3:11","","","","","JS",0,0,0,0,0,0,0,0,0,0,0,0
+375,1757,"13/05/2020 3:18","Sometimes","Not at all","All/almost all of the time","Perfectly clear and lively as real seeing","AM",4,3,6,3,2,1.5,3,1.5,2,1.5,3,1.5
+376,774,"13/05/2020 3:21","About half the time","Sometimes","About half the time","Moderately clear and lively","CP",0,0,0,0,0,0,0,0,0,0,0,0
+377,738,"13/05/2020 3:21","Sometimes","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+378,897,"13/05/2020 3:22","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+379,920,"13/05/2020 3:31","Sometimes","Most of the time","Most of the time","Moderately clear and lively","JS",5,4,4,5,2.5,2,2,2.5,2.5,2,2,2.5
+380,1169,"13/05/2020 3:32","Most of the time","Most of the time","Most of the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+381,4353,"13/05/2020 3:36","Most of the time","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+382,2046,"13/05/2020 3:39","Sometimes","About half the time","Sometimes","Dim & vague, flat","",3,4,5,5,3,4,5,5,3,4,5,5
+383,1427,"13/05/2020 3:40","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+384,6328,"13/05/2020 3:41","Sometimes","Sometimes","Sometimes","Perfectly clear and lively as real seeing","JS",4,5,6,6,2,2.5,3,3,2,2.5,3,3
+385,1092,"13/05/2020 3:46","Most of the time","Most of the time","Most of the time","Clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+386,1006,"13/05/2020 3:50","Sometimes","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",2,2,3,3,2,2,3,3,2,2,3,3
+387,802,"13/05/2020 3:53","Not at all","Most of the time","Sometimes","Moderately clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+388,1060,"13/05/2020 3:56","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",6,2,2,3,6,2,2,3,6,2,2,3
+389,1514,"13/05/2020 3:57","All/almost all of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",5,3,2,4,5,3,2,4,5,3,2,4
+390,2541,"13/05/2020 3:58","Sometimes","All/almost all of the time","Most of the time","Clear and lively","LL",4,4,2,3,2,2,1,1.5,2,2,1,1.5
+391,1428,"13/05/2020 4:03","Most of the time","All/almost all of the time","Most of the time","Clear and lively","KH",2,3,2,5,1,1.5,1,2.5,1,1.5,1,2.5
+392,963,"13/05/2020 4:09","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,1,4,1,2,1,4,1,2,1,4
+393,2752,"13/05/2020 4:10","About half the time","Most of the time","About half the time","Clear and lively","CP",8,7,9,8,4,3.5,4.5,4,4,3.5,4.5,4
+394,933,"13/05/2020 4:13","Sometimes","Sometimes","Not at all","Dim & vague, flat","",5,4,4,3,5,4,4,3,5,4,4,3
+395,598,"13/05/2020 4:14","Sometimes","Most of the time","Sometimes","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+396,896,"13/05/2020 4:14","About half the time","Most of the time","About half the time","Clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+397,1756,"13/05/2020 4:15","Not at all","Most of the time","Not at all","Dim & vague, flat","",2,4,2,4,2,4,2,4,2,4,2,4
+398,3598,"13/05/2020 4:16","Sometimes","All/almost all of the time","About half the time","Clear and lively","",3,4,0,4,3,4,0,4,3,4,0,4
+399,41548,"13/05/2020 4:20","Sometimes","Most of the time","All/almost all of the time","Moderately clear and lively","",2,2,3,3,2,2,3,3,2,2,3,3
+400,1489,"13/05/2020 4:24","Sometimes","Sometimes","All/almost all of the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+401,4872,"13/05/2020 4:33","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",5,4,3,3,5,4,3,3,5,4,3,3
+402,3167,"13/05/2020 4:33","Sometimes","Sometimes","About half the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+403,2931,"13/05/2020 4:35","Sometimes","Most of the time","Most of the time","Moderately clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+404,980,"13/05/2020 4:36","Most of the time","Most of the time","Most of the time","Clear and lively","LL",5,3,3,3,2.5,1.5,1.5,1.5,2.5,1.5,1.5,1.5
+405,782,"13/05/2020 4:39","Most of the time","Most of the time","About half the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+406,1376,"13/05/2020 4:40","Not at all","Not at all","Sometimes","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+407,1181,"13/05/2020 4:40","Sometimes","Sometimes","Not at all","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+408,11751,"13/05/2020 4:48","Sometimes","Sometimes","About half the time","Moderately clear and lively","KH",4,5,5,5,2,2.5,2.5,2.5,2,2.5,2.5,2.5
+409,3111,"13/05/2020 4:54","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",3,2,3,3,3,2,3,3,3,2,3,3
+410,7014,"13/05/2020 4:55","Sometimes","All/almost all of the time","About half the time","Perfectly clear and lively as real seeing","",2,3,3,4,2,3,3,4,2,3,3,4
+411,1494,"13/05/2020 4:55","About half the time","About half the time","Sometimes","Dim & vague, flat","",5,4,4,4,5,4,4,4,5,4,4,4
+412,2464,"13/05/2020 4:55","Sometimes","About half the time","Most of the time","Clear and lively","",5,5,5,3,5,5,5,3,5,5,5,3
+413,3278,"13/05/2020 4:56","Sometimes","About half the time","Sometimes","Dim & vague, flat","JL",6,6,6,6,3,3,3,3,3,3,3,3
+414,1555,"13/05/2020 4:58","Most of the time","Most of the time","Not at all","Moderately clear and lively","LL",2,2,2,4,1,1,1,2,1,1,1,2
+415,2633,"13/05/2020 4:58","Not at all","Most of the time","All/almost all of the time","Moderately clear and lively","",1,3,3,3,1,3,3,3,1,3,3,3
+416,1755,"13/05/2020 5:00","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+417,1557,"13/05/2020 5:03","Sometimes","Sometimes","All/almost all of the time","Dim & vague, flat","",1,1,2,4,1,1,2,4,1,1,2,4
+418,8445,"13/05/2020 5:04","Not at all","All/almost all of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+419,1390,"13/05/2020 5:09","Most of the time","Most of the time","Sometimes","Moderately clear and lively","",4,3,4,2,4,3,4,2,4,3,4,2
+420,4673,"13/05/2020 5:11","Sometimes","Most of the time","Sometimes","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+421,867,"13/05/2020 5:13","Sometimes","Most of the time","About half the time","Perfectly clear and lively as real seeing","LL",3,2,2,4,1.5,1,1,2,1.5,1,1,2
+422,1155,"13/05/2020 5:15","Sometimes","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",3,3,3,4,3,3,3,4,3,3,3,4
+423,3532,"13/05/2020 5:19","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,3,3,1,2,3,3,1,2,3,3
+424,493,"13/05/2020 5:22","","","","","JL",0,0,0,0,0,0,0,0,0,0,0,0
+425,3106,"13/05/2020 5:22","Sometimes","Not at all","Not at all","Clear and lively","",6,3,3,4,6,3,3,4,6,3,3,4
+426,1013,"13/05/2020 5:38","Sometimes","Most of the time","About half the time","Clear and lively","",3,4,3,4,3,4,3,4,3,4,3,4
+427,831,"13/05/2020 5:39","Not at all","Not at all","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+428,685,"13/05/2020 5:39","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+429,1454,"13/05/2020 5:50","Not at all","Most of the time","Not at all","No image at all, you only “know” that you are thinking of the object","",2,3,3,4,2,3,3,4,2,3,3,4
+430,1243,"13/05/2020 5:50","Not at all","Sometimes","About half the time","Dim & vague, flat","",1,3,3,3,1,3,3,3,1,3,3,3
+431,3358,"13/05/2020 5:53","Most of the time","Sometimes","All/almost all of the time","Moderately clear and lively","",4,2,2,3,4,2,2,3,4,2,2,3
+432,837,"13/05/2020 5:59","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",2,2,1,3,2,2,1,3,2,2,1,3
+433,2217,"13/05/2020 5:59","Most of the time","About half the time","About half the time","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+434,1137,"13/05/2020 6:00","Most of the time","Most of the time","Most of the time","Clear and lively","",1,2,2,4,1,2,2,4,1,2,2,4
+435,1914,"13/05/2020 6:12","Most of the time","Most of the time","Most of the time","Moderately clear and lively","LL",4,3,2,3,2,1.5,1,1.5,2,1.5,1,1.5
+436,1178,"13/05/2020 6:14","About half the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+437,1129,"13/05/2020 6:15","Sometimes","All/almost all of the time","All/almost all of the time","Moderately clear and lively","AM",2,3,2,4,1,1.5,1,2,1,1.5,1,2
+438,5140,"13/05/2020 6:25","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JS",0,0,0,0,0,0,0,0,0,0,0,0
+439,960,"13/05/2020 6:28","Most of the time","Most of the time","Most of the time","Clear and lively","AM",3,2,2,3,1.5,1,1,1.5,1.5,1,1,1.5
+440,33450,"13/05/2020 6:37","Sometimes","Most of the time","About half the time","Moderately clear and lively","",3,3,4,5,3,3,4,5,3,3,4,5
+441,922,"13/05/2020 7:36","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+442,2391,"13/05/2020 7:46","All/almost all of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+443,2061,"13/05/2020 7:49","Not at all","Sometimes","Sometimes","Moderately clear and lively","",3,3,2,0,3,3,2,0,3,3,2,0
+444,3191,"13/05/2020 8:34","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,3,3,3,2,3,3,3,2,3,3,3
+445,1640,"13/05/2020 12:11","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,3,3,2,3,3,3,2,3,3,3,2
+446,1034,"13/05/2020 13:56","Most of the time","Most of the time","Most of the time","Clear and lively","",2,2,3,3,2,2,3,3,2,2,3,3
+447,474,"13/05/2020 14:38","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",4,4,4,3,4,4,4,3,4,4,4,3
+448,1230,"13/05/2020 14:49","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","JL",8,6,7,6,4,3,3.5,3,4,3,3.5,3
+449,1868,"13/05/2020 14:51","Not at all","About half the time","Most of the time","Clear and lively","",1,3,2,5,1,3,2,5,1,3,2,5
+450,1262,"13/05/2020 15:08","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+451,1907,"13/05/2020 15:44","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",6,5,5,5,6,5,5,5,6,5,5,5
+452,1141,"13/05/2020 15:46","Not at all","Most of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",1,2,2,4,1,2,2,4,1,2,2,4
+453,1383,"13/05/2020 15:55","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",6,3,4,3,6,3,4,3,6,3,4,3
+454,53655,"13/05/2020 16:01","Not at all","Sometimes","Most of the time","Clear and lively","",1,1,1,4,1,1,1,4,1,1,1,4
+455,923,"13/05/2020 16:01","Not at all","About half the time","About half the time","Moderately clear and lively","JL",3,4,3,6,1.5,2,1.5,3,1.5,2,1.5,3
+456,3714,"13/05/2020 16:08","Not at all","About half the time","Sometimes","Dim & vague, flat","",2,3,2,2,2,3,2,2,2,3,2,2
+457,2422,"13/05/2020 16:10","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",2,3,3,5,2,3,3,5,2,3,3,5
+458,1570,"13/05/2020 16:21","About half the time","About half the time","About half the time","Clear and lively","",4,2,3,2.5,4,2,3,2.5,4,2,3,2.5
+459,1084,"13/05/2020 16:37","About half the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+460,567,"13/05/2020 16:46","About half the time","All/almost all of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,2,1,3,3,2,1,3,3,2,1,3
+461,689,"13/05/2020 16:46","Not at all","Sometimes","All/almost all of the time","Clear and lively","",0,3,2,5,0,3,2,5,0,3,2,5
+462,1352,"13/05/2020 16:46","Sometimes","All/almost all of the time","Most of the time","Clear and lively","",6,5,3,4,6,5,3,4,6,5,3,4
+463,464,"13/05/2020 16:48","About half the time","All/almost all of the time","All/almost all of the time","Clear and lively","",6,3,4,3,6,3,4,3,6,3,4,3
+464,536,"13/05/2020 16:49","Most of the time","Most of the time","Most of the time","Clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+465,770,"13/05/2020 17:00","About half the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+466,639,"13/05/2020 17:00","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+467,950,"13/05/2020 17:01","Sometimes","All/almost all of the time","All/almost all of the time","Clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+468,860,"13/05/2020 17:04","All/almost all of the time","All/almost all of the time","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",2,3,2,4,2,3,2,4,2,3,2,4
+469,950,"13/05/2020 17:10","About half the time","All/almost all of the time","About half the time","Moderately clear and lively","JL",6,6,6,6,3,3,3,3,3,3,3,3
+470,2739,"13/05/2020 17:14","Not at all","Sometimes","Sometimes","Dim & vague, flat","",4,3,3,3,4,3,3,3,4,3,3,3
+471,2039,"13/05/2020 17:16","About half the time","About half the time","About half the time","Clear and lively","",6,4,4,3,6,4,4,3,6,4,4,3
+472,718,"13/05/2020 17:21","Most of the time","All/almost all of the time","Not at all","Moderately clear and lively","",2,3,3,4,2,3,3,4,2,3,3,4
+473,3338,"13/05/2020 17:21","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",6,4,5,3,6,4,5,3,6,4,5,3
+474,1389,"13/05/2020 17:27","Sometimes","Most of the time","About half the time","Clear and lively","CP",6,4,3,6,3,2,1.5,3,3,2,1.5,3
+475,595,"13/05/2020 17:27","Sometimes","About half the time","Sometimes","Clear and lively","KH",2,2,1,3,1,1,0.5,1.5,1,1,0.5,1.5
+476,4049,"13/05/2020 17:29","All/almost all of the time","Most of the time","All/almost all of the time","Clear and lively","",9,5,5,5,9,5,5,5,9,5,5,5
+477,44724,"13/05/2020 17:36","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+478,690,"13/05/2020 17:36","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+479,3009,"13/05/2020 17:38","All/almost all of the time","All/almost all of the time","Most of the time","Clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+480,1648,"13/05/2020 17:44","Sometimes","Sometimes","All/almost all of the time","Perfectly clear and lively as real seeing","",1,1,1,3,1,1,1,3,1,1,1,3
+481,1300,"13/05/2020 17:45","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+482,1350,"13/05/2020 17:47","Sometimes","About half the time","Sometimes","Moderately clear and lively","JS",0,0,0,0,0,0,0,0,0,0,0,0
+483,2615,"13/05/2020 17:49","Sometimes","Most of the time","Sometimes","Dim & vague, flat","",3,3,2,3,3,3,2,3,3,3,2,3
+484,1044,"13/05/2020 17:50","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",3,2,2,3,3,2,2,3,3,2,2,3
+485,1192,"13/05/2020 17:50","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+486,3392,"13/05/2020 17:53","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",1,3,3,3,1,3,3,3,1,3,3,3
+487,1517,"13/05/2020 17:57","Not at all","Sometimes","Not at all","Clear and lively","",1,3,4,3,1,3,4,3,1,3,4,3
+488,964,"13/05/2020 17:57","Not at all","Not at all","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+489,4116,"13/05/2020 17:58","About half the time","Most of the time","Most of the time","Clear and lively","",1,4,5,5,1,4,5,5,1,4,5,5
+490,822,"13/05/2020 18:00","About half the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+491,1518,"13/05/2020 18:00","Sometimes","Sometimes","Sometimes","Clear and lively","",5,5,5,3,5,5,5,3,5,5,5,3
+492,5294,"13/05/2020 18:02","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",4,4,3,4,4,4,3,4,4,4,3,4
+493,740,"13/05/2020 18:08","Not at all","Sometimes","Sometimes","Clear and lively","JL",2,3,4,3,1,1.5,2,1.5,1,1.5,2,1.5
+494,2159,"13/05/2020 18:09","Not at all","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+495,1305,"13/05/2020 18:09","Not at all","Sometimes","About half the time","Moderately clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+496,1336,"13/05/2020 18:10","Not at all","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+497,811,"13/05/2020 18:13","Sometimes","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+498,2155,"13/05/2020 18:13","Not at all","Sometimes","Not at all","Dim & vague, flat","AM",4,6,5,6,2,3,2.5,3,2,3,2.5,3
+499,1541,"13/05/2020 18:16","Most of the time","About half the time","About half the time","Clear and lively","",2,3,2,1,2,3,2,1,2,3,2,1
+500,1402,"13/05/2020 18:16","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","JS",15,9,9,8,7.5,4.5,4.5,4,7.5,4.5,4.5,4
+501,4960,"13/05/2020 18:17","Sometimes","About half the time","Most of the time","Moderately clear and lively","CP",4,2,3,3,2,1,1.5,1.5,2,1,1.5,1.5
+502,1248,"13/05/2020 18:20","Sometimes","Sometimes","Sometimes","Clear and lively","AM",2,6,6,6,1,3,3,3,1,3,3,3
+503,10673,"13/05/2020 18:26","Most of the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+504,1483,"13/05/2020 18:27","Sometimes","Most of the time","About half the time","Moderately clear and lively","",4,2,2,3,4,2,2,3,4,2,2,3
+505,769,"13/05/2020 18:36","Most of the time","Most of the time","About half the time","Perfectly clear and lively as real seeing","",3,2,2,3,3,2,2,3,3,2,2,3
+506,3431,"13/05/2020 18:36","Not at all","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",1,2,2,4,1,2,2,4,1,2,2,4
+507,1262,"13/05/2020 18:38","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",3,3,2,4,3,3,2,4,3,3,2,4
+508,708,"13/05/2020 18:38","About half the time","About half the time","Sometimes","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+509,2660,"13/05/2020 18:38","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+510,1879,"13/05/2020 18:39","Sometimes","About half the time","About half the time","Moderately clear and lively","KH",5,4,3.5,3,2.5,2,1.75,1.5,2.5,2,1.75,1.5
+511,1350,"13/05/2020 18:39","About half the time","About half the time","Sometimes","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+512,1196,"13/05/2020 18:40","Not at all","Sometimes","Sometimes","Moderately clear and lively","AM",7,6,5,7,3.5,3,2.5,3.5,3.5,3,2.5,3.5
+513,2399,"13/05/2020 18:40","Not at all","Not at all","Not at all","Clear and lively","",4,3,4,4,4,3,4,4,4,3,4,4
+514,2021,"13/05/2020 18:43","Sometimes","Sometimes","About half the time","Moderately clear and lively","JL",4,6,6,6,2,3,3,3,2,3,3,3
+515,1268,"13/05/2020 18:44","Not at all","Sometimes","Most of the time","Dim & vague, flat","",6,3,2,3,6,3,2,3,6,3,2,3
+516,2292,"13/05/2020 18:45","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+517,2234,"13/05/2020 18:47","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+518,755,"13/05/2020 18:47","Not at all","Sometimes","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+519,857,"13/05/2020 18:51","Sometimes","Not at all","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","JL",3,3,4,3,1.5,1.5,2,1.5,1.5,1.5,2,1.5
+520,650,"13/05/2020 18:57","All/almost all of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+521,4012,"13/05/2020 18:57","Not at all","Not at all","Sometimes","Dim & vague, flat","AM",2,6,4,6,1,3,2,3,1,3,2,3
+522,976,"13/05/2020 18:59","Not at all","Most of the time","Most of the time","Moderately clear and lively","",4,3,2,2,4,3,2,2,4,3,2,2
+523,891,"13/05/2020 19:10","About half the time","About half the time","About half the time","Dim & vague, flat","KH",1,3,3,3,0.5,1.5,1.5,1.5,0.5,1.5,1.5,1.5
+524,5560,"13/05/2020 19:14","Most of the time","Most of the time","Most of the time","Clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+525,505,"13/05/2020 19:19","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,4,5,3,2,4,5,3,2,4,5,3
+526,752,"13/05/2020 19:20","Not at all","About half the time","Sometimes","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+527,3521,"13/05/2020 19:24","About half the time","About half the time","All/almost all of the time","Clear and lively","JL",4,7,7,6,2,3.5,3.5,3,2,3.5,3.5,3
+528,2863,"13/05/2020 19:25","Sometimes","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",2,2,2,3,2,2,2,3,2,2,2,3
+529,3099,"13/05/2020 19:27","Not at all","Sometimes","Sometimes","Dim & vague, flat","",3,3,2,3,3,3,2,3,3,3,2,3
+530,1588,"13/05/2020 19:29","Sometimes","Sometimes","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+531,1743,"13/05/2020 19:34","Most of the time","Most of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+532,1925,"13/05/2020 19:34","Sometimes","Most of the time","About half the time","Moderately clear and lively","",1,2,2,4,1,2,2,4,1,2,2,4
+533,726,"13/05/2020 19:39","Sometimes","All/almost all of the time","Most of the time","Clear and lively","CP",4,6,5,6,2,3,2.5,3,2,3,2.5,3
+534,1244,"13/05/2020 19:43","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+535,617,"13/05/2020 19:45","Most of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","KH",3,3,1,3,1.5,1.5,0.5,1.5,1.5,1.5,0.5,1.5
+536,2987,"13/05/2020 19:45","All/almost all of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+537,1132,"13/05/2020 19:49","Sometimes","Sometimes","Most of the time","Dim & vague, flat","LL",0,0,0,0,0,0,0,0,0,0,0,0
+538,645,"13/05/2020 19:50","About half the time","About half the time","About half the time","Moderately clear and lively","",3,3,4,2,3,3,4,2,3,3,4,2
+539,2457,"13/05/2020 19:57","About half the time","About half the time","Sometimes","Dim & vague, flat","KH",0,0,0,0,0,0,0,0,0,0,0,0
+540,2998,"13/05/2020 19:57","About half the time","About half the time","About half the time","Moderately clear and lively","",1,3,1,5,1,3,1,5,1,3,1,5
+541,814,"13/05/2020 19:58","Not at all","About half the time","Sometimes","Moderately clear and lively","",3,2,1,3,3,2,1,3,3,2,1,3
+542,1284,"13/05/2020 19:59","Not at all","About half the time","About half the time","Moderately clear and lively","KH",2,2,1,3,1,1,0.5,1.5,1,1,0.5,1.5
+543,440,"13/05/2020 20:01","Sometimes","About half the time","Most of the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+544,1989,"13/05/2020 20:02","Sometimes","All/almost all of the time","Most of the time","Moderately clear and lively","LL",3,3,3,3,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+545,664,"13/05/2020 20:03","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+546,1390,"13/05/2020 20:10","Most of the time","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+547,1064,"13/05/2020 20:12","Not at all","Sometimes","Sometimes","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+548,1054,"13/05/2020 20:18","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+549,790,"13/05/2020 20:23","Sometimes","Sometimes","Sometimes","Moderately clear and lively","JL",2,2,3,3,1,1,1.5,1.5,1,1,1.5,1.5
+550,694,"13/05/2020 20:24","About half the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",3,2,2,3,3,2,2,3,3,2,2,3
+551,599,"13/05/2020 20:28","Sometimes","Not at all","Not at all","Perfectly clear and lively as real seeing","AM",2,5.5,2,6,1,2.75,1,3,1,2.75,1,3
+552,1212,"13/05/2020 20:32","About half the time","About half the time","About half the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+553,3023,"13/05/2020 20:33","Sometimes","Sometimes","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+554,1757,"13/05/2020 20:34","Sometimes","Sometimes","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",0,1,1,1,0,1,1,1,0,1,1,1
+555,942,"13/05/2020 20:45","About half the time","About half the time","Most of the time","Clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+556,1875,"13/05/2020 20:56","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",4,4,5,3,4,4,5,3,4,4,5,3
+557,440,"13/05/2020 21:00","Not at all","Most of the time","Not at all","Perfectly clear and lively as real seeing","",3,4,4,3,3,4,4,3,3,4,4,3
+558,1479,"13/05/2020 21:04","About half the time","Not at all","Most of the time","No image at all, you only “know” that you are thinking of the object","",3,3,3,3.5,3,3,3,3.5,3,3,3,3.5
+559,514,"13/05/2020 21:05","Not at all","Sometimes","Sometimes","Perfectly clear and lively as real seeing","CP",6,6,4,7,3,3,2,3.5,3,3,2,3.5
+560,1620,"13/05/2020 21:06","Not at all","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+561,5279,"13/05/2020 21:07","Sometimes","Most of the time","Sometimes","Moderately clear and lively","LL",4,4,4,3,2,2,2,1.5,2,2,2,1.5
+562,2112,"13/05/2020 21:13","Sometimes","Sometimes","About half the time","Moderately clear and lively","KH",2,2,3,4,1,1,1.5,2,1,1,1.5,2
+563,845,"13/05/2020 21:20","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,4,3,3,2,4,3,3,2,4,3,3
+564,10170,"13/05/2020 21:20","About half the time","Most of the time","Sometimes","Dim & vague, flat","",3,3,4,5,3,3,4,5,3,3,4,5
+565,1449,"13/05/2020 21:21","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+566,503,"13/05/2020 21:27","Sometimes","Most of the time","About half the time","Clear and lively","",2,3,2,4,2,3,2,4,2,3,2,4
+567,1719,"13/05/2020 21:27","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+568,415,"13/05/2020 21:29","","","","","KH",3,4,2,3,1.5,2,1,1.5,1.5,2,1,1.5
+569,588,"13/05/2020 21:33","Sometimes","About half the time","About half the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+570,745,"13/05/2020 21:33","Most of the time","About half the time","Most of the time","Perfectly clear and lively as real seeing","",3,3,2,4,3,3,2,4,3,3,2,4
+571,2042,"13/05/2020 21:37","Sometimes","Sometimes","About half the time","Clear and lively","AM",8,6,8,8,4,3,4,4,4,3,4,4
+572,1411,"13/05/2020 21:37","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+573,1475,"13/05/2020 21:38","Sometimes","About half the time","About half the time","Clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+574,738,"13/05/2020 21:43","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+575,1051,"13/05/2020 21:47","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+576,981,"13/05/2020 21:55","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",2,3,1,3,2,3,1,3,2,3,1,3
+577,1253,"13/05/2020 22:04","Sometimes","About half the time","About half the time","Clear and lively","",7,4,4,3,7,4,4,3,7,4,4,3
+578,1027,"13/05/2020 22:07","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",1,1,1,4,1,1,1,4,1,1,1,4
+579,700,"13/05/2020 22:12","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","AM",1,2,2,3,0.5,1,1,1.5,0.5,1,1,1.5
+580,1031,"13/05/2020 22:16","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+581,906,"13/05/2020 22:18","Sometimes","Sometimes","Sometimes","Clear and lively","",3,5,5,5,3,5,5,5,3,5,5,5
+582,1037,"13/05/2020 22:19","About half the time","All/almost all of the time","Sometimes","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+583,1544,"13/05/2020 22:21","Sometimes","Not at all","Sometimes","Moderately clear and lively","CP",5,5,5,6,2.5,2.5,2.5,3,2.5,2.5,2.5,3
+584,5727,"13/05/2020 22:23","Sometimes","Most of the time","Most of the time","Clear and lively","LL",3,3,3,4,1.5,1.5,1.5,2,1.5,1.5,1.5,2
+585,4442,"13/05/2020 22:34","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",2,3,4,3,2,3,4,3,2,3,4,3
+586,1484,"13/05/2020 22:41","Sometimes","About half the time","Most of the time","Moderately clear and lively","LL",2,2,2,3,1,1,1,1.5,1,1,1,1.5
+587,968,"13/05/2020 22:44","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",2,1,2,3,2,1,2,3,2,1,2,3
+588,934,"13/05/2020 22:58","Sometimes","Not at all","Most of the time","No image at all, you only “know” that you are thinking of the object","",3,3,4,4,3,3,4,4,3,3,4,4
+589,8935,"13/05/2020 23:02","All/almost all of the time","Most of the time","Most of the time","Clear and lively","",6,3,4,3,6,3,4,3,6,3,4,3
+590,1160,"13/05/2020 23:04","Sometimes","About half the time","Most of the time","Clear and lively","",4,5,5,5,4,5,5,5,4,5,5,5
+591,571,"13/05/2020 23:06","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,1,2,1,0,1,2,1,0,1,2,1
+592,1105,"13/05/2020 23:08","About half the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",3,2,2,2,3,2,2,2,3,2,2,2
+593,1524,"13/05/2020 23:08","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",4,4,4,4,4,4,4,4,4,4,4,4
+594,2109,"13/05/2020 23:10","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","KH",3,5,4,4,1.5,2.5,2,2,1.5,2.5,2,2
+595,2206,"13/05/2020 23:13","Not at all","Sometimes","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+596,996,"13/05/2020 23:24","All/almost all of the time","Not at all","All/almost all of the time","Perfectly clear and lively as real seeing","",5,3,3,1,5,3,3,1,5,3,3,1
+597,1500,"13/05/2020 23:25","Sometimes","Sometimes","All/almost all of the time","Moderately clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+598,1002,"13/05/2020 23:26","Most of the time","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+599,1576,"13/05/2020 23:27","Not at all","Not at all","Sometimes","Clear and lively","",3,4,5,3,3,4,5,3,3,4,5,3
+600,3303,"13/05/2020 23:33","Sometimes","Sometimes","Sometimes","Clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+601,19356,"13/05/2020 23:36","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+602,1859,"13/05/2020 23:37","About half the time","Most of the time","Sometimes","Clear and lively","",6,3,3,3,6,3,3,3,6,3,3,3
+603,2092,"13/05/2020 23:40","Sometimes","Sometimes","Sometimes","Dim & vague, flat","AM",8,6,5,6,4,3,2.5,3,4,3,2.5,3
+604,934,"13/05/2020 23:42","Sometimes","Sometimes","Sometimes","Clear and lively","CP",7,5,5,7.5,3.5,2.5,2.5,3.75,3.5,2.5,2.5,3.75
+605,1999,"13/05/2020 23:42","Sometimes","Sometimes","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+606,1142,"13/05/2020 23:45","All/almost all of the time","All/almost all of the time","Not at all","No image at all, you only “know” that you are thinking of the object","CP",8,7,7,8,4,3.5,3.5,4,4,3.5,3.5,4
+607,1763,"13/05/2020 23:45","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",0,1,1,4,0,1,1,4,0,1,1,4
+608,15806,"13/05/2020 23:52","Not at all","About half the time","Most of the time","Moderately clear and lively","",2,2,2,5,2,2,2,5,2,2,2,5
+609,1266,"13/05/2020 23:54","Most of the time","Most of the time","About half the time","Clear and lively","",4,4,3,3,4,4,3,3,4,4,3,3
+610,1024,"13/05/2020 23:59","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,1,1,3,0,1,1,3,0,1,1,3
+611,661,"14/05/2020 0:04","Sometimes","About half the time","Sometimes","Dim & vague, flat","",3,3,2,3,3,3,2,3,3,3,2,3
+612,1662,"14/05/2020 0:07","Not at all","Sometimes","Sometimes","Moderately clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+613,1264,"14/05/2020 0:07","Sometimes","Sometimes","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+614,846,"14/05/2020 0:16","Sometimes","Sometimes","Sometimes","Clear and lively","",2,2,3,2,2,2,3,2,2,2,3,2
+615,524,"14/05/2020 0:20","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,1,1,1,0,1,1,1,0,1,1,1
+616,1906,"14/05/2020 0:24","About half the time","Most of the time","Most of the time","Moderately clear and lively","KH",2,2,2,4,1,1,1,2,1,1,1,2
+617,1099,"14/05/2020 0:29","Most of the time","Sometimes","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+618,582,"14/05/2020 0:30","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+619,1806,"14/05/2020 0:32","About half the time","About half the time","Sometimes","Moderately clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+620,5240,"14/05/2020 0:34","Sometimes","Most of the time","About half the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+621,869,"14/05/2020 0:39","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",5,5,5,4,5,5,5,4,5,5,5,4
+622,6866,"14/05/2020 0:47","Most of the time","Most of the time","Most of the time","Moderately clear and lively","AM",4,6,7,8,2,3,3.5,4,2,3,3.5,4
+623,2342,"14/05/2020 0:53","Most of the time","About half the time","All/almost all of the time","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+624,1398,"14/05/2020 1:02","Sometimes","About half the time","Most of the time","Moderately clear and lively","",4,5,5,4,4,5,5,4,4,5,5,4
+625,1024,"14/05/2020 1:06","Not at all","Not at all","Most of the time","Clear and lively","",9,4,4,4,9,4,4,4,9,4,4,4
+626,632,"14/05/2020 1:10","About half the time","About half the time","About half the time","Moderately clear and lively","LL",1,2,1,3,0.5,1,0.5,1.5,0.5,1,0.5,1.5
+627,1200,"14/05/2020 1:19","About half the time","Most of the time","About half the time","Clear and lively","KH",3,3,4,3,1.5,1.5,2,1.5,1.5,1.5,2,1.5
+628,1004,"14/05/2020 1:22","Sometimes","Sometimes","Most of the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+629,5611,"14/05/2020 1:22","Not at all","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","JL",11,8,7,8,5.5,4,3.5,4,5.5,4,3.5,4
+630,963,"14/05/2020 1:46","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+631,1508,"14/05/2020 1:50","About half the time","About half the time","Most of the time","Moderately clear and lively","KH",3,3,2,3,1.5,1.5,1,1.5,1.5,1.5,1,1.5
+632,375,"14/05/2020 1:53","About half the time","About half the time","About half the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+633,1993,"14/05/2020 1:57","Most of the time","Most of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+634,371,"14/05/2020 1:58","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",2,4,3,3,2,4,3,3,2,4,3,3
+635,1718,"14/05/2020 2:09","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,1,1,3,0,1,1,3,0,1,1,3
+636,4727,"14/05/2020 2:13","Not at all","Sometimes","Sometimes","Moderately clear and lively","",4,5,5,5,4,5,5,5,4,5,5,5
+637,1532,"14/05/2020 2:14","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+638,4746,"14/05/2020 2:19","Most of the time","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",2,4,3,3,2,4,3,3,2,4,3,3
+639,7922,"14/05/2020 2:20","Most of the time","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+640,2486,"14/05/2020 2:25","Sometimes","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+641,1781,"14/05/2020 2:29","Sometimes","Most of the time","Sometimes","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+642,693,"14/05/2020 2:30","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",1,1,1,3,1,1,1,3,1,1,1,3
+643,1672,"14/05/2020 2:32","Most of the time","Most of the time","Most of the time","Clear and lively","",5,3,4,3,5,3,4,3,5,3,4,3
+644,2851,"14/05/2020 2:42","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",4,3,3,4,4,3,3,4,4,3,3,4
+645,1276,"14/05/2020 2:47","Sometimes","All/almost all of the time","All/almost all of the time","Clear and lively","",2,3,2,5,2,3,2,5,2,3,2,5
+646,2654,"14/05/2020 2:48","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",7,5,5,4,7,5,5,4,7,5,5,4
+647,1018,"14/05/2020 2:50","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+648,114,"14/05/2020 2:50","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+649,1525,"14/05/2020 2:53","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+650,946,"14/05/2020 2:57","About half the time","Sometimes","Sometimes","Moderately clear and lively","JL",6,6,6,6,3,3,3,3,3,3,3,3
+651,822,"14/05/2020 2:59","Most of the time","Most of the time","About half the time","Moderately clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+652,930,"14/05/2020 3:09","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+653,2049,"14/05/2020 3:12","Not at all","All/almost all of the time","Most of the time","Clear and lively","JL",4,6,5,6,2,3,2.5,3,2,3,2.5,3
+654,2091,"14/05/2020 3:13","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+655,8002,"14/05/2020 3:16","Sometimes","Sometimes","Not at all","Moderately clear and lively","AM",8,8,6,7,4,4,3,3.5,4,4,3,3.5
+656,562,"14/05/2020 3:27","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+657,1034,"14/05/2020 3:31","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+658,2880,"14/05/2020 3:35","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",8,4,5,4,8,4,5,4,8,4,5,4
+659,23886,"14/05/2020 3:37","Not at all","Sometimes","All/almost all of the time","Dim & vague, flat","",1,3,2,5,1,3,2,5,1,3,2,5
+660,541,"14/05/2020 3:41","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","KH",0,1,1,3,0,0.5,0.5,1.5,0,0.5,0.5,1.5
+661,3173,"14/05/2020 3:44","About half the time","About half the time","Most of the time","Moderately clear and lively","JL",7,6,8,7,3.5,3,4,3.5,3.5,3,4,3.5
+662,1168,"14/05/2020 3:44","Sometimes","Sometimes","About half the time","Moderately clear and lively","",2,3,2,4,2,3,2,4,2,3,2,4
+663,2310,"14/05/2020 3:45","Not at all","Not at all","About half the time","Perfectly clear and lively as real seeing","JS",0,0,0,0,0,0,0,0,0,0,0,0
+664,736,"14/05/2020 3:46","Sometimes","All/almost all of the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+665,6850,"14/05/2020 3:46","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",3,4,3,4,3,4,3,4,3,4,3,4
+666,4823,"14/05/2020 3:48","Sometimes","Most of the time","About half the time","Moderately clear and lively","",2,4,5,3,2,4,5,3,2,4,5,3
+667,65,"14/05/2020 3:51","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+668,2686,"14/05/2020 3:53","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",2,4,4,4,2,4,4,4,2,4,4,4
+669,1247,"14/05/2020 3:56","","","","","KH",0,0,0,0,0,0,0,0,0,0,0,0
+670,694,"14/05/2020 4:06","All/almost all of the time","Most of the time","Sometimes","Perfectly clear and lively as real seeing","KH",2,3,2,4,1,1.5,1,2,1,1.5,1,2
+671,1366,"14/05/2020 4:15","About half the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",7,4,3,3,7,4,3,3,7,4,3,3
+672,2137,"14/05/2020 4:22","Sometimes","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",5,4,3,3,5,4,3,3,5,4,3,3
+673,989,"14/05/2020 4:27","Most of the time","Most of the time","About half the time","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+674,2512,"14/05/2020 4:34","About half the time","Most of the time","Most of the time","Clear and lively","",7,5,5,5,7,5,5,5,7,5,5,5
+675,2869,"14/05/2020 4:37","Sometimes","Most of the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+676,2622,"14/05/2020 4:39","About half the time","Most of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+677,1658,"14/05/2020 4:40","Not at all","About half the time","About half the time","No image at all, you only “know” that you are thinking of the object","",4,4,4,3,4,4,4,3,4,4,4,3
+678,2851,"14/05/2020 4:52","Sometimes","Sometimes","About half the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+679,1613,"14/05/2020 5:02","Not at all","Sometimes","Not at all","Dim & vague, flat","",5,3,3,3,5,3,3,3,5,3,3,3
+680,15116,"14/05/2020 5:03","About half the time","About half the time","Most of the time","Dim & vague, flat","LL",0,0,0,0,0,0,0,0,0,0,0,0
+681,2625,"14/05/2020 5:09","Not at all","Sometimes","Sometimes","Clear and lively","JL",2,6,6,8,1,3,3,4,1,3,3,4
+682,1784,"14/05/2020 5:11","Not at all","Sometimes","Sometimes","Dim & vague, flat","",3,2,2,3,3,2,2,3,3,2,2,3
+683,1509,"14/05/2020 5:20","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+684,1582,"14/05/2020 5:25","Sometimes","About half the time","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+685,1184,"14/05/2020 5:29","Sometimes","All/almost all of the time","Sometimes","Clear and lively","",6,4,3,3,6,4,3,3,6,4,3,3
+686,2155,"14/05/2020 5:38","Sometimes","Not at all","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+687,1005,"14/05/2020 5:41","About half the time","Sometimes","Most of the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+688,1299,"14/05/2020 5:48","Sometimes","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JS",3,3,3,4,1.5,1.5,1.5,2,1.5,1.5,1.5,2
+689,571,"14/05/2020 5:52","About half the time","Most of the time","Most of the time","Clear and lively","AM",3,3,2,4,1.5,1.5,1,2,1.5,1.5,1,2
+690,1717,"14/05/2020 5:58","Most of the time","Most of the time","Sometimes","Clear and lively","CP",6,7,6,6,3,3.5,3,3,3,3.5,3,3
+691,633,"14/05/2020 6:03","About half the time","Sometimes","About half the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+692,1252,"14/05/2020 6:04","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+693,445,"14/05/2020 6:10","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+694,1276,"14/05/2020 6:12","Sometimes","Not at all","Most of the time","Clear and lively","",1,3,2,5,1,3,2,5,1,3,2,5
+695,1988,"14/05/2020 6:17","Sometimes","About half the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,3,4,3,2,3,4,3,2,3,4,3
+696,814,"14/05/2020 6:50","About half the time","Most of the time","Not at all","No image at all, you only “know” that you are thinking of the object","",4,3,3,2,4,3,3,2,4,3,3,2
+697,1380,"14/05/2020 6:56","About half the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+698,895,"14/05/2020 6:59","Most of the time","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",2,3,2,3,2,3,2,3,2,3,2,3
+699,1427,"14/05/2020 7:30","About half the time","Most of the time","Most of the time","Moderately clear and lively","JL",4,6,5,6,2,3,2.5,3,2,3,2.5,3
+700,880,"14/05/2020 7:42","Not at all","Sometimes","Most of the time","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+701,956,"14/05/2020 8:15","Sometimes","Sometimes","About half the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+702,2545,"14/05/2020 8:41","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",5,3,4,5,5,3,4,5,5,3,4,5
+703,1609,"14/05/2020 10:34","Most of the time","Most of the time","Most of the time","Clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+704,62459,"14/05/2020 11:16","About half the time","About half the time","Most of the time","Moderately clear and lively","JS",3,4,4,3,1.5,2,2,1.5,1.5,2,2,1.5
+705,1999,"14/05/2020 12:34","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","AM",11,9,9,10,5.5,4.5,4.5,5,5.5,4.5,4.5,5
+706,1570,"14/05/2020 13:53","Sometimes","Sometimes","Sometimes","Clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+707,1203,"14/05/2020 14:05","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,1,1,2,1,1,1,2,1,1,1,2
+708,765,"14/05/2020 14:17","Sometimes","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","AM",5,7,4,7,2.5,3.5,2,3.5,2.5,3.5,2,3.5
+709,1605,"14/05/2020 14:32","Sometimes","Most of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+710,1125,"14/05/2020 14:53","Not at all","All/almost all of the time","All/almost all of the time","Clear and lively","",6,4,4,3,6,4,4,3,6,4,4,3
+711,1626,"14/05/2020 15:20","About half the time","Sometimes","About half the time","Moderately clear and lively","JL",6,7,6,6,3,3.5,3,3,3,3.5,3,3
+712,3586,"14/05/2020 15:32","Most of the time","Most of the time","Sometimes","Perfectly clear and lively as real seeing","",3,4,4,3,3,4,4,3,3,4,4,3
+713,204122,"14/05/2020 15:32","Sometimes","Sometimes","About half the time","Moderately clear and lively","",8,4,3,3,8,4,3,3,8,4,3,3
+714,921,"14/05/2020 15:34","Not at all","Most of the time","About half the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+715,2170,"14/05/2020 15:36","Most of the time","All/almost all of the time","About half the time","Moderately clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+716,559,"14/05/2020 15:46","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","LL",0,0,0,0,0,0,0,0,0,0,0,0
+717,745,"14/05/2020 16:03","Sometimes","Sometimes","Sometimes","Clear and lively","",4,2,3,4,4,2,3,4,4,2,3,4
+718,651,"14/05/2020 16:07","Not at all","Sometimes","Sometimes","Clear and lively","",0,1,1,1,0,1,1,1,0,1,1,1
+719,555,"14/05/2020 16:08","Not at all","About half the time","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",3,3,4,3,3,3,4,3,3,3,4,3
+720,1155,"14/05/2020 16:10","Most of the time","Most of the time","Sometimes","Clear and lively","",5,2,2,3,5,2,2,3,5,2,2,3
+721,1054,"14/05/2020 16:20","Most of the time","Most of the time","All/almost all of the time","Dim & vague, flat","",4,3,3,4,4,3,3,4,4,3,3,4
+722,1315,"14/05/2020 16:23","Most of the time","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+723,703,"14/05/2020 16:25","Sometimes","Most of the time","Most of the time","Clear and lively","JL",4,7,7,6,2,3.5,3.5,3,2,3.5,3.5,3
+724,1147,"14/05/2020 16:25","Sometimes","About half the time","Sometimes","Clear and lively","AM",6,6,5,7,3,3,2.5,3.5,3,3,2.5,3.5
+725,1921,"14/05/2020 16:26","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",4,3,4,5,4,3,4,5,4,3,4,5
+726,590,"14/05/2020 16:35","Not at all","Not at all","Not at all","Moderately clear and lively","KH",5,3,2,3,2.5,1.5,1,1.5,2.5,1.5,1,1.5
+727,529,"14/05/2020 16:49","Sometimes","Sometimes","About half the time","No image at all, you only “know” that you are thinking of the object","",2,3,2,3,2,3,2,3,2,3,2,3
+728,643,"14/05/2020 16:50","About half the time","About half the time","About half the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+729,1196,"14/05/2020 16:54","Not at all","Most of the time","Sometimes","Moderately clear and lively","",3,3,2,5,3,3,2,5,3,3,2,5
+730,805,"14/05/2020 16:57","Sometimes","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,3,1,3,2,3,1,3,2,3,1,3
+731,9988,"14/05/2020 16:58","All/almost all of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+732,497,"14/05/2020 17:02","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","LL",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+733,829,"14/05/2020 17:10","About half the time","About half the time","About half the time","Clear and lively","",1,4,3,3,1,4,3,3,1,4,3,3
+734,1708,"14/05/2020 17:11","Most of the time","Most of the time","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+735,757,"14/05/2020 17:15","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",1,2,2,4,1,2,2,4,1,2,2,4
+736,1140,"14/05/2020 17:19","Sometimes","All/almost all of the time","Most of the time","Clear and lively","JL",2,3,4,3,1,1.5,2,1.5,1,1.5,2,1.5
+737,4286,"14/05/2020 17:19","Most of the time","About half the time","All/almost all of the time","Moderately clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+738,1224,"14/05/2020 17:23","Most of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",2,3,4,3,2,3,4,3,2,3,4,3
+739,1060,"14/05/2020 17:28","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+740,1140,"14/05/2020 17:33","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",4,3,3,2,4,3,3,2,4,3,3,2
+741,2531,"14/05/2020 17:34","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+742,1616,"14/05/2020 17:35","About half the time","About half the time","Most of the time","Moderately clear and lively","",6,4,5,4,6,4,5,4,6,4,5,4
+743,855,"14/05/2020 17:38","About half the time","About half the time","Sometimes","Moderately clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+744,1220,"14/05/2020 17:41","About half the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+745,1766,"14/05/2020 17:42","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",4,4,4,3,4,4,4,3,4,4,4,3
+746,960,"14/05/2020 17:45","Sometimes","About half the time","Sometimes","Clear and lively","",3,4,4,5,3,4,4,5,3,4,4,5
+747,779,"14/05/2020 17:52","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",2,2,1,3,2,2,1,3,2,2,1,3
+748,933,"14/05/2020 17:53","Most of the time","Most of the time","Most of the time","Moderately clear and lively","CP",5,4,4,6,2.5,2,2,3,2.5,2,2,3
+749,1101,"14/05/2020 17:53","Sometimes","Sometimes","Not at all","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+750,808,"14/05/2020 17:58","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",6,5,5,3,6,5,5,3,6,5,5,3
+751,1854,"14/05/2020 18:00","Sometimes","Sometimes","Most of the time","Moderately clear and lively","JL",3,3,4,3,1.5,1.5,2,1.5,1.5,1.5,2,1.5
+752,2677,"14/05/2020 18:01","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+753,796,"14/05/2020 18:06","Sometimes","About half the time","Not at all","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+754,653,"14/05/2020 18:11","Most of the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+755,11839,"14/05/2020 18:12","About half the time","About half the time","Sometimes","Dim & vague, flat","",3,3,3,3,3,3,3,3,3,3,3,3
+756,687,"14/05/2020 18:14","Sometimes","Sometimes","About half the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+757,5639,"14/05/2020 18:15","Not at all","About half the time","Most of the time","Moderately clear and lively","CP",4,2,2,2,2,1,1,1,2,1,1,1
+758,693,"14/05/2020 18:16","Sometimes","Most of the time","About half the time","Moderately clear and lively","",4,3,4,3,4,3,4,3,4,3,4,3
+759,1001,"14/05/2020 18:18","All/almost all of the time","Sometimes","All/almost all of the time","Clear and lively","",1,2,2,4,1,2,2,4,1,2,2,4
+760,762,"14/05/2020 18:23","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",5,3,2,3,5,3,2,3,5,3,2,3
+761,1685,"14/05/2020 18:25","About half the time","Most of the time","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+762,5209,"14/05/2020 18:31","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,4,5,5,2,4,5,5,2,4,5,5
+763,1406,"14/05/2020 18:35","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+764,1278,"14/05/2020 18:39","Not at all","All/almost all of the time","Not at all","Moderately clear and lively","",2,4,3,3,2,4,3,3,2,4,3,3
+765,1336,"14/05/2020 18:40","Sometimes","About half the time","Most of the time","Clear and lively","AM",2,5,4,7,1,2.5,2,3.5,1,2.5,2,3.5
+766,506,"14/05/2020 18:41","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+767,1201,"14/05/2020 18:41","Most of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",6,4,4,3,6,4,4,3,6,4,4,3
+768,1058,"14/05/2020 18:46","Most of the time","About half the time","Not at all","Dim & vague, flat","",1,3,3,3,1,3,3,3,1,3,3,3
+769,2848,"14/05/2020 18:53","Not at all","Sometimes","Not at all","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+770,753,"14/05/2020 18:54","About half the time","Most of the time","About half the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+771,1301,"14/05/2020 18:56","Sometimes","About half the time","About half the time","Moderately clear and lively","",2,4,4,4,2,4,4,4,2,4,4,4
+772,1176,"14/05/2020 19:23","Sometimes","Sometimes","All/almost all of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+773,1944,"14/05/2020 19:31","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+774,744,"14/05/2020 19:35","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+775,907,"14/05/2020 19:39","Most of the time","All/almost all of the time","Sometimes","Clear and lively","KH",3,3,3,4,1.5,1.5,1.5,2,1.5,1.5,1.5,2
+776,10906,"14/05/2020 19:40","About half the time","About half the time","Most of the time","Clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+777,1346,"14/05/2020 19:44","About half the time","Sometimes","About half the time","Clear and lively","",2,3,3,5,2,3,3,5,2,3,3,5
+778,701,"14/05/2020 19:48","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+779,1910,"14/05/2020 19:50","Most of the time","All/almost all of the time","Not at all","Perfectly clear and lively as real seeing","",5,5,4,4,5,5,4,4,5,5,4,4
+780,760,"14/05/2020 19:51","Not at all","Most of the time","Most of the time","Clear and lively","KH",4,3,4,3,2,1.5,2,1.5,2,1.5,2,1.5
+781,819,"14/05/2020 19:53","About half the time","All/almost all of the time","All/almost all of the time","Clear and lively","",3,2,2,1,3,2,2,1,3,2,2,1
+782,1351,"14/05/2020 19:53","Sometimes","About half the time","About half the time","Moderately clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+783,1312,"14/05/2020 19:55","Not at all","Not at all","About half the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+784,2818,"14/05/2020 19:56","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",5,5,5,5,5,5,5,5,5,5,5,5
+785,803,"14/05/2020 19:57","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,2,3,1,2,2,3,1,2,2,3
+786,983,"14/05/2020 19:59","Sometimes","Most of the time","Sometimes","Dim & vague, flat","KH",2,2,2,2,1,1,1,1,1,1,1,1
+787,773,"14/05/2020 20:04","","","","","",0,1,1,4,0,1,1,4,0,1,1,4
+788,738,"14/05/2020 20:04","Not at all","Most of the time","Sometimes","Clear and lively","",2,4,3,3,2,4,3,3,2,4,3,3
+789,2752,"14/05/2020 20:08","Sometimes","Most of the time","About half the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+790,6387,"14/05/2020 20:10","Sometimes","About half the time","Sometimes","Clear and lively","",2,2,3,2,2,2,3,2,2,2,3,2
+791,529,"14/05/2020 20:15","All/almost all of the time","Sometimes","Most of the time","Clear and lively","",3,5,4,3,3,5,4,3,3,5,4,3
+792,1102,"14/05/2020 20:21","About half the time","All/almost all of the time","Most of the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+793,1089,"14/05/2020 20:29","Not at all","Sometimes","Most of the time","Clear and lively","LL",2,3,2,4,1,1.5,1,2,1,1.5,1,2
+794,2100,"14/05/2020 20:36","About half the time","Not at all","Sometimes","Moderately clear and lively","CP",10,8,7,6,5,4,3.5,3,5,4,3.5,3
+795,859,"14/05/2020 20:36","Sometimes","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",2,3,4,3,2,3,4,3,2,3,4,3
+796,1572,"14/05/2020 20:37","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+797,1070,"14/05/2020 20:41","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",2,3,3,4,2,3,3,4,2,3,3,4
+798,1008,"14/05/2020 20:45","Sometimes","Sometimes","Most of the time","Dim & vague, flat","CP",6,6,5,7,3,3,2.5,3.5,3,3,2.5,3.5
+799,891,"14/05/2020 20:46","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+800,3504,"14/05/2020 20:48","Most of the time","Sometimes","Sometimes","Moderately clear and lively","CP",9,6,7,8,4.5,3,3.5,4,4.5,3,3.5,4
+801,2454,"14/05/2020 20:56","Most of the time","About half the time","About half the time","Moderately clear and lively","",1,1,1,3,1,1,1,3,1,1,1,3
+802,1139,"14/05/2020 21:00","Most of the time","Sometimes","All/almost all of the time","Perfectly clear and lively as real seeing","",1,1,1,1,1,1,1,1,1,1,1,1
+803,566,"14/05/2020 21:03","About half the time","About half the time","Sometimes","Dim & vague, flat","JL",5,7,6,6,2.5,3.5,3,3,2.5,3.5,3,3
+804,4689,"14/05/2020 21:04","All/almost all of the time","All/almost all of the time","Not at all","Perfectly clear and lively as real seeing","",2,4,4,4,2,4,4,4,2,4,4,4
+805,1980,"14/05/2020 21:06","Most of the time","All/almost all of the time","Most of the time","Clear and lively","",8,5,5,4,8,5,5,4,8,5,5,4
+806,840,"14/05/2020 21:18","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",6,4,3,4,6,4,3,4,6,4,3,4
+807,1303,"14/05/2020 21:24","Sometimes","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+808,1401,"14/05/2020 21:28","Most of the time","Most of the time","Sometimes","Moderately clear and lively","CP",8,6,6,7,4,3,3,3.5,4,3,3,3.5
+809,764,"14/05/2020 21:44","About half the time","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",10,3,4,2,10,3,4,2,10,3,4,2
+810,3259,"14/05/2020 21:50","Sometimes","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",3,2,3,1,3,2,3,1,3,2,3,1
+811,949,"14/05/2020 21:51","Not at all","Most of the time","About half the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+812,2041,"14/05/2020 21:51","Most of the time","Most of the time","About half the time","Perfectly clear and lively as real seeing","KH",6,3,3,3,3,1.5,1.5,1.5,3,1.5,1.5,1.5
+813,1559,"14/05/2020 21:57","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+814,1550,"14/05/2020 21:58","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,2,2,1,2,2,2,1,2,2,2,1
+815,1665,"14/05/2020 21:59","About half the time","Most of the time","All/almost all of the time","Moderately clear and lively","",4,3,1,3,4,3,1,3,4,3,1,3
+816,1237,"14/05/2020 22:00","Sometimes","About half the time","About half the time","Perfectly clear and lively as real seeing","CP",7,7,7,9,3.5,3.5,3.5,4.5,3.5,3.5,3.5,4.5
+817,1904,"14/05/2020 22:03","About half the time","Sometimes","Sometimes","Moderately clear and lively","",1,1,1,3,1,1,1,3,1,1,1,3
+818,624,"14/05/2020 22:06","About half the time","Most of the time","Sometimes","Moderately clear and lively","",1,4,4,4,1,4,4,4,1,4,4,4
+819,765,"14/05/2020 22:06","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",6,2,2,3,6,2,2,3,6,2,2,3
+820,2035,"14/05/2020 22:11","Sometimes","Sometimes","All/almost all of the time","Perfectly clear and lively as real seeing","",12,4,4,4,12,4,4,4,12,4,4,4
+821,4236,"14/05/2020 22:13","Most of the time","All/almost all of the time","Most of the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+822,581,"14/05/2020 22:14","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+823,1799,"14/05/2020 22:15","Sometimes","Sometimes","Sometimes","Moderately clear and lively","LL",19,4,4,4,9.5,2,2,2,9.5,2,2,2
+824,72576,"14/05/2020 22:29","Most of the time","Most of the time","Sometimes","Dim & vague, flat","JL",6,6,5,8,3,3,2.5,4,3,3,2.5,4
+825,2185,"14/05/2020 22:31","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",2,3,5,2,2,3,5,2,2,3,5,2
+826,968,"14/05/2020 22:33","About half the time","Most of the time","About half the time","Moderately clear and lively","AM",4,6,6,7,2,3,3,3.5,2,3,3,3.5
+827,1722,"14/05/2020 22:33","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",1,1,1,4,1,1,1,4,1,1,1,4
+828,2002,"14/05/2020 22:47","About half the time","Most of the time","Most of the time","Moderately clear and lively","",4,5,5,5,4,5,5,5,4,5,5,5
+829,4308,"14/05/2020 22:55","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+830,511,"14/05/2020 23:08","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",4,3,2,3,4,3,2,3,4,3,2,3
+831,1812,"14/05/2020 23:09","Sometimes","Sometimes","Sometimes","Clear and lively","",1,4,4,4,1,4,4,4,1,4,4,4
+832,3473,"14/05/2020 23:24","Sometimes","Most of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",6,3,5,2,6,3,5,2,6,3,5,2
+833,415,"14/05/2020 23:27","All/almost all of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+834,955,"14/05/2020 23:35","All/almost all of the time","All/almost all of the time","Sometimes","Clear and lively","",2,2,2,3,2,2,2,3,2,2,2,3
+835,2412,"14/05/2020 23:37","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",3,3,4,3,3,3,4,3,3,3,4,3
+836,1506,"14/05/2020 23:45","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,3,3,3,2,3,3,3,2,3,3,3
+837,875,"14/05/2020 23:51","Most of the time","Most of the time","Sometimes","Perfectly clear and lively as real seeing","",0,1,1,3,0,1,1,3,0,1,1,3
+838,1072,"14/05/2020 23:51","About half the time","All/almost all of the time","Sometimes","Clear and lively","",1,1,1,3,1,1,1,3,1,1,1,3
+839,17099,"14/05/2020 23:52","About half the time","All/almost all of the time","Sometimes","Moderately clear and lively","",5,3,2,3,5,3,2,3,5,3,2,3
+840,580,"14/05/2020 23:53","About half the time","Most of the time","Not at all","Perfectly clear and lively as real seeing","",2,3,4,3,2,3,4,3,2,3,4,3
+841,1456,"15/05/2020 0:01","About half the time","Most of the time","Sometimes","Clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+842,1027,"15/05/2020 0:03","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+843,7041,"15/05/2020 0:04","Sometimes","About half the time","Sometimes","Clear and lively","",3,2,2,4,3,2,2,4,3,2,2,4
+844,750,"15/05/2020 0:09","Sometimes","Most of the time","All/almost all of the time","Moderately clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+845,622,"15/05/2020 0:10","Not at all","Not at all","Not at all","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+846,819,"15/05/2020 0:12","About half the time","Most of the time","Most of the time","Moderately clear and lively","AM",4,5,6,7,2,2.5,3,3.5,2,2.5,3,3.5
+847,988,"15/05/2020 0:12","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",3,4,4,3,3,4,4,3,3,4,4,3
+848,1155,"15/05/2020 0:14","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,2,3,3,2,2,3,3,2,2,3,3
+849,1174,"15/05/2020 0:15","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,4,4,3,2,4,4,3,2,4,4,3
+850,1648,"15/05/2020 0:15","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","AM",7,4,3,6,3.5,2,1.5,3,3.5,2,1.5,3
+851,33511,"15/05/2020 0:17","Sometimes","About half the time","Sometimes","Clear and lively","",4,4,2,3,4,4,2,3,4,4,2,3
+852,845,"15/05/2020 0:20","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",1,2,1,3,1,2,1,3,1,2,1,3
+853,2614,"15/05/2020 0:23","Not at all","About half the time","Not at all","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+854,1055,"15/05/2020 0:27","","","","","",1,2,1,4,1,2,1,4,1,2,1,4
+855,1935,"15/05/2020 0:31","Sometimes","Most of the time","Sometimes","Perfectly clear and lively as real seeing","JL",6,7,7,6,3,3.5,3.5,3,3,3.5,3.5,3
+856,1610,"15/05/2020 0:31","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",6,5,5,4,6,5,5,4,6,5,5,4
+857,372,"15/05/2020 0:32","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+858,619,"15/05/2020 0:38","Not at all","Sometimes","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",4,3,2,3,4,3,2,3,4,3,2,3
+859,1728,"15/05/2020 0:41","About half the time","Most of the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+860,310,"15/05/2020 0:43","All/almost all of the time","All/almost all of the time","Not at all","Clear and lively","JL",4,5,5,6,2,2.5,2.5,3,2,2.5,2.5,3
+861,1464,"15/05/2020 0:47","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,3,4,3,2,3,4,3,2,3,4,3
+862,692,"15/05/2020 0:49","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,1,3,1,2,1,3,1,2,1,3
+863,1289,"15/05/2020 0:55","Not at all","About half the time","Most of the time","Moderately clear and lively","",0,1,1,3,0,1,1,3,0,1,1,3
+864,2161,"15/05/2020 0:59","Not at all","Most of the time","Most of the time","Clear and lively","",8,5,5,5,8,5,5,5,8,5,5,5
+865,1630,"15/05/2020 0:59","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,3,4,2,2,3,4,2,2,3,4,2
+866,1834,"15/05/2020 1:03","Most of the time","All/almost all of the time","About half the time","Perfectly clear and lively as real seeing","",4,4,4,5,4,4,4,5,4,4,4,5
+867,2565,"15/05/2020 1:04","Not at all","About half the time","About half the time","Moderately clear and lively","",1,3,2,4,1,3,2,4,1,3,2,4
+868,2679,"15/05/2020 1:14","About half the time","All/almost all of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+869,3260,"15/05/2020 1:27","About half the time","Most of the time","Most of the time","Clear and lively","",9,4,4,4,9,4,4,4,9,4,4,4
+870,7275,"15/05/2020 1:41","Not at all","Sometimes","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+871,857,"15/05/2020 1:58","Sometimes","About half the time","Not at all","No image at all, you only “know” that you are thinking of the object","",0,1,1,3,0,1,1,3,0,1,1,3
+872,673,"15/05/2020 1:58","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,1,3,1,2,1,3,1,2,1,3
+873,1857,"15/05/2020 2:02","Not at all","Most of the time","Most of the time","Moderately clear and lively","",2,2,2,2.5,2,2,2,2.5,2,2,2,2.5
+874,2100,"15/05/2020 2:14","Sometimes","About half the time","Sometimes","Dim & vague, flat","",6,2,4,3,6,2,4,3,6,2,4,3
+875,1855,"15/05/2020 2:19","About half the time","About half the time","About half the time","Clear and lively","",2,4,5,4,2,4,5,4,2,4,5,4
+876,1585,"15/05/2020 2:25","Not at all","Sometimes","Sometimes","Dim & vague, flat","",2,3,3,3,2,3,3,3,2,3,3,3
+877,577,"15/05/2020 2:25","Not at all","All/almost all of the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+878,602,"15/05/2020 2:29","Not at all","Not at all","Not at all","","",0,0,0,0,0,0,0,0,0,0,0,0
+879,1157,"15/05/2020 2:30","Not at all","Sometimes","Not at all","Moderately clear and lively","",5,3,3,3,5,3,3,3,5,3,3,3
+880,810,"15/05/2020 2:30","About half the time","Sometimes","About half the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+881,1096,"15/05/2020 2:39","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",5,5,5,3,5,5,5,3,5,5,5,3
+882,1287,"15/05/2020 2:43","Not at all","All/almost all of the time","Most of the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+883,967,"15/05/2020 2:45","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","AM",2,4,2,6,1,2,1,3,1,2,1,3
+884,25985,"15/05/2020 3:03","Sometimes","Most of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+885,35439,"15/05/2020 3:09","Not at all","Not at all","","","",0,0,0,0,0,0,0,0,0,0,0,0
+886,1266,"15/05/2020 3:09","Not at all","Sometimes","Sometimes","Moderately clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+887,2977,"15/05/2020 3:11","Not at all","Not at all","Sometimes","Clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+888,2874,"15/05/2020 3:12","Sometimes","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+889,951,"15/05/2020 3:13","Sometimes","Sometimes","Sometimes","Moderately clear and lively","KH",1,3,2,3,0.5,1.5,1,1.5,0.5,1.5,1,1.5
+890,911,"15/05/2020 3:14","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",1,4,4,4,1,4,4,4,1,4,4,4
+891,2023,"15/05/2020 3:17","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",4,3,3,3,4,3,3,3,4,3,3,3
+892,32674,"15/05/2020 3:18","Most of the time","Most of the time","Most of the time","Dim & vague, flat","",2,3,3,3,2,3,3,3,2,3,3,3
+893,1321,"15/05/2020 3:20","Not at all","Most of the time","All/almost all of the time","Dim & vague, flat","",2,3,3,3,2,3,3,3,2,3,3,3
+894,1005,"15/05/2020 3:25","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+895,2180,"15/05/2020 3:27","Sometimes","Most of the time","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+896,14147,"15/05/2020 3:28","Sometimes","Sometimes","Most of the time","Clear and lively","",2,4,4,4,2,4,4,4,2,4,4,4
+897,1703,"15/05/2020 3:34","Sometimes","Most of the time","About half the time","Moderately clear and lively","",3,4,3,3,3,4,3,3,3,4,3,3
+898,849,"15/05/2020 3:43","Not at all","Most of the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+899,1857,"15/05/2020 4:08","Most of the time","About half the time","Sometimes","Clear and lively","JS",4,3,2,4,2,1.5,1,2,2,1.5,1,2
+900,734,"15/05/2020 4:16","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,3,3,3,1,3,3,3,1,3,3,3
+901,1121,"15/05/2020 4:18","Sometimes","Not at all","Most of the time","Dim & vague, flat","",3,4,4,3,3,4,4,3,3,4,4,3
+902,1684,"15/05/2020 4:24","About half the time","Most of the time","About half the time","Moderately clear and lively","JL",10,7,7,7,5,3.5,3.5,3.5,5,3.5,3.5,3.5
+903,67,"15/05/2020 4:29","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+904,2828,"15/05/2020 4:36","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",3,3,3,1,3,3,3,1,3,3,3,1
+905,2275,"15/05/2020 4:56","All/almost all of the time","Most of the time","Most of the time","Clear and lively","AM",2,6,4,7,1,3,2,3.5,1,3,2,3.5
+906,2682,"15/05/2020 5:02","Sometimes","Sometimes","Not at all","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+907,520,"15/05/2020 5:08","Most of the time","Most of the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+908,899,"15/05/2020 5:09","Sometimes","Most of the time","Sometimes","Dim & vague, flat","",3,3,2,3,3,3,2,3,3,3,2,3
+909,1633,"15/05/2020 5:23","About half the time","All/almost all of the time","Most of the time","Clear and lively","",8,5,5,5,8,5,5,5,8,5,5,5
+910,3128,"15/05/2020 5:25","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",2,4,4,4,2,4,4,4,2,4,4,4
+911,776,"15/05/2020 5:36","Sometimes","About half the time","Most of the time","Dim & vague, flat","",4,3,3,3,4,3,3,3,4,3,3,3
+912,1218,"15/05/2020 5:39","Not at all","Most of the time","Not at all","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+913,1912,"15/05/2020 5:49","Sometimes","Sometimes","Sometimes","Clear and lively","",1,3,4,3,1,3,4,3,1,3,4,3
+914,1774,"15/05/2020 5:56","Sometimes","All/almost all of the time","Most of the time","Clear and lively","KH",4,5,4,3,2,2.5,2,1.5,2,2.5,2,1.5
+915,2388,"15/05/2020 5:57","Not at all","Sometimes","Most of the time","Dim & vague, flat","",1,2,1,4,1,2,1,4,1,2,1,4
+916,1121,"15/05/2020 6:27","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+917,24238,"15/05/2020 6:34","About half the time","Sometimes","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+918,1401,"15/05/2020 6:45","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",1,2,3,3,1,2,3,3,1,2,3,3
+919,2135,"15/05/2020 6:45","About half the time","All/almost all of the time","Sometimes","Clear and lively","",8,4,5,3,8,4,5,3,8,4,5,3
+920,21099,"15/05/2020 7:05","Sometimes","Sometimes","Not at all","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+921,873,"15/05/2020 7:07","Most of the time","Most of the time","Most of the time","Clear and lively","JS",0,0,0,0,0,0,0,0,0,0,0,0
+922,2578,"15/05/2020 7:20","Sometimes","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",7,5,5,4,7,5,5,4,7,5,5,4
+923,23066,"15/05/2020 7:45","Most of the time","Most of the time","Most of the time","Clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+924,55131,"15/05/2020 10:02","Sometimes","Most of the time","About half the time","Moderately clear and lively","",5,5,5,5,5,5,5,5,5,5,5,5
+925,1088,"15/05/2020 14:31","About half the time","Most of the time","Most of the time","Clear and lively","",4,2,2,3,4,2,2,3,4,2,2,3
+926,1282,"15/05/2020 15:39","Sometimes","All/almost all of the time","All/almost all of the time","Clear and lively","AM",2,5,4,7,1,2.5,2,3.5,1,2.5,2,3.5
+927,127380,"15/05/2020 16:10","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","JL",2,4,3,5,1,2,1.5,2.5,1,2,1.5,2.5
+928,1593,"15/05/2020 16:13","Sometimes","About half the time","Most of the time","Moderately clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+929,1051,"15/05/2020 16:23","About half the time","About half the time","Not at all","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+930,1470,"15/05/2020 16:28","Not at all","About half the time","Not at all","Moderately clear and lively","",9,5,5,5,9,5,5,5,9,5,5,5
+931,551,"15/05/2020 16:29","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+932,951,"15/05/2020 17:25","Sometimes","Sometimes","Not at all","Moderately clear and lively","CP",7,6,6,6,3.5,3,3,3,3.5,3,3,3
+933,856,"15/05/2020 17:49","Sometimes","Most of the time","Sometimes","Dim & vague, flat","",5,4,5,5,5,4,5,5,5,4,5,5
+934,539,"15/05/2020 17:58","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+935,1214,"15/05/2020 18:08","About half the time","Most of the time","Most of the time","Clear and lively","",8,5,5,5,8,5,5,5,8,5,5,5
+936,55069,"15/05/2020 18:23","Sometimes","Sometimes","Sometimes","Moderately clear and lively","AM",6,6,5,6,3,3,2.5,3,3,3,2.5,3
+937,2222,"15/05/2020 18:36","Not at all","About half the time","Not at all","Moderately clear and lively","",5,4,4,4,5,4,4,4,5,4,4,4
+938,679,"15/05/2020 19:18","Not at all","Most of the time","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,5,4,4,3,5,4,4,3,5,4,4
+939,969,"15/05/2020 19:23","Not at all","About half the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+940,114912,"15/05/2020 19:55","Sometimes","Not at all","Not at all","Moderately clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+941,857,"15/05/2020 20:00","Not at all","Sometimes","Most of the time","Dim & vague, flat","",2,2,1,1,2,2,1,1,2,2,1,1
+942,1669,"15/05/2020 20:04","Not at all","Sometimes","Not at all","Dim & vague, flat","JL",4,7,4,6,2,3.5,2,3,2,3.5,2,3
+943,1845,"15/05/2020 20:05","Sometimes","Sometimes","All/almost all of the time","Dim & vague, flat","",5,4,4,4,5,4,4,4,5,4,4,4
+944,16030,"15/05/2020 20:15","About half the time","Most of the time","Not at all","Clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+945,1240,"15/05/2020 21:07","Sometimes","About half the time","About half the time","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+946,2295,"15/05/2020 21:34","Most of the time","Most of the time","Most of the time","Clear and lively","",4,5,4,3,4,5,4,3,4,5,4,3
+947,975,"15/05/2020 22:36","Most of the time","Most of the time","Sometimes","Moderately clear and lively","CP",6,3,3,3,3,1.5,1.5,1.5,3,1.5,1.5,1.5
+948,2844,"15/05/2020 22:49","Sometimes","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",4,2,2,3,4,2,2,3,4,2,2,3
+949,1417,"15/05/2020 23:36","Most of the time","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+950,740,"16/05/2020 0:11","Sometimes","About half the time","Sometimes","Moderately clear and lively","",5,3,3,3,5,3,3,3,5,3,3,3
+951,4395,"16/05/2020 0:12","Not at all","Most of the time","Not at all","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+952,3724,"16/05/2020 0:19","Sometimes","About half the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+953,1172,"16/05/2020 0:35","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",7,4,4,3,7,4,4,3,7,4,4,3
+954,1589,"16/05/2020 0:56","Not at all","Not at all","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",2,2,2,1,2,2,2,1,2,2,2,1
+955,867,"16/05/2020 1:29","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+956,1165,"16/05/2020 1:39","Sometimes","Not at all","About half the time","Moderately clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+957,824,"16/05/2020 1:51","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+958,1894,"16/05/2020 1:53","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",2,4,3,3,2,4,3,3,2,4,3,3
+959,1367,"16/05/2020 3:01","About half the time","About half the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+960,2610,"16/05/2020 3:10","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",0,0,0,0,0,0,0,0,0,0,0,0
+961,895,"16/05/2020 3:18","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+962,981,"16/05/2020 3:44","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JL",4,6,4,6,2,3,2,3,2,3,2,3
+963,233,"16/05/2020 4:13","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+964,198451,"16/05/2020 4:25","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",1,3,2,4,1,3,2,4,1,3,2,4
+965,77,"16/05/2020 4:31","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+966,1384,"16/05/2020 5:01","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,0,0,2,0,0,0,2,0,0,0,2
+967,1913,"16/05/2020 6:05","Sometimes","Sometimes","About half the time","Perfectly clear and lively as real seeing","",2,3,4,3,2,3,4,3,2,3,4,3
+968,2213,"16/05/2020 6:32","Sometimes","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",2,5,5,5,2,5,5,5,2,5,5,5
+969,1254,"16/05/2020 11:15","Most of the time","About half the time","Most of the time","Moderately clear and lively","JS",0,0,0,0,0,0,0,0,0,0,0,0
+970,3265,"16/05/2020 12:26","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,2,2,3,3,2,2,3,3,2,2,3
+971,1299,"16/05/2020 14:26","Not at all","Sometimes","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+972,1493,"16/05/2020 15:04","Sometimes","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+973,729,"16/05/2020 15:15","Not at all","About half the time","About half the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+974,1631,"16/05/2020 15:17","Most of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","KH",2,3,2,3,1,1.5,1,1.5,1,1.5,1,1.5
+975,716,"16/05/2020 15:24","Most of the time","All/almost all of the time","About half the time","Clear and lively","LL",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+976,2808,"16/05/2020 16:04","Sometimes","Sometimes","All/almost all of the time","Moderately clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+977,1070,"16/05/2020 16:42","Most of the time","Most of the time","Sometimes","Dim & vague, flat","",2,4,3,4,2,4,3,4,2,4,3,4
+978,1279,"16/05/2020 17:10","About half the time","About half the time","Sometimes","Clear and lively","",0,1,1,4,0,1,1,4,0,1,1,4
+979,2823,"16/05/2020 17:24","Not at all","Sometimes","Not at all","Clear and lively","",1,4,3,3,1,4,3,3,1,4,3,3
+980,728,"16/05/2020 17:31","About half the time","Most of the time","About half the time","Moderately clear and lively","",2,4,4,4,2,4,4,4,2,4,4,4
+981,601,"16/05/2020 17:36","Not at all","Sometimes","Not at all","No image at all, you only “know” that you are thinking of the object","",2,2,1,3,2,2,1,3,2,2,1,3
+982,2365,"16/05/2020 17:39","About half the time","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",8,4,4,3,8,4,4,3,8,4,4,3
+983,2131,"16/05/2020 17:45","Sometimes","About half the time","Sometimes","Moderately clear and lively","CP",4,6,7,6,2,3,3.5,3,2,3,3.5,3
+984,1650,"16/05/2020 17:48","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",5,3,2,3,5,3,2,3,5,3,2,3
+985,2197,"16/05/2020 17:54","Sometimes","Sometimes","Sometimes","Clear and lively","AM",8,8,8,7.5,4,4,4,3.75,4,4,4,3.75
+986,6091,"16/05/2020 18:06","Sometimes","Sometimes","Sometimes","Moderately clear and lively","KH",5,3,3,3,2.5,1.5,1.5,1.5,2.5,1.5,1.5,1.5
+987,1682,"16/05/2020 18:12","Sometimes","About half the time","Most of the time","Moderately clear and lively","",4,3,4,2,4,3,4,2,4,3,4,2
+988,1126,"16/05/2020 18:17","Most of the time","Most of the time","Most of the time","Clear and lively","CP",5,6,4,6,2.5,3,2,3,2.5,3,2,3
+989,1088,"16/05/2020 18:31","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,1,3,1,2,1,3,1,2,1,3
+990,868,"16/05/2020 19:42","All/almost all of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",1,4,4,3,1,4,4,3,1,4,4,3
+991,880,"16/05/2020 20:08","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",4,5,5,4,4,5,5,4,4,5,5,4
+992,1335,"16/05/2020 20:57","About half the time","All/almost all of the time","Most of the time","Clear and lively","AM",6,9,7,8,3,4.5,3.5,4,3,4.5,3.5,4
+993,1887,"16/05/2020 21:25","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","JL",7,8,8,7,3.5,4,4,3.5,3.5,4,4,3.5
+994,903,"16/05/2020 21:42","Most of the time","Most of the time","Most of the time","Perfectly clear and lively as real seeing","",3,3,4,3,3,3,4,3,3,3,4,3
+995,2048,"16/05/2020 21:43","Most of the time","Most of the time","Sometimes","Moderately clear and lively","LL",1,3,3,4,0.5,1.5,1.5,2,0.5,1.5,1.5,2
+996,1566,"16/05/2020 21:57","About half the time","Most of the time","About half the time","Moderately clear and lively","KH",6,4,3,3,3,2,1.5,1.5,3,2,1.5,1.5
+997,3896,"16/05/2020 22:10","About half the time","About half the time","About half the time","Moderately clear and lively","",4,4,4,4,4,4,4,4,4,4,4,4
+998,1892,"16/05/2020 22:20","Sometimes","Not at all","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+999,3060,"16/05/2020 22:33","About half the time","Most of the time","All/almost all of the time","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+1000,1278,"16/05/2020 22:59","Sometimes","Sometimes","About half the time","Clear and lively","",1,2,2,3,1,2,2,3,1,2,2,3
+1001,256868,"16/05/2020 23:33","Sometimes","Most of the time","Not at all","Clear and lively","",6,5,4,4,6,5,4,4,6,5,4,4
+1002,1411,"17/05/2020 1:05","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",1,2,1,4,1,2,1,4,1,2,1,4
+1003,902,"17/05/2020 1:49","All/almost all of the time","Most of the time","All/almost all of the time","Clear and lively","",2,2,3,2,2,2,3,2,2,2,3,2
+1004,1028,"17/05/2020 1:57","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",5,2,1,3,5,2,1,3,5,2,1,3
+1005,1474,"17/05/2020 2:03","Sometimes","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1006,80852,"17/05/2020 2:25","Sometimes","Sometimes","Not at all","Clear and lively","JL",10,6,7,6,5,3,3.5,3,5,3,3.5,3
+1007,2018,"17/05/2020 2:29","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1008,31517,"17/05/2020 2:59","All/almost all of the time","Most of the time","All/almost all of the time","Clear and lively","JL",3,5,6,6.5,1.5,2.5,3,3.25,1.5,2.5,3,3.25
+1009,638,"17/05/2020 3:23","About half the time","Most of the time","Most of the time","Moderately clear and lively","",2,3,3,3,2,3,3,3,2,3,3,3
+1010,2219,"17/05/2020 3:26","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1011,1674,"17/05/2020 3:48","Sometimes","Sometimes","Sometimes","Clear and lively","JL",8,7,5,6,4,3.5,2.5,3,4,3.5,2.5,3
+1012,339,"17/05/2020 4:12","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1013,843,"17/05/2020 4:12","About half the time","Most of the time","About half the time","Moderately clear and lively","",1,3,2,3,1,3,2,3,1,3,2,3
+1014,2286,"17/05/2020 4:54","Not at all","Sometimes","Not at all","Dim & vague, flat","",1,2,3,3,1,2,3,3,1,2,3,3
+1015,1135,"17/05/2020 14:46","Not at all","About half the time","About half the time","Moderately clear and lively","AM",3,8,6,9,1.5,4,3,4.5,1.5,4,3,4.5
+1016,769,"17/05/2020 15:38","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+1017,712,"17/05/2020 15:42","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","CP",0,2,2,3,0,1,1,1.5,0,1,1,1.5
+1018,1153,"17/05/2020 16:43","Not at all","All/almost all of the time","Sometimes","Clear and lively","KH",3,4,3,3,1.5,2,1.5,1.5,1.5,2,1.5,1.5
+1019,1167,"17/05/2020 17:33","Most of the time","Sometimes","Sometimes","Perfectly clear and lively as real seeing","",2,3,3,2.5,2,3,3,2.5,2,3,3,2.5
+1020,1298,"17/05/2020 17:38","All/almost all of the time","Most of the time","About half the time","Moderately clear and lively","AM",4,6,5,7,2,3,2.5,3.5,2,3,2.5,3.5
+1021,1414,"17/05/2020 17:41","Not at all","Sometimes","Sometimes","Moderately clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+1022,2335,"17/05/2020 18:03","Sometimes","Most of the time","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+1023,725,"17/05/2020 18:09","Sometimes","Most of the time","Most of the time","Clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+1024,888,"17/05/2020 18:11","Most of the time","Sometimes","All/almost all of the time","Clear and lively","CP",13,8,7,7,6.5,4,3.5,3.5,6.5,4,3.5,3.5
+1025,706,"17/05/2020 18:14","About half the time","All/almost all of the time","All/almost all of the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+1026,684,"17/05/2020 18:19","Most of the time","Sometimes","Most of the time","Clear and lively","",2,2,3,3,2,2,3,3,2,2,3,3
+1027,1259,"17/05/2020 18:20","Sometimes","Most of the time","Most of the time","Clear and lively","",1,3,2,5,1,3,2,5,1,3,2,5
+1028,238234,"17/05/2020 18:22","Not at all","Sometimes","Most of the time","Dim & vague, flat","",4,3,2,3,4,3,2,3,4,3,2,3
+1029,2958,"17/05/2020 18:23","All/almost all of the time","Most of the time","Not at all","No image at all, you only “know” that you are thinking of the object","",4,3,3,3,4,3,3,3,4,3,3,3
+1030,1769,"17/05/2020 18:43","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",4,5,5,5,4,5,5,5,4,5,5,5
+1031,1116,"17/05/2020 18:47","Not at all","Most of the time","About half the time","Perfectly clear and lively as real seeing","",6,5,5,4,6,5,5,4,6,5,5,4
+1032,1307,"17/05/2020 19:10","Sometimes","Sometimes","About half the time","Dim & vague, flat","",3,3,3,3,3,3,3,3,3,3,3,3
+1033,354276,"17/05/2020 19:11","Most of the time","About half the time","About half the time","Clear and lively","",2,3,3,2,2,3,3,2,2,3,3,2
+1034,1209,"17/05/2020 19:17","Not at all","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,4,3,3,2,4,3,3,2,4,3,3
+1035,869,"17/05/2020 19:39","Not at all","Not at all","Not at all","Moderately clear and lively","CP",6,5,5,7,3,2.5,2.5,3.5,3,2.5,2.5,3.5
+1036,994,"17/05/2020 19:59","Sometimes","Most of the time","Most of the time","Moderately clear and lively","CP",2,3,2,3,1,1.5,1,1.5,1,1.5,1,1.5
+1037,1098,"17/05/2020 20:06","Sometimes","Sometimes","About half the time","Moderately clear and lively","LL",2,3,3,3,1,1.5,1.5,1.5,1,1.5,1.5,1.5
+1038,573,"17/05/2020 20:22","About half the time","Sometimes","Most of the time","Moderately clear and lively","",5,5,5,3,5,5,5,3,5,5,5,3
+1039,844,"17/05/2020 20:55","Most of the time","All/almost all of the time","About half the time","Clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+1040,13045,"17/05/2020 21:21","Sometimes","Sometimes","About half the time","Dim & vague, flat","KH",7,5,5,3,3.5,2.5,2.5,1.5,3.5,2.5,2.5,1.5
+1041,1273,"17/05/2020 21:29","Sometimes","Not at all","Sometimes","Clear and lively","AM",10,6,6,6,5,3,3,3,5,3,3,3
+1042,2943,"17/05/2020 21:32","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3
+1043,1887,"17/05/2020 21:33","Sometimes","Most of the time","Most of the time","No image at all, you only “know” that you are thinking of the object","",4,3,3,3,4,3,3,3,4,3,3,3
+1044,2319,"17/05/2020 22:10","Not at all","Sometimes","Sometimes","Clear and lively","",3,3,3,3,3,3,3,3,3,3,3,3
+1045,1202,"17/05/2020 22:46","Most of the time","About half the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1046,1429,"17/05/2020 23:10","Sometimes","About half the time","About half the time","Clear and lively","",2,4,3,3,2,4,3,3,2,4,3,3
+1047,750,"18/05/2020 0:07","Sometimes","About half the time","Sometimes","Clear and lively","AM",7,6,4,6,3.5,3,2,3,3.5,3,2,3
+1048,1153,"18/05/2020 0:32","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+1049,1493,"18/05/2020 0:34","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","",3,4,3,4,3,4,3,4,3,4,3,4
+1050,626,"18/05/2020 0:42","Not at all","All/almost all of the time","Sometimes","Dim & vague, flat","",2,3,2,3,2,3,2,3,2,3,2,3
+1051,851,"18/05/2020 1:24","Sometimes","About half the time","All/almost all of the time","Moderately clear and lively","",0,1,1,1,0,1,1,1,0,1,1,1
+1052,1865,"18/05/2020 2:32","About half the time","All/almost all of the time","Most of the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+1053,1773,"18/05/2020 3:02","Sometimes","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",1,1,1,2,1,1,1,2,1,1,1,2
+1054,2046,"18/05/2020 3:40","About half the time","Most of the time","About half the time","Moderately clear and lively","",4,4,3,3,4,4,3,3,4,4,3,3
+1055,553,"18/05/2020 3:45","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1056,650,"18/05/2020 4:53","Sometimes","Sometimes","About half the time","Moderately clear and lively","",3,4,3,3,3,4,3,3,3,4,3,3
+1057,1567,"18/05/2020 5:05","Not at all","Most of the time","Sometimes","Moderately clear and lively","",1,1,2,3,1,1,2,3,1,1,2,3
+1058,1244,"18/05/2020 6:18","Sometimes","About half the time","Sometimes","Moderately clear and lively","",5,2,3,3,5,2,3,3,5,2,3,3
+1059,2603,"18/05/2020 8:25","Most of the time","All/almost all of the time","About half the time","Perfectly clear and lively as real seeing","CP",6,4,6,3,3,2,3,1.5,3,2,3,1.5
+1060,1621,"18/05/2020 14:23","Most of the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1061,345,"18/05/2020 16:27","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1062,871,"18/05/2020 17:45","Sometimes","Most of the time","Not at all","Moderately clear and lively","AM",4,6,6,6,2,3,3,3,2,3,3,3
+1063,408,"18/05/2020 18:12","Not at all","Not at all","Sometimes","No image at all, you only “know” that you are thinking of the object","",2,2,2,3,2,2,2,3,2,2,2,3
+1064,732,"18/05/2020 18:29","Not at all","Sometimes","Not at all","Moderately clear and lively","",2,3,1,3,2,3,1,3,2,3,1,3
+1065,524,"18/05/2020 18:38","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1066,819,"18/05/2020 19:20","Not at all","Sometimes","Sometimes","Dim & vague, flat","CP",3,2,2,3,1.5,1,1,1.5,1.5,1,1,1.5
+1067,1042,"18/05/2020 19:32","Sometimes","Sometimes","Most of the time","Moderately clear and lively","",3,4,4,4,3,4,4,4,3,4,4,4
+1068,1665,"18/05/2020 20:04","Most of the time","About half the time","Most of the time","Moderately clear and lively","",2,3,3,4,2,3,3,4,2,3,3,4
+1069,746,"18/05/2020 20:08","Most of the time","All/almost all of the time","About half the time","Perfectly clear and lively as real seeing","LL",2,2,0,0,1,1,0,0,1,1,0,0
+1070,804,"18/05/2020 20:39","About half the time","Most of the time","Sometimes","Clear and lively","",5,4,4,3,5,4,4,3,5,4,4,3
+1071,816,"18/05/2020 20:43","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",3,2,2,3,3,2,2,3,3,2,2,3
+1072,954,"18/05/2020 21:50","Most of the time","All/almost all of the time","Most of the time","Perfectly clear and lively as real seeing","",3,3,3,3,3,3,3,3,3,3,3,3
+1073,562,"18/05/2020 21:53","Sometimes","All/almost all of the time","All/almost all of the time","Moderately clear and lively","CP",8,5,4,6,4,2.5,2,3,4,2.5,2,3
+1074,112386,"18/05/2020 21:56","Sometimes","Most of the time","Most of the time","Clear and lively","",2,2,2,4,2,2,2,4,2,2,2,4
+1075,687,"18/05/2020 22:13","Not at all","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,5,0,0,0,5,0,0,0,5
+1076,180,"18/05/2020 22:20","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1077,3378,"18/05/2020 22:32","Sometimes","Most of the time","Sometimes","Moderately clear and lively","",1,2,2,2.5,1,2,2,2.5,1,2,2,2.5
+1078,1349,"18/05/2020 23:02","Sometimes","About half the time","Sometimes","Moderately clear and lively","AM",3,4,5,5,1.5,2,2.5,2.5,1.5,2,2.5,2.5
+1079,616,"19/05/2020 1:23","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1080,2246,"19/05/2020 1:25","About half the time","Sometimes","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+1081,1984,"19/05/2020 1:58","About half the time","Most of the time","All/almost all of the time","Clear and lively","JS",3,3,3,3,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+1082,52,"19/05/2020 2:41","","","","","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1083,912,"19/05/2020 3:10","About half the time","Sometimes","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1084,2263,"19/05/2020 3:24","Sometimes","About half the time","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1085,958,"19/05/2020 3:38","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1086,2021,"19/05/2020 3:42","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","",2,4,3,4,2,4,3,4,2,4,3,4
+1087,3055,"19/05/2020 4:02","Most of the time","About half the time","Most of the time","Clear and lively","",1,2,1,4,1,2,1,4,1,2,1,4
+1088,4469,"19/05/2020 4:37","About half the time","About half the time","Sometimes","Dim & vague, flat","",3,3,4,3,3,3,4,3,3,3,4,3
+1089,2542,"19/05/2020 4:45","About half the time","About half the time","Sometimes","Moderately clear and lively","LL",8,4,5,4,4,2,2.5,2,4,2,2.5,2
+1090,2320,"19/05/2020 5:02","Sometimes","Sometimes","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1091,655,"19/05/2020 5:04","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1092,8420,"19/05/2020 5:15","","","","","JL",0,0,0,0,0,0,0,0,0,0,0,0
+1093,1121,"19/05/2020 5:31","About half the time","Not at all","Sometimes","Moderately clear and lively","LL",2,3,2,4,1,1.5,1,2,1,1.5,1,2
+1094,606,"19/05/2020 6:03","About half the time","Sometimes","Not at all","Dim & vague, flat","",2,2,2,3,2,2,2,3,2,2,2,3
+1095,4470,"19/05/2020 7:20","About half the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1096,82039,"19/05/2020 7:39","About half the time","About half the time","All/almost all of the time","Clear and lively","",1,2,1,3,1,2,1,3,1,2,1,3
+1097,104,"19/05/2020 15:46","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1098,544,"19/05/2020 16:16","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1099,663,"19/05/2020 16:24","About half the time","Most of the time","Most of the time","Clear and lively","",3,4,3,3,3,4,3,3,3,4,3,3
+1100,846,"19/05/2020 16:36","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1101,1212,"19/05/2020 17:16","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1102,847,"19/05/2020 17:38","Sometimes","About half the time","Sometimes","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+1103,758,"19/05/2020 18:00","All/almost all of the time","All/almost all of the time","Not at all","Dim & vague, flat","KH",4,3,1,3,2,1.5,0.5,1.5,2,1.5,0.5,1.5
+1104,5855,"19/05/2020 18:13","About half the time","Sometimes","Sometimes","Moderately clear and lively","",5,3,3,3,5,3,3,3,5,3,3,3
+1105,2390,"19/05/2020 18:31","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","KH",6,4,4,5,3,2,2,2.5,3,2,2,2.5
+1106,822,"19/05/2020 19:12","Not at all","Sometimes","Sometimes","Clear and lively","AM",0,1,1,10,0,0.5,0.5,5,0,0.5,0.5,5
+1107,669,"19/05/2020 19:27","Not at all","Most of the time","Sometimes","Dim & vague, flat","JS",4,6,6,6,2,3,3,3,2,3,3,3
+1108,171,"19/05/2020 20:03","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1109,8,"19/05/2020 21:15","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1110,689,"19/05/2020 21:40","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+1111,153980,"19/05/2020 22:15","About half the time","Most of the time","About half the time","Moderately clear and lively","",1,2,2,4,1,2,2,4,1,2,2,4
+1112,804,"19/05/2020 22:30","Not at all","All/almost all of the time","Not at all","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1113,1149,"20/05/2020 0:31","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1114,49,"20/05/2020 0:52","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1115,2253,"20/05/2020 1:09","Sometimes","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","CP",19,8,9,6,9.5,4,4.5,3,9.5,4,4.5,3
+1116,18505,"20/05/2020 1:11","Sometimes","Sometimes","Sometimes","Dim & vague, flat","",3,3,4,3,3,3,4,3,3,3,4,3
+1117,626,"20/05/2020 2:22","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","KH",2,2,2,3,1,1,1,1.5,1,1,1,1.5
+1118,556,"20/05/2020 2:40","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1119,2159,"20/05/2020 3:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1120,3011,"20/05/2020 4:11","About half the time","About half the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1121,1148,"20/05/2020 4:20","Sometimes","About half the time","Most of the time","Moderately clear and lively","AM",7,6,5,6,3.5,3,2.5,3,3.5,3,2.5,3
+1122,657,"20/05/2020 5:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1123,1973,"20/05/2020 6:41","About half the time","About half the time","Sometimes","Moderately clear and lively","",4,2,2,3,4,2,2,3,4,2,2,3
+1124,3043,"20/05/2020 9:51","About half the time","About half the time","About half the time","Dim & vague, flat","LL",5,4,3,3,2.5,2,1.5,1.5,2.5,2,1.5,1.5
+1125,49055,"20/05/2020 15:42","About half the time","About half the time","About half the time","Moderately clear and lively","",1,2,2,2,1,2,2,2,1,2,2,2
+1126,32,"20/05/2020 16:13","","","","","JL",0,0,0,0,0,0,0,0,0,0,0,0
+1127,993,"20/05/2020 16:47","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JS",3,3,1,3,1.5,1.5,0.5,1.5,1.5,1.5,0.5,1.5
+1128,127,"20/05/2020 16:59","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1129,232467,"20/05/2020 17:18","About half the time","All/almost all of the time","All/almost all of the time","Dim & vague, flat","JL",0,2,2,5,0,1,1,2.5,0,1,1,2.5
+1130,313,"20/05/2020 17:24","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1131,100,"20/05/2020 17:54","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1132,795,"20/05/2020 18:12","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1133,561,"20/05/2020 19:30","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1134,1172,"20/05/2020 20:06","Not at all","Sometimes","About half the time","Moderately clear and lively","JL",4,4,4,6,2,2,2,3,2,2,2,3
+1135,142,"20/05/2020 21:51","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1136,324,"20/05/2020 22:36","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1137,690,"20/05/2020 23:02","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,1,1,2,0,1,1,2,0,1,1,2
+1138,783,"20/05/2020 23:26","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1139,19470,"20/05/2020 23:38","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1140,418,"21/05/2020 1:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1141,1002,"21/05/2020 1:13","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1142,1537,"21/05/2020 1:24","Not at all","Most of the time","Sometimes","Dim & vague, flat","",2,3,4,3,2,3,4,3,2,3,4,3
+1143,503,"21/05/2020 1:45","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1144,238,"21/05/2020 1:47","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1145,1383,"21/05/2020 1:48","About half the time","Most of the time","Most of the time","Clear and lively","",3,3,3,2,3,3,3,2,3,3,3,2
+1146,44,"21/05/2020 2:44","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1147,42,"21/05/2020 3:05","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1148,1076,"21/05/2020 3:12","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1149,9539,"21/05/2020 3:50","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1150,1840,"21/05/2020 4:03","About half the time","Sometimes","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+1151,5696,"21/05/2020 5:56","","","","","JS",0,0,0,0,0,0,0,0,0,0,0,0
+1152,12226,"21/05/2020 6:22","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1153,57,"21/05/2020 14:39","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1154,172,"21/05/2020 16:41","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1155,432,"21/05/2020 16:42","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1156,400,"21/05/2020 16:48","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1157,22,"21/05/2020 17:27","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1158,1040,"21/05/2020 17:47","Sometimes","Most of the time","Sometimes","Dim & vague, flat","",1,3,2,3,1,3,2,3,1,3,2,3
+1159,239,"21/05/2020 17:48","","","","","KH",0,0,0,0,0,0,0,0,0,0,0,0
+1160,460,"21/05/2020 17:55","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1161,86,"21/05/2020 18:27","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1162,914,"21/05/2020 19:54","Most of the time","About half the time","Most of the time","Clear and lively","CP",3,3,3,3,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+1163,8628,"21/05/2020 20:03","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1164,930,"21/05/2020 20:03","","","","","KH",0,0,0,0,0,0,0,0,0,0,0,0
+1165,519,"21/05/2020 20:48","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1166,48,"21/05/2020 20:53","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1167,3690,"21/05/2020 21:11","Most of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","AM",5,4,3,2,2.5,2,1.5,1,2.5,2,1.5,1
+1168,7349,"21/05/2020 22:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1169,1725,"21/05/2020 22:38","Sometimes","Sometimes","Sometimes","No image at all, you only “know” that you are thinking of the object","KH",3,2,3,3,1.5,1,1.5,1.5,1.5,1,1.5,1.5
+1170,742,"21/05/2020 23:18","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1171,123,"21/05/2020 23:32","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1172,29,"22/05/2020 0:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1173,105,"22/05/2020 0:15","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1174,853,"22/05/2020 1:02","Sometimes","Most of the time","Most of the time","Moderately clear and lively","",1,3,2,4,1,3,2,4,1,3,2,4
+1175,24211,"22/05/2020 1:04","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1176,1776,"22/05/2020 1:33","","","","","",3,4,2,5,3,4,2,5,3,4,2,5
+1177,59,"22/05/2020 2:30","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1178,699,"22/05/2020 7:52","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1179,208,"22/05/2020 13:32","","","","","AM",0,0,0,0,0,0,0,0,0,0,0,0
+1180,1467,"22/05/2020 14:34","Most of the time","About half the time","Most of the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+1181,773,"22/05/2020 17:39","All/almost all of the time","All/almost all of the time","Not at all","Perfectly clear and lively as real seeing","JL",8,7,8,6,4,3.5,4,3,4,3.5,4,3
+1182,2880,"22/05/2020 20:45","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","JL",3,3,3,3,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+1183,1071,"22/05/2020 21:37","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",1,1,1,3,1,1,1,3,1,1,1,3
+1184,615,"22/05/2020 22:01","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1185,40,"22/05/2020 22:30","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1186,18,"22/05/2020 22:44","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1187,29,"23/05/2020 0:00","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1188,6191,"23/05/2020 3:02","Not at all","Not at all","Not at all","Moderately clear and lively","",2,3,2,3,2,3,2,3,2,3,2,3
+1189,1164,"23/05/2020 5:30","About half the time","Most of the time","Sometimes","Moderately clear and lively","",3,3,2,3.5,3,3,2,3.5,3,3,2,3.5
+1190,166078,"23/05/2020 6:07","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1191,4407,"23/05/2020 7:07","Sometimes","Sometimes","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1192,558,"23/05/2020 12:22","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1193,726,"23/05/2020 16:00","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1194,121,"23/05/2020 19:36","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1195,700,"23/05/2020 21:28","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1196,551,"23/05/2020 21:33","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",1,2,1,3,1,2,1,3,1,2,1,3
+1197,2683,"23/05/2020 22:20","About half the time","About half the time","Most of the time","Clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+1198,772,"24/05/2020 0:55","Not at all","All/almost all of the time","Most of the time","Moderately clear and lively","",6,3,1,3,6,3,1,3,6,3,1,3
+1199,1317,"24/05/2020 1:22","Not at all","Sometimes","Sometimes","Moderately clear and lively","",1,2,2,4,1,2,2,4,1,2,2,4
+1200,651,"24/05/2020 2:00","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1201,3943,"24/05/2020 2:37","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1202,1111,"24/05/2020 3:05","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1203,1181,"24/05/2020 5:40","Sometimes","Sometimes","Not at all","Dim & vague, flat","JS",3,4,4,3,1.5,2,2,1.5,1.5,2,2,1.5
+1204,2607,"24/05/2020 6:01","Not at all","All/almost all of the time","Most of the time","Clear and lively","",2,3,2,4,2,3,2,4,2,3,2,4
+1205,177,"24/05/2020 6:28","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1206,5165,"24/05/2020 8:54","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",3,3,2,3,3,3,2,3,3,3,2,3
+1207,251916,"24/05/2020 15:52","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",0,0,0,3,0,0,0,3,0,0,0,3
+1208,124,"24/05/2020 17:07","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1209,1372,"24/05/2020 17:28","","","","","JS",0,0,0,0,0,0,0,0,0,0,0,0
+1210,1551,"24/05/2020 18:19","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1211,2603,"24/05/2020 22:00","All/almost all of the time","Sometimes","About half the time","Moderately clear and lively","",5,3,3,3,5,3,3,3,5,3,3,3
+1212,2269,"24/05/2020 23:53","Sometimes","About half the time","Not at all","Moderately clear and lively","",6,4,4,3,6,4,4,3,6,4,4,3
+1213,2958,"25/05/2020 1:17","Sometimes","Sometimes","About half the time","Dim & vague, flat","",6,4,5,4,6,4,5,4,6,4,5,4
+1214,1322,"25/05/2020 5:16","Most of the time","Most of the time","All/almost all of the time","No image at all, you only “know” that you are thinking of the object","",6,4,3,2,6,4,3,2,6,4,3,2
+1215,75,"25/05/2020 5:38","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1216,33,"25/05/2020 6:10","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1217,492,"25/05/2020 7:04","","","","","KH",0,0,0,0,0,0,0,0,0,0,0,0
+1218,385,"25/05/2020 8:37","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1219,1241,"25/05/2020 16:47","About half the time","About half the time","Most of the time","Clear and lively","JL",4,6,5,7,2,3,2.5,3.5,2,3,2.5,3.5
+1220,1271,"25/05/2020 17:09","About half the time","About half the time","About half the time","Moderately clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1221,1522,"25/05/2020 17:40","Most of the time","Most of the time","Most of the time","Clear and lively","",8,5,5,5,8,5,5,5,8,5,5,5
+1222,1201,"25/05/2020 17:58","About half the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",6,2,2,3,6,2,2,3,6,2,2,3
+1223,125,"25/05/2020 20:54","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1224,1116,"26/05/2020 0:56","","","","","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1225,209,"26/05/2020 1:25","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1226,1563,"26/05/2020 4:06","About half the time","Most of the time","Most of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1227,2468,"26/05/2020 4:57","Sometimes","Most of the time","All/almost all of the time","Dim & vague, flat","",4,5,4,3,4,5,4,3,4,5,4,3
+1228,1093,"26/05/2020 6:20","Most of the time","All/almost all of the time","All/almost all of the time","Clear and lively","AM",3,5,6,7,1.5,2.5,3,3.5,1.5,2.5,3,3.5
+1229,32,"26/05/2020 14:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1230,788,"26/05/2020 17:49","Not at all","Not at all","Not at all","No image at all, you only “know” that you are thinking of the object","",4,3,2,3,4,3,2,3,4,3,2,3
+1231,3258,"26/05/2020 18:24","Not at all","Sometimes","Sometimes","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1232,1429,"26/05/2020 18:49","Most of the time","Most of the time","Most of the time","Moderately clear and lively","",1,2,4,2,1,2,4,2,1,2,4,2
+1233,916,"26/05/2020 19:32","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",3,4,4,3,3,4,4,3,3,4,4,3
+1234,1089,"26/05/2020 22:02","","","","","AM",0,0,0,0,0,0,0,0,0,0,0,0
+1235,1425,"26/05/2020 23:09","Not at all","Not at all","Not at all","Perfectly clear and lively as real seeing","JL",7,6,6,7,3.5,3,3,3.5,3.5,3,3,3.5
+1236,1043,"27/05/2020 0:43","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1237,1403,"27/05/2020 6:38","Most of the time","About half the time","Most of the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1238,4303,"27/05/2020 18:58","All/almost all of the time","All/almost all of the time","All/almost all of the time","Perfectly clear and lively as real seeing","",0,0,0,0,0,0,0,0,0,0,0,0
+1239,4745,"28/05/2020 5:32","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",3,4,4,3,3,4,4,3,3,4,4,3
+1240,2632,"28/05/2020 19:40","Most of the time","Most of the time","Most of the time","Dim & vague, flat","",0,0,0,0,0,0,0,0,0,0,0,0
+1241,3191,"28/05/2020 23:33","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1242,574,"28/05/2020 23:46","","","","","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1243,3234,"29/05/2020 8:44","Sometimes","Sometimes","Sometimes","Moderately clear and lively","",2,3,4,3,2,3,4,3,2,3,4,3
+1244,1277370,"29/05/2020 19:32","About half the time","Sometimes","Sometimes","Moderately clear and lively","JL",4,6,7,7,2,3,3.5,3.5,2,3,3.5,3.5
+1245,60,"29/05/2020 21:56","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1246,2493,"29/05/2020 23:01","About half the time","About half the time","Most of the time","Clear and lively","",2,4,5,3,2,4,5,3,2,4,5,3
+1247,980,"31/05/2020 17:46","Not at all","Most of the time","About half the time","Moderately clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1248,1916,"1/06/2020 23:30","About half the time","Sometimes","Most of the time","Moderately clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1249,281,"2/06/2020 20:33","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1250,1565,"3/06/2020 0:29","Sometimes","About half the time","About half the time","Moderately clear and lively","",4,3,3,3,4,3,3,3,4,3,3,3
+1251,525,"3/06/2020 5:34","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1252,412,"4/06/2020 19:58","Not at all","Most of the time","About half the time","Moderately clear and lively","LL",3,3,3,3,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+1253,397,"5/06/2020 0:08","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1254,794,"5/06/2020 6:53","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1255,2436,"5/06/2020 22:33","","","","","",1,2,1,2,1,2,1,2,1,2,1,2
+1256,1469,"6/06/2020 4:53","Not at all","Most of the time","About half the time","Clear and lively","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1257,1561,"8/06/2020 18:43","Sometimes","About half the time","About half the time","Clear and lively","",4,2,2,3,4,2,2,3,4,2,2,3
+1258,1420,"9/06/2020 1:35","Not at all","Sometimes","About half the time","Moderately clear and lively","",3,3,1,3,3,3,1,3,3,3,1,3
+1259,1406,"9/06/2020 21:23","Not at all","Not at all","Sometimes","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1260,4157,"9/06/2020 23:40","Sometimes","Sometimes","Sometimes","Clear and lively","",3,5,4,3,3,5,4,3,3,5,4,3
+1261,1100,"11/06/2020 21:29","Most of the time","Most of the time","Most of the time","Clear and lively","",10,5,5,3,10,5,5,3,10,5,5,3
+1262,87,"15/06/2020 6:50","","","","","CP",0,0,0,0,0,0,0,0,0,0,0,0
+1263,4837,"16/06/2020 3:04","Most of the time","All/almost all of the time","All/almost all of the time","Moderately clear and lively","KH",0,1,1,3,0,0.5,0.5,1.5,0,0.5,0.5,1.5
+1264,1331,"18/06/2020 23:46","Most of the time","Most of the time","All/almost all of the time","Clear and lively","",0,0,0,0,0,0,0,0,0,0,0,0
+1265,25,"21/06/2020 0:23","","","","","LL",0,0,0,0,0,0,0,0,0,0,0,0
+1266,200,"22/06/2020 23:36","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1267,601111,"23/06/2020 0:46","","","","","",0,0,0,0,0,0,0,0,0,0,0,0
+1268,1387,"27/06/2020 1:46","Most of the time","All/almost all of the time","About half the time","Clear and lively","",3,3,2,3,3,3,2,3,3,3,2,3
+1269,996,"28/06/2020 1:21","Sometimes","Sometimes","Most of the time","Clear and lively","",3,3,4,3,3,3,4,3,3,3,4,3

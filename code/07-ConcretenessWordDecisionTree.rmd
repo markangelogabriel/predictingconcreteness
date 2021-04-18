@@ -1,0 +1,72 @@
+---
+title: "Concreteness Word Dictionary"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "16/03/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+library(MASS)
+library(ggplot2)
+library(party)
+library(e1071)
+library(caret)
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/Concrete_Discrete_16032021.csv', stringsAsFactors=TRUE)
+```
+
+
+```{r}
+df <- df[which(df$invalid_response==0),]
+df <- within(df, rm("Response.x", "Steps", "Effective", "Emotion", "invalid_response", "Age.r", "Concrete"))
+df$Concrete.Level <- factor(df$Concrete.Level, levels=c("Low", "Medium", "High"))
+df$IsolationDays.0 <- as.numeric(df$IsolationDays.0)
+df <- na.omit(df)
+
+summary(df)
+```
+
+We want to see how well the available variables can predict `Concrete`. For this, we'll use linear regression.
+
+But first, we'll be setting up the train/test split.
+
+```{r}
+set.seed(5014)
+test.idx <- createDataPartition(df$Concrete.Level, p=0.2, list=FALSE)
+df.train <- df[-test.idx,]
+df.test <- df[test.idx,]
+
+c(nrow(df.train), nrow(df.test))
+```
+# Decision Tree
+
+```{r}
+output.tree <- ctree(Concrete.Level ~ ., data=subset(df.train, select=-c(Concrete.Low, Concrete.Medium, Concrete.High)))
+
+plot(output.tree)
+```
+
+# Testing 
+
+```{r}
+concrete.pred.train <- predict(output.tree, type="response")
+concrete.pred.test <- predict(output.tree, newdata=df.test, type="response")
+
+# Accuracy
+mean(concrete.pred.train==df.train$Concrete.Level)
+mean(concrete.pred.test==df.test$Concrete.Level)
+```
+
+# Confusion Matrix
+
+```{r}
+confusionMatrix(concrete.pred.test, df.test$Concrete.Level)
+```

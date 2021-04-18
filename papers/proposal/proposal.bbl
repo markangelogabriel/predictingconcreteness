@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{nonclinicalnlp}
+Rafael Calvo, David Milne, Sazzad Hussain, and Helen Christensen.
+\newblock Natural language processing in mental health applications using
+  non-clinical texts.
+\newblock {\em Natural Language Engineering}, pages 1--37, 01 2017.
+
+\bibitem{bert}
+Jacob Devlin, Ming{-}Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock {BERT:} pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em CoRR}, abs/1810.04805, 2018.
+
+\bibitem{conceptualandclinical}
+{Julie L.} Ji, {David J.} Kavanagh, {Emily A.} Holmes, Colin Macleod, and
+  Martina {Di Simplicio}.
+\newblock Mental imagery in psychiatry: Conceptual \& clinical implications.
+\newblock {\em CNS Spectrums: the international journal of neuropsychiatric
+  medicine}, 24(1):114--126, February 2019.
+
+\bibitem{semanticmeasures}
+{O. N. E.} Kjell, K.~Kjell, D.~Garcia, and S.~Sikström.
+\newblock Semantic measures: Using natural language processing to measure,
+  differentiate, and describe psychological constructs.
+\newblock {\em Psychological Methods}, 24(1):92--115, February 2019.
+
+\bibitem{bertsentimentanalysis}
+Xin Li, Lidong Bing, Wenxuan Zhang, and Wai Lam.
+\newblock Exploiting bert for end-to-end aspect-based sentiment analysis.
+\newblock {\em Proceedings of the 5th Workshop on Noisy User-generated Text
+  (W-NUT 2019)}, 2019.
+
+\bibitem{motivationalamplifier}
+Fritz Renner, {Fionnuala C.} Murphy, {Julie L.} Ji, Tom Manly, and {Emily A.}
+  Holmes.
+\newblock Mental imagery as a “motivational amplifier” to promote
+  activities.
+\newblock {\em Behaviour Research \& Therapy}, 114:51--59, March 2019.
+
+\end{thebibliography}

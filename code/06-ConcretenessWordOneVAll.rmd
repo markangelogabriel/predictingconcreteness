@@ -1,0 +1,116 @@
+---
+title: "Concreteness One vs All"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "17/03/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+library(MASS)
+library(ggplot2)
+library(e1071)
+library(caret)
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/Concrete_Discrete_16032021.csv')
+```
+
+```{r}
+df <- df[which(df$invalid_response==0),]
+df <- within(df, rm("Response.x", "Steps", "Effective", "Emotion", "invalid_response", "Age.r", "Concrete", "Concrete.ExtremeCount", "Concrete.ExtremeDensity"))
+
+df$Concrete.Level <- factor(df$Concrete.Level, levels=c("Low", "Medium", "High"))
+df$IsolationDays.0 <- as.numeric(df$IsolationDays.0)
+df <- na.omit(df)
+summary(df)
+```
+Stratified sampling:
+
+```{r}
+set.seed(5014)
+test.idx <- createDataPartition(df$Concrete.Level, p=0.2, list=FALSE)
+df.train <- df[-test.idx,]
+df.test <- df[test.idx,]
+
+c(nrow(df.train), nrow(df.test))
+```
+
+# Low Concrete Model
+
+```{r}
+concrete.low <- glm(Concrete.Low ~ . - Concrete.Medium - Concrete.High - Concrete.Avg - Concrete.Level, df.train, family="binomial", maxit=100)
+concrete.low.ss <- glm(Concrete.Low ~ 1, df.train, family="binomial", maxit=100)
+concrete.low.ss <- step(concrete.low.ss, scope=list(upper=concrete.low), trace=0)
+
+summary(concrete.low.ss)
+```
+# Medium Concrete Model
+
+```{r}
+concrete.med <- glm(Concrete.Medium ~ . - Concrete.Low - Concrete.High - Concrete.Avg - Concrete.Level, df.train, family="binomial", maxit=100)
+concrete.med.ss <- glm(Concrete.Medium ~ 1, df.train, family="binomial", maxit=100)
+concrete.med.ss <- step(concrete.med.ss, scope=list(upper=concrete.med), trace=0)
+
+summary(concrete.med.ss)
+```
+
+# High Concrete Model
+
+```{r}
+concrete.high <- glm(Concrete.High ~ . - Concrete.Low - Concrete.Medium - Concrete.Avg - Concrete.Level, df.train, family="binomial", maxit=100)
+concrete.high.ss <- glm(Concrete.High ~ 1, df.train, family="binomial", maxit=100)
+concrete.high.ss <- step(concrete.high.ss, scope=list(upper=concrete.high), trace=0)
+
+summary(concrete.high.ss)
+```
+
+# Testing
+
+```{r}
+concrete.low.pred.train <- predict(concrete.low.ss, type="response") > 0.5
+concrete.low.pred.test.raw <- predict(concrete.low.ss, newdata=df.test, type="response")
+concrete.low.pred.test <- concrete.low.pred.test.raw > 0.5
+
+# Accuracy
+mean(concrete.low.pred.train==df.train$Concrete.Low)
+mean(concrete.low.pred.test==df.test$Concrete.Low)
+```
+```{r}
+concrete.med.pred.train <- predict(concrete.med.ss, type="response") > 0.5
+concrete.med.pred.test.raw <- predict(concrete.med.ss, newdata=df.test, type="response")
+concrete.med.pred.test <- concrete.med.pred.test.raw > 0.5
+
+# Accuracy
+mean(concrete.med.pred.train==df.train$Concrete.Medium)
+mean(concrete.med.pred.test==df.test$Concrete.Medium)
+```
+```{r}
+concrete.high.pred.train <- predict(concrete.high.ss, type="response") > 0.5
+concrete.high.pred.test.raw <- predict(concrete.high.ss, newdata=df.test, type="response")
+concrete.high.pred.test <- concrete.high.pred.test.raw > 0.5
+
+# Accuracy
+mean(concrete.high.pred.train==df.train$Concrete.High)
+mean(concrete.high.pred.test==df.test$Concrete.High)
+```
+
+# Confusion Matrix
+
+```{r}
+pred.matrix <- matrix(c(concrete.low.pred.test.raw, concrete.med.pred.test.raw, concrete.high.pred.test.raw), ncol=3)
+
+class.pred <- apply(pred.matrix, 1, which.max)
+class.pred <- as.factor(class.pred)
+levels(class.pred) <- c("Low", "Medium", "High")
+
+df.test$Concrete.Pred <- class.pred
+
+confusionMatrix(df.test$Concrete.Pred, df.test$Concrete.Level)
+```

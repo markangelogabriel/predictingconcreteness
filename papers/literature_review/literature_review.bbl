@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{alshahrani2019xlnet}
+A.~{Alshahrani}, M.~{Ghaffari}, K.~{Amirizirtol}, and X.~{Liu}.
+\newblock Identifying optimism and pessimism in twitter messages using xlnet
+  and deep consensus.
+\newblock In {\em 2020 International Joint Conference on Neural Networks
+  (IJCNN)}, pages 1--8, 2020.
+
+\bibitem{dai2019transformerxl}
+Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc~V. Le, and Ruslan
+  Salakhutdinov.
+\newblock Transformer-xl: Attentive language models beyond a fixed-length
+  context, 2019.
+
+\bibitem{conceptualandclinical}
+{Julie L.} Ji, {David J.} Kavanagh, {Emily A.} Holmes, Colin Macleod, and
+  Martina {Di Simplicio}.
+\newblock Mental imagery in psychiatry: Conceptual \& clinical implications.
+\newblock {\em CNS Spectrums: the international journal of neuropsychiatric
+  medicine}, 24(1):114--126, February 2019.
+
+\bibitem{Kosslyn2001}
+Stephen~M. Kosslyn, Giorgio Ganis, and William~L. Thompson.
+\newblock Neural foundations of imagery.
+\newblock {\em Nature Reviews Neuroscience}, 2(9):635--642, Sep 2001.
+
+\bibitem{Mozeti__2016}
+Igor Mozetič, Miha Grčar, and Jasmina Smailović.
+\newblock Multilingual twitter sentiment classification: The role of human
+  annotators.
+\newblock {\em PLOS ONE}, 11(5):e0155036, May 2016.
+
+\bibitem{Patel2005}
+Wheatley J Wells A Fisher P Myers~S Patel~T, Brewin~CR.
+\newblock Intrusive images and memories in major depression.
+\newblock {\em Behavior Research and Therapy}, 45(11):2573–2580, Nov 2007.
+
+\bibitem{motivationalamplifier}
+Fritz Renner, {Fionnuala C.} Murphy, {Julie L.} Ji, Tom Manly, and {Emily A.}
+  Holmes.
+\newblock Mental imagery as a “motivational amplifier” to promote
+  activities.
+\newblock {\em Behaviour Research \& Therapy}, 114:51--59, March 2019.
+
+\bibitem{ruder2019transfer}
+Sebastian Ruder, Matthew~E Peters, Swabha Swayamdipta, and Thomas Wolf.
+\newblock Transfer learning in natural language processing.
+\newblock In {\em Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Tutorials}, pages
+  15--18, 2019.
+
+\bibitem{stewart-etal-2019-redcoat}
+Michael Stewart, Wei Liu, and Rachel Cardell-Oliver.
+\newblock {R}edcoat: A collaborative annotation tool for hierarchical entity
+  typing.
+\newblock In {\em Proceedings of the 2019 Conference on Empirical Methods in
+  Natural Language Processing and the 9th International Joint Conference on
+  Natural Language Processing (EMNLP-IJCNLP): System Demonstrations}, pages
+  193--198, Hong Kong, China, November 2019. Association for Computational
+  Linguistics.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2017.
+
+\bibitem{Wolf2019HuggingFacesTS}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+  Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe
+  Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien
+  Plu, Canwen Xu, Teven~Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest,
+  and Alexander~M. Rush.
+\newblock Huggingface's transformers: State-of-the-art natural language
+  processing.
+\newblock {\em ArXiv}, abs/1910.03771, 2019.
+
+\bibitem{yang2020xlnet}
+Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov,
+  and Quoc~V. Le.
+\newblock Xlnet: Generalized autoregressive pretraining for language
+  understanding, 2020.
+
+\end{thebibliography}

@@ -1,0 +1,95 @@
+\documentclass[12pt, a4paper]{article}
+
+\setlength{\oddsidemargin}{0.5cm}
+\setlength{\evensidemargin}{0.5cm}
+\setlength{\topmargin}{-1.6cm}
+\setlength{\leftmargin}{0.5cm}
+\setlength{\rightmargin}{0.5cm}
+\setlength{\textheight}{24.00cm} 
+\setlength{\textwidth}{15.00cm}
+\parindent 0pt
+\parskip 5pt
+\pagestyle{plain}
+
+\title{Effect of mental imagery parameters on the risk of experiencing loneliness in a period of isolation}
+\author{}
+\date{}
+
+\newcommand{\namelistlabel}[1]{\mbox{#1}\hfil}
+\newenvironment{namelist}[1]{%1
+\begin{list}{}
+    {
+        \let\makelabel\namelistlabel
+        \settowidth{\labelwidth}{#1}
+        \setlength{\leftmargin}{1.1\labelwidth}
+    }
+  }{%1
+\end{list}}
+
+\begin{document}
+\maketitle
+
+\begin{namelist}{xxxxxxxxxxxx}
+\item[{\bf Author:}]
+	Mark Gabriel
+\item[{\bf Supervisor:}]
+	Dr. Julie Ji, Dr. Debora Correa, Dr. Wei Liu
+\end{namelist}
+
+\section*{Background} The COVID-19 pandemic has forced a sudden change in society that we weren't fully prepared for.  Self-isolation and physical distancing has been imposed on everyone in varying degrees and the effect of it on people's mental wellbeing is an area of interest, especially if a second or third wave of the pandemic will require people to undergo isolation again. Certain members of the community are going to be affected more than others from this rapid disruption of the day-to-day because they are not getting the usual levels of social interaction they need or are used to to maintain a healthy mental wellbeing. It is in our interest to find which members of our community are at most risk with a method that is highly accessible given the physical restrictions that such a societal condition imposes. 
+
+Close-ended numerical ratings are often lacking, yet are still commonly used as a shortcut for quantification of a person's mental state as there aren't many accessible alternatives. The surgent rise of the usage of AI and machine learning techniques to aid research in various fields has been a great boon to scientific progress, and the same is possible for psychology. A person's state of mind is possibly better evaluated by the open-ended nature of speech and actions, and Natural Language Processing can help us understand them better. One study \cite{semanticmeasures} has attempted to develop "semantic measures" using Natural Language Processing to statistically measure, differentiate, and describe psychological states.
+
+Dr. Julie Ji's research on mental imagery, the experience of perception in the absence of external sensory input, shows that the person's quality of mental imagery-based simulations has a significant link to maintaining and amplifying emotional states \cite{conceptualandclinical}. In one study on mental imagery as a motivational amplifier to promote activities as a key treatment in depression \cite{motivationalamplifier}, the Motivational Imagery group reported higher levels of motivation, anticipated pleasure, and anticipated reward for the planned activities compared to the Activity Reminder control group and the No-Reminder control group.
+
+The CARE study is a survey study investigating which factors contribute to people's mental wellbeing during, and after, periods of self-isolation, compared to that of just social-distancing. The survey has yielded over 1000 responses which will be the core dataset to be investigated in this project.
+
+\section*{Aim} This project aims to understand the factors that contribute to people's mental wellbeing during, and after periods of social isolation by delving into the rich data that is the participants' open-text response to the scenario provided in the survey.
+
+In this project, I propose to do three things: 
+\begin{itemize}
+	\item Find which mental imagery parameters are significant for predicting a person's risk of loneliness in a prolonged isolation setting  
+	\item Design a method to extract significant mental imagery parameters from a person's free-text response to an isolation scenario that starts negatively and ends positively
+	\item Predict a person's risk of loneliness in an isolation setting based on their mental imagery parameters
+\end{itemize}
+
+In addition, I aim to do exploratory data analysis to investigate natural clusters and relationships appearing from the data. If particular clusters show to be more susceptible to loneliness in isolation, it can be a quick and valuable tool to assess and approach patients before having access to a corpus to analyse.
+
+The four core mental imagery parameters that we're interested in are as follows:
+\begin{itemize}
+	\item Number of discrete relevant problem-solving steps that helps the person to reach the desired goal or to overcome an obstacle along the way
+	\item Solution effectiveness, or how much the person thinks the described solution would maximise positive and minimise negative consequences in both the short and long term, both personally and socially
+	\item Solution concreteness, the degree to which the described solution reflects concrete plans, i.e. involving specific actions, times, places and people
+	\item Emotional tone, the degree to which the participant sounds negative (downbeat/pessimistic/unsure) or positive (upbeat/optimistic/confident)
+\end{itemize}
+
+The dataset will be hand-graded on each of the four mental imagery parameters by research assistants to serve as the response variable that the NLP models will be trained on. 
+ 
+\section*{Method}
+Data cleaning will need to be done as there are participants who have skipped the mental imagery scenario question. Corpus cleaning will also be necessary to clean up typos, remove stop words (a, the, and, etc) and special characters, and eventually normalisation. Stemming (the process of eliminating affixes from a word to find the root word) will also be applied to the corpus.
+
+Each of the four mental imagery parameters will require their own individual regression analysis with the help of NLP techniques to arrive at a satisfactory model. Due to the time needed, it would be beneficial to first find which of the parameters are significant to save time being spent on potentially unimportant variables.
+
+As for the specific variables that would make the model for each of the four mental imagery parameters, further research and experimentation will need to be done. Some early ideas that might make it to the end models are: 
+
+\begin{itemize}
+	\item Number of discrete relevant problem-solving steps: POS tagging, verb count
+	\item Solution effectiveness: sentiment analysis
+	\item Solution concreteness: named entity count
+	\item Emotional tone: sentiment analysis
+\end{itemize}
+
+Finally, once the individual mental imagery parameter models are performing satisfactorily, we'll evaluate the effectiveness of all of them combined to predict a person's risk of loneliness at certain phases of isolation.
+
+\section*{Software and Hardware Requirements}
+
+Python 3.8 will be used for this project. BERT \cite{bert} will be used as the NLP framework of choice given its impressive performance even on small datasets. There are no special hardware requirements.
+
+\nocite{bertsentimentanalysis}
+\nocite{nonclinicalnlp}
+\bibliographystyle{plain}
+\bibliography{proposal}
+
+
+\end{document}
+

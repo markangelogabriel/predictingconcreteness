@@ -1,0 +1,78 @@
+---
+title: "Concreteness Word Dictionary"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "16/03/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+library(MASS)
+library(ggplot2)
+library(party)
+library(e1071)
+library(caret)
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/Concrete_Discrete_16032021.csv', stringsAsFactors=TRUE)
+```
+
+
+```{r}
+columns <- c("Concrete.Low", "Concrete.HighCount", "WordCount", "PerceivedRisk.Listless.r", "HADS_Dep.0", "HADS_Anx.0")
+df <- df[which(df$invalid_response==0),]
+df <- df[columns]
+df <- na.omit(df)
+
+summary(df)
+```
+
+We want to see how well the available variables can predict `Concrete`. For this, we'll use linear regression.
+
+But first, we'll be setting up the train/test split.
+
+```{r}
+set.seed(5014)
+test.idx <- createDataPartition(df$Concrete.Low, p=0.2, list=FALSE)
+df.train <- df[-test.idx,]
+df.test <- df[test.idx,]
+
+c(nrow(df.train), nrow(df.test))
+```
+# SVM
+
+```{r}
+concrete.svm <- svm(Concrete.Low ~ ., data=df.train)
+
+summary(concrete.svm)
+```
+
+# Testing 
+
+```{r}
+concrete.pred.train <- predict(concrete.svm, df.train)
+concrete.pred.test <- predict(concrete.svm, df.test)
+
+concrete.pred.train <- ifelse(concrete.pred.train>=0.5, 1, 0)
+concrete.pred.test <- ifelse(concrete.pred.test>=0.5, 1, 0)
+
+# Accuracy
+mean(concrete.pred.train==df.train$Concrete.Low)
+mean(concrete.pred.test==df.test$Concrete.Low)
+```
+
+# Confusion Matrix
+
+```{r}
+concrete.pred.test.factor <- ifelse(concrete.pred.test==0, "False", "True")
+concrete.pred.test.factor <- as.factor(concrete.pred.test.factor)
+df.test$Concrete.Low.Factor <- ifelse(df.test$Concrete.Low==0, "False", "True")
+df.test$Concrete.Low.Factor <- as.factor(df.test$Concrete.Low.Factor)
+confusionMatrix(concrete.pred.test.factor, df.test$Concrete.Low.Factor)
+```

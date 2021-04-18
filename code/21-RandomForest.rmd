@@ -1,0 +1,74 @@
+---
+title: "Concreteness Word Dictionary"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "16/03/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+library(MASS)
+library(ggplot2)
+library(party)
+library(e1071)
+library(caret)
+library(randomForest)
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/Concrete_Discrete_16032021.csv', stringsAsFactors=TRUE)
+```
+
+
+```{r}
+df <- df[which(df$invalid_response==0),]
+df <- within(df, rm("Response.x", "Steps", "Effective", "Emotion", "invalid_response", "Age.r", "Concrete", "Concrete.Low", "Concrete.Medium", "Concrete.High"))
+df <- na.omit(df)
+
+summary(df)
+```
+
+We want to see how well the available variables can predict `Concrete`. For this, we'll use linear regression.
+
+But first, we'll be setting up the train/test split.
+
+```{r}
+set.seed(5014)
+test.idx <- createDataPartition(df$Concrete.Level, p=0.2, list=FALSE)
+df.train <- df[-test.idx,]
+df.test <- df[test.idx,]
+
+c(nrow(df.train), nrow(df.test))
+```
+# Random Forest
+
+```{r}
+concrete.rf <- randomForest(Concrete.Level ~ ., data=df.train, ntree=100, importance=TRUE, mtry=2)
+
+concrete.rf
+```
+# Importance
+
+```{r}
+varImpPlot(concrete.rf, n.var=10)
+```
+
+# Testing 
+
+```{r}
+concrete.pred.test <- predict(concrete.rf, df.test)
+
+# Accuracy
+mean(concrete.pred.test==df.test$Concrete.Level)
+```
+
+# Confusion Matrix
+
+```{r}
+confusionMatrix(concrete.pred.test, df.test$Concrete.Level)
+```

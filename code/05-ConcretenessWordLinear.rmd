@@ -1,0 +1,79 @@
+---
+title: "Concreteness Word Dictionary"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "16/03/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+library(MASS)
+library(ggplot2)
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/Concrete_Discrete_16032021.csv')
+```
+
+With this analysis, we want to be able to create a model that predicts concreteness with data that can be obtained at day zero.
+Remove unnecessary variables for preliminary analysis. Age has also been removed in favor of Age.Group. 
+
+```{r}
+df <- df[which(df$invalid_response==0),]
+df <- within(df, rm("Response.x", "Steps", "Effective", "Emotion", "invalid_response", "Age.r", "Concrete.Level", "Concrete.Low", "Concrete.Medium", "Concrete.High"))
+
+df$IsolationDays.0 <- as.numeric(df$IsolationDays.0)
+df <- na.omit(df)
+summary(df)
+```
+
+We want to see how well the available variables can predict `Concrete`. For this, we'll use linear regression.
+
+But first, we'll be setting up the train/test split.
+
+```{r}
+set.seed(5014)
+test.idx <- sample(nrow(df), floor(nrow(df)*0.1))
+df.train <- df[-test.idx,]
+df.test <- df[test.idx,]
+
+c(nrow(df.train), nrow(df.test))
+```
+
+# Linear Regression
+
+```{r}
+concrete.lm <- lm(Concrete ~ ., df.train)
+concrete.ss <- lm(Concrete ~ 1, df.train)
+concrete.ss <- step(concrete.ss, scope=list(upper=concrete.lm), trace=0)
+
+summary(concrete.ss)
+```
+
+# Testing accuracy
+
+```{r}
+concrete.pred.train <- predict(concrete.ss)
+concrete.pred.test <- predict(concrete.ss, newdata=df.test, type="response")
+
+# RMSE calculation
+sqrt(mean((concrete.pred.train-df.train$Concrete)^2))
+sqrt(mean((concrete.pred.test-df.test$Concrete)^2))
+```
+
+```{r}
+df.test$ConcretePred <- concrete.pred.test
+df.test <- df.test[order(df.test$Concrete),]
+
+x.label <- 1:dim(df.test)[1]
+
+ggplot(df.test, aes(x=x.label)) + 
+  geom_line(aes(y=Concrete, color="True")) + 
+  geom_line(aes(y=ConcretePred, color="Predicted")) +
+  theme_classic()
+```
