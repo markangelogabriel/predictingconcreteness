@@ -10,13 +10,14 @@ output:
 ---
 
 ```{r}
-
+library(ggplot2)
 ```
 
 # Data setup
 
 ```{r}
 df <- read.csv('../data/CAREStudy.RaterDiffs.20May2021.csv')
+nrow(df)
 ```
 
 ```{r}
@@ -24,4 +25,8 @@ summary(df$score_diff)
 ```
 ```{r}
 boxplot(df$score_diff)
+```
+
+```{r}
+hist(df$score_diff)
 ```

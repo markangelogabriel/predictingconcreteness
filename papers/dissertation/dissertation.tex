@@ -13,6 +13,7 @@
 \parskip 5pt
 \pagestyle{plain}
 
+\usepackage{hyperref}
 \usepackage{comment}
 \usepackage{multirow}
 \usepackage[bottom]{footmisc}
@@ -36,12 +37,42 @@
 \end{list}}
 
 \begin{document}
-\maketitle
+
+%titlepage
+\thispagestyle{empty}
+\begin{center}
+\begin{minipage}{0.75\linewidth}
+    \centering
+%University logo
+    \includegraphics[width=0.3\linewidth]{UWA-LOGO.png}\par
+    \vspace{1cm}
+    {\large The University of Western Australia\par}
+    \vspace{3cm}
+%Thesis title
+    {\uppercase{\large Predicting Mental Imagery Concreteness\par}}
+    \vspace{3cm}
+%Author's name
+    {\large Mark Angelo Gabriel\par}
+    \vspace{0.5cm}
+    {Student 22210681\par}
+    \vspace{0.5cm}
+    {School of Computer Science and Software Engineering \par}
+    \vspace{1cm}
+    {\small Advisors: \par}
+    \vspace{0.5cm}
+    {\small Dr. Julie Ji, Dr. Wei Liu, Dr Francisco De Toni\par}
+    \vspace{4cm}
+%Date
+    {May 2021}
+\end{minipage}
+\end{center}
+\clearpage
 
 \tableofcontents
 \listoffigures
 \listoftables
 
+\clearpage
 
 \section{Abstract} The COVID-19 pandemic has forced a sudden change in society that we weren't fully prepared for.  Self-isolation and physical distancing has been imposed on everyone in varying degrees and the effect of it on people's mental wellbeing is an area of interest, especially if a second or third wave of the pandemic will require people to undergo isolation again. Certain members of the community are going to be affected more than others from this rapid disruption of the day-to-day because they are not getting the usual levels of social interaction they need or are used to to maintain a healthy mental wellbeing. It is in our interest to find which members of our community are at most risk with a method that is highly accessible given the physical restrictions that such a societal condition imposes. 
 
@@ -190,14 +221,9 @@ Both of these models will be used for binary (Low and not low) and multilevel (L
 
 \subsection{Prediction with classical techniques}
 
+While we will have an early attempt at prediction during the inferential analysis part of the study, there are techniques much better suited to our goal of prediction accuracy. The classics approaches that are strong and popular models for prediction to be used are SVMs and Random Forests.
+
 Both of these models will be used for binary (Low and not low) and multilevel (Low, Medium, High) classification.
-
-
-\subsubsection{SVM Classifier}
-
-\subsubsection{Random Forest Classifier}
-
-\subsection{Summary}
 
 \section{Results and Discussion}
 
@@ -422,6 +448,8 @@ A conditional inference tree as specified in Hothorn, Hornik, and Zeileis's pape
 
 The importance of the count of high concreteness words have repeatedly shown up in many of our tested models which gives a strong indication that using NLP techniques on our response might yield rich information not usually attainable with other methods.
 
+\clearpage
+
 \subsection{Prediction with natural language processing techniques}
 
 \begin{comment}
@@ -480,6 +508,10 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 
 \subsubsection{BiLSTM Classifier}
 
+Flair\cite{flair} was used to implement BiLSTMs\cite{bilstm} for this study. The LSTM (Long Short Term Memory) architecture was explicitly designed to remember information over long periods of time, similar to recurring neural networks (RNN) who are also built to carry contextual information, but suffer from the vanishing or exploding gradients problem. Bidirectional LSTMs will run our inputs from start to end and end to start, preserving context both ways, which is useful for language problems. Due to these reasons, BiLSTMs have been at the forefront of NLP advancement in the recent years, alongside Transformers.
+
+The word embeddings used are GloVe\cite{glove} and Flair's two embeddings\cite{flair_embeddings} news-forward and news-backward. 
+
 \begin{table}[ht]
 \centering
 \begin{tabular}{l|l|c|c|c}
@@ -515,6 +547,7 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:bilstmstat_low}
 \end{table}
 
+For the binary model (Low vs Not Low), we can see in Table \ref{table:bilstm_low} that the BiLSTM model largely failed to predict Low responses, falling back to mode collapse, almost always predicting Not Low, in an attempt to achieve the highest accuracy it can.
 
 \begin{table}[ht]
 \centering
@@ -554,7 +587,13 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:bilstmstat}
 \end{table}
 
+For the multiclass model (Low vs Medium vs High), we can see in Table \ref{table:bilstm} that the BiLSTM model largely failed to predict Low responses, falling back to mode collapse, almost always predicting Not Low, in an attempt to achieve the highest accuracy it can. The accuracy is at 0.3303 which is not much better than randomly guessing.
+
 \subsubsection{Transformer model}
+
+Flair\cite{flair} was used to implement Transformers for this study. The Transformer\cite{vaswani2017attention} architecture, similar to RNNs and LSTMs, are designed to handle sequential data. It connects an encoder and a decoder through an attention mechanism, and does not need to handle data sequentially, allowing it to be parallelizable making it popular for transfer learning.
+
+The pre-trained model of choice for this paper is RoBERTa\cite{roberta} given its powerful performance while still keeping reasonable performance requirements for the machine used. The roberta-base transformer document embedding was used as well.
 
 \begin{table}[ht]
 \centering
@@ -591,6 +630,7 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:robertastat_low}
 \end{table}
 
+For the binary model (Low vs Not Low), we can see in Table \ref{table:robertacm_low} that the Transformer mode completely predicted Not Low for all responses in the test data. 
 
 \begin{table}[ht]
 \centering
@@ -607,10 +647,10 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \cline{2-5}
 \multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{36} & \multicolumn{    1}{c}{46} & \multicolumn{    1}{c}{27} & \multicolumn{1}{c}{109}\\
 \end{tabular}
-
 \caption{RoBERTa multiclassifier confusion matrix}
 \label{table:robertacm}
 \end{table}
+
 
 \begin{table}[ht]
 \centering
@@ -630,9 +670,15 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:robertastat}
 \end{table}
 
+
+For the multiclass model (Low vs Medium vs High), we can see in Table \ref{table:robertacm} that the RoBERTa model largely avoided predicting High on the responses. On the Low and Medium classes, the F1 score and accuracy of this model is significantly better (0.4037 vs 0.3303) than the performance of the BiLSTM model. It likely is due to the fact that the pretrained models carry in a wealth of information that helps our low count dataset more than what word embeddings can give.
+
 \subsection{Prediction with classical techniques}
+Earlier in the analysis, we can see that the addition of the word concreteness variables have helped the simple models like decision trees and linear regression improve their performance. However, there are techniques much better suited to our goal of prediction accuracy than those we've tried for inferential purposes. The non-NLP models that we will be fitting in this study an SVM classifier and a Random Forest classifier.
 
 \subsubsection{SVM Classifier}
+
+The binary SVM classifier model was able to get a 0.6702 accuracy while having a higher F1 Score on the Low class than the RoBERTa model. While it was nice to see a model not mode collapsing onto Not Low, it still didn't outperform the null model with an accuracy of 0.6789. 
 
 \begin{table}[ht]
 \centering
@@ -668,6 +714,8 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \caption{SVM binary classifier statistics}
 \label{table:svmstat_low}
 \end{table}
+
+The multiclassifier SVM model was able to get a 0.4762 accuracy. It has a more balanced prediction spread than the non-NLP models, with High having a representation in the prediction model as compared to largely being ignored.
 
 \begin{table}[ht]
 \centering
@@ -710,7 +758,9 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 
 \subsubsection{Random Forest Classifier}
 
-\begin{table}[ht]
+The binary Random Forest classifier model was able to get a 0.7119 accuracy, the highest of our models. For practical purposes though, the recall on Low at 0.1897 means that it isn't that effective still for the purposes of identifying the people in our community at risk of decreased mental health, though the relatively high precision of 0.7333 makes it so that this model tends to be correct when it does guess that someone is Low concreteness.
+
+\begin{table}[t!]
 \centering
 \begin{tabular}{l|l|c|c|c}
 \multicolumn{2}{c}{}&\multicolumn{2}{c}{True level}&\\
@@ -727,7 +777,7 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:rfcm_low}
 \end{table}
 
-\begin{table}[ht]
+\begin{table}[t!]
 \centering
 \begin{tabular}{||c c c c||} 
  \hline
@@ -745,7 +795,9 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:rfstat_low}
 \end{table}
 
-\begin{table}[ht]
+
+
+\begin{table}[t!]
 \centering
 \begin{tabular}{l|l|c|c|c|c}
 \multicolumn{2}{c}{}&\multicolumn{3}{c}{True level}&\\
@@ -765,7 +817,7 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:rfcm}
 \end{table}
 
-\begin{table}[ht]
+\begin{table}[t!]
 \centering
 \begin{tabular}{||c c c c c||} 
  \hline
@@ -784,8 +836,28 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:rfstat}
 \end{table}
 
-\subsection{Summary}
+The three variables that have the highest mean decrease in accuracy (how much the prediction accuracy suffers when the variable is removed from the random forest) scores in both binary and multiclass random forests are: 
+\begin{itemize}
+  \item Extreme concreteness word count (Concreteness scores >4 in a 5 point scale)
+  \item High concreteness word count (Concreteness scores >3 in a 5 point scale)
+  \item Word count
+\end{itemize}
 
+The random forest analysis has again shown the value of the word concreteness dataset by Charbonnier and Wartena\cite{charbonnier-wartena-2019-predicting}.
+
+\subsection{Dissonance between Human Raters}
+To put into context the difficulty of the task for humans, we can look at the differences between the ratings of two raters on a single response where available. We have 194 responses of 1269 that have been rated by two humans. 
+
+The difference between ratings have been found to have a mean of 1.052 and a median of 1. In a five-point scale, it is not a small difference to be having. It is important to realise this to put the performance of our models in context.
+
+\clearpage
+
+\section{Conclusion}
+
+Of the four predictive models we've created, the Random Forest achieved the highest F1 Scores on micro and individual classes on both the binary and multiclass predictor models, except for the SVM having a better F1 Score on the Medium class (0.5524 vs 0.5085). See tables \ref{table:summary_multi} and \ref{table:summary_binary} for the full summary of scores.
+
+These scores are not yet ready for our models to be made publicly used as a prediction tool to identify the people in our society that are in need of mental help, but we have shown that individual word concreteness has a correlation to a response's concreteness level as a whole. In every model that the word concreteness features were included, accuracy improves. 
+ 
 \begin{table}[ht]
 \centering
 \begin{tabular}{||c c c c c||} 
@@ -818,10 +890,98 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \end{tabular}
 
 \caption{Summary of binary predictors}
-\label{table:summary_binaryi}
+\label{table:summary_binary}
 \end{table}
 
+\section{Future Work and Recommendations}
+A larger dataset with a more human raters per response would greatly help the analyses. A dataset size of ~1000 is small especially for NLP problems. Pre-trained models help, but not enough to bridge the domain-specific knowledge gap. 
 
+Class imbalance is negatively affecting the models, especially the NLP models that have ended up in mode collapse. Techniques can be applied to alleviate this such as making learning rates dynamically scale to the relative class sizes.
+
+Hyperparameter tuning would also be a simple way to get a few more improvements in the F1 scores of our models, but the problem largely lies with the dataset and the nature of the problem being difficult even for humans with a mean difference of human raters' ratings being 1.052 in a 5 point scale.
+
+NLP attempts to predict concreteness have generally failed, and the usage of specific domain knowledge through the word concreteness dataset have been valuable, so research in the direction of finding other possible non-machine learning ways to evaluate concreteness would work well to augment the word concreteness dataset in understanding and prediction response concreteness.
+
+\clearpage
+\section{Appendix}
+
+\subsection{Codebase}
+The full codebase is publicly available on GitHub at \underline{\href{https://github.com/markangelogabriel/predictingconcreteness}{markangelogabriel/predictingconcreteness}}.
+
+\subsection{Original proposal}
+
+%titlepage
+\thispagestyle{empty}
+\begin{center}
+\begin{minipage}{0.75\linewidth}
+    \centering
+%Proposal title
+    {\uppercase{\large Effect of mental imagery parameters on the risk of experiencing loneliness in a period of isolation\par}}
+    \vspace{1cm}
+%Author's name
+    {\large Mark Angelo Gabriel\par}
+    \vspace{0.25cm}
+    {Student 22210681\par}
+    \vspace{0.25cm}
+    {School of Computer Science and Software Engineering \par}
+    \vspace{0.5cm}
+    {\small Advisors: \par}
+    \vspace{0.25cm}
+    {\small Dr. Julie Ji, Dr. Wei Liu, Dr Debora Correa\par}
+    \vspace{1cm}
+\end{minipage}
+\end{center}
+
+
+
+\section*{Background} The COVID-19 pandemic has forced a sudden change in society that we weren't fully prepared for.  Self-isolation and physical distancing has been imposed on everyone in varying degrees and the effect of it on people's mental wellbeing is an area of interest, especially if a second or third wave of the pandemic will require people to undergo isolation again. Certain members of the community are going to be affected more than others from this rapid disruption of the day-to-day because they are not getting the usual levels of social interaction they need or are used to to maintain a healthy mental wellbeing. It is in our interest to find which members of our community are at most risk with a method that is highly accessible given the physical restrictions that such a societal condition imposes. 
+
+Close-ended numerical ratings are often lacking, yet are still commonly used as a shortcut for quantification of a person's mental state as there aren't many accessible alternatives. The surgent rise of the usage of AI and machine learning techniques to aid research in various fields has been a great boon to scientific progress, and the same is possible for psychology. A person's state of mind is possibly better evaluated by the open-ended nature of speech and actions, and Natural Language Processing can help us understand them better. One study \cite{semanticmeasures} has attempted to develop "semantic measures" using Natural Language Processing to statistically measure, differentiate, and describe psychological states.
+
+Dr. Julie Ji's research on mental imagery, the experience of perception in the absence of external sensory input, shows that the person's quality of mental imagery-based simulations has a significant link to maintaining and amplifying emotional states \cite{conceptualandclinical}. In one study on mental imagery as a motivational amplifier to promote activities as a key treatment in depression \cite{motivationalamplifier}, the Motivational Imagery group reported higher levels of motivation, anticipated pleasure, and anticipated reward for the planned activities compared to the Activity Reminder control group and the No-Reminder control group.
+
+The CARE study is a survey study investigating which factors contribute to people's mental wellbeing during, and after, periods of self-isolation, compared to that of just social-distancing. The survey has yielded over 1000 responses which will be the core dataset to be investigated in this project.
+
+\section*{Aim} This project aims to understand the factors that contribute to people's mental wellbeing during, and after periods of social isolation by delving into the rich data that is the participants' open-text response to the scenario provided in the survey.
+
+In this project, I propose to do three things: 
+\begin{itemize}
+	\item Find which mental imagery parameters are significant for predicting a person's risk of loneliness in a prolonged isolation setting  
+	\item Design a method to extract significant mental imagery parameters from a person's free-text response to an isolation scenario that starts negatively and ends positively
+	\item Predict a person's risk of loneliness in an isolation setting based on their mental imagery parameters
+\end{itemize}
+
+In addition, I aim to do exploratory data analysis to investigate natural clusters and relationships appearing from the data. If particular clusters show to be more susceptible to loneliness in isolation, it can be a quick and valuable tool to assess and approach patients before having access to a corpus to analyse.
+
+The four core mental imagery parameters that we're interested in are as follows:
+\begin{itemize}
+	\item Number of discrete relevant problem-solving steps that helps the person to reach the desired goal or to overcome an obstacle along the way
+	\item Solution effectiveness, or how much the person thinks the described solution would maximise positive and minimise negative consequences in both the short and long term, both personally and socially
+	\item Solution concreteness, the degree to which the described solution reflects concrete plans, i.e. involving specific actions, times, places and people
+	\item Emotional tone, the degree to which the participant sounds negative (downbeat/pessimistic/unsure) or positive (upbeat/optimistic/confident)
+\end{itemize}
+
+The dataset will be hand-graded on each of the four mental imagery parameters by research assistants to serve as the response variable that the NLP models will be trained on. 
+ 
+\section*{Method}
+Data cleaning will need to be done as there are participants who have skipped the mental imagery scenario question. Corpus cleaning will also be necessary to clean up typos, remove stop words (a, the, and, etc) and special characters, and eventually normalisation. Stemming (the process of eliminating affixes from a word to find the root word) will also be applied to the corpus.
+
+Each of the four mental imagery parameters will require their own individual regression analysis with the help of NLP techniques to arrive at a satisfactory model. Due to the time needed, it would be beneficial to first find which of the parameters are significant to save time being spent on potentially unimportant variables.
+
+As for the specific variables that would make the model for each of the four mental imagery parameters, further research and experimentation will need to be done. Some early ideas that might make it to the end models are: 
+
+\begin{itemize}
+	\item Number of discrete relevant problem-solving steps: POS tagging, verb count
+	\item Solution effectiveness: sentiment analysis
+	\item Solution concreteness: named entity count
+	\item Emotional tone: sentiment analysis
+\end{itemize}
+
+Finally, once the individual mental imagery parameter models are performing satisfactorily, we'll evaluate the effectiveness of all of them combined to predict a person's risk of loneliness at certain phases of isolation.
+
+\section*{Software and Hardware Requirements}
+
+Python 3.8 will be used for this project. BERT \cite{bert} will be used as the NLP framework of choice given its impressive performance even on small datasets. There are no special hardware requirements.
 
 \bibliographystyle{plain}
 \bibliography{dissertation}
