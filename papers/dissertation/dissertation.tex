@@ -13,6 +13,7 @@
 \parskip 5pt
 \pagestyle{plain}
 
+\usepackage{comment}
 \usepackage{multirow}
 \usepackage[bottom]{footmisc}
 \usepackage{listings}
@@ -91,7 +92,7 @@ While XLNet, BERT and RoBERTa all come from the same family of models, XLNet dif
 	\label{benchmarks}
 \end{figure}
 
-For the above reasons, and for the benchmarks set out in Figure \ref{benchmarks}, XLNet will be our pretrained model of choice. In addition, HuggingFace \cite{Wolf2019HuggingFacesTS} provides a transformer library that wraps all of these transformers for use with PyTorch or TensorFlow in a neat package that allows us to utilise the base XLNet model and the large XLNet model, alongside any other pretrained transformer model if we wish to make model comparisons. 
+While the performance benchmarks above in Figure \ref{benchmarks} suggest that XLNet would perform the best, the hardware available for use for this research lacks the capability to run a heavyweight transformer model. For this reason, RoBERTa \cite{roberta}, coming as a close second, shall be used in this study as choice of pretrained transformer model.
 
 \section{Data}
 
@@ -129,7 +130,7 @@ Concreteness is recorded as a numerical number between 1 and 5 with half steps a
 \label{concreteness_distribution}
 \end{figure}
  
-Three levels have been deemed important in the scope of this research: Low, Medium, and High. The cutoff points were chosen to minimise the relative class sizes, as if we were to trisect the number scale, we would end up with a high class imbalance particularly against High. See Figure \ref{concreteness_distribution}to see the raw concreteness distribution. Concreteness scores in the [0, 1.5) range are classed into Low, [1.5, 2.5) into Medium, and [2.5, 5] into High. While the number of observations falling under High Concreteness is still fairly lower than those in Low or Medium as can be seen in Figure \ref{concreteness_discrete_distribution}, any other cutoff combination for our dataset would make further imbalance the classes. This is just the nature of our data where concreteness scores are concentrated in the lower ranges.
+Three levels have been deemed important in the scope of this research: Low, Medium, and High. The cutoff points were chosen to minimise the relative class sizes, as if we were to trisect the number scale, we would end up with a high class imbalance particularly against High. See Figure \ref{concreteness_distribution} to see the raw concreteness distribution. Concreteness scores in the [0, 1.5) range are classed into Low, [1.5, 2.5) into Medium, and [2.5, 5] into High. While the number of observations falling under High Concreteness is still fairly lower than those in Low or Medium as can be seen in Figure \ref{concreteness_discrete_distribution}, any other cutoff combination for our dataset would make further imbalance the classes. This is just the nature of our data where concreteness scores are concentrated in the lower ranges.
 
 Aside from the three levels, we will also explore models focusing on a boolean classification of Low Concreteness or not. 
 
@@ -162,10 +163,9 @@ The baseline model will be a predictor model for concreteness from non-textual i
 Stepwise selection will be used to narrow down the predictive parameters to only the most significant few to maximise the AIC score of the model. Multiple linear regression will be the regression technique of choice in order to better understand the effect of each significant variable on concreteness as compared to less inferential techniques such as support vector machines. 
 
 \subsubsection{Word-level mined variables}
-Word-level approaches will be applied to the response texts to gather high level information to see if non-NLP text approaches can bring an improvement in performance to our Concreteness prediction model. Primarily, the word concreteness dictionary from Charbonnier's \textit{Predicting Word Concreteness and Imagery} paper \cite{charbonnier-wartena-2019-predicting} will be utilised to gather new features from the responses in our observations. Bigrams will also be included in the data mining.
+Word-level approaches will be applied to the response texts to gather high level information to see if using the response text can bring an improvement in performance to our Concreteness prediction model. The word concreteness dictionary from Charbonnier's \textit{Predicting Word Concreteness and Imagery} paper \cite{charbonnier-wartena-2019-predicting} will primarily be utilised to gather new features from the responses in our observations. Bigrams will also be included in the data mining.These new features will be a good preliminary indicator on if more complex natural language processing techniques will yield a better understanding of concreteness in terms of prediction.
 
 Multiple linear regression will be used similar to the baseline model, with the difference being the addition of new data on word concreteness. Stepwise selection will be used to narrow down the predictive parameters, with the new fields being added to the model afterwards if not already selected by the algorithm. 
-
 
 \subsubsection{One-vs-rest Classification}
 The discretisation of Concreteness will allow us to use the One-vs-rest logistic classification. Three individual models will be created for predicting if an observation is of Low, Medium, or High Concreteness. This will also make it possible to see if different factors count for different Concreteness levels which may come useful for inference of what variables to look out for for specific classes. 
@@ -177,22 +177,26 @@ Decision Trees are highly explainable classification models which could give us 
 
 \subsection{Prediction with natural language processing techniques}
 
+\begin{comment}
 \subsubsection{BERT pretrained model}
 BERT (Bidirectional Encoder Representations from Transformers) \cite{bert} is a popular application of bidirectional training of transformers to language modelling. Transfer learning has been shown to be extremely valuable especially on small datasets such as in this study, and we are interested to see what kind of performance improvements we will see with using BERT pretrained models in a feed forward neural network ending with three nodes representing the three concreteness classes with a softmax layer applied at the end for classification.
 
 In addition, we will try to augment the model above with the high concreteness word count variable to see if it will further push the performance upwards.
+\end{comment}
 
-\subsubsection{BiLSTM Classifier}
+The primary approach to be investigated in this study is the usage of natural language processing techniques to predict concreteness and comparing its performance compared to classical non-NLP approaches. The two main architectures to be explored are bidirectional LSTMs \cite{bilstm} and pretrained transformer models, particularly RoBERTa \cite{roberta} as they are the two architecture types that have stayed at the forefront of advancement in the field of NLP. 
 
-\subsubsection{Transformer model with XLNet}
+Both of these models will be used for binary (Low and not low) and multilevel (Low, Medium, High) classification.
 
 \subsection{Prediction with classical techniques}
+
+Both of these models will be used for binary (Low and not low) and multilevel (Low, Medium, High) classification.
+
 
 \subsubsection{SVM Classifier}
 
 \subsubsection{Random Forest Classifier}
 
-\subsubsection{XGBoost Classifier}
 \subsection{Summary}
 
 \section{Results and Discussion}
@@ -222,7 +226,7 @@ Mental Health Diagnosis (yes - past) & 0.0485 & 0.0314 & 0.1226\\
 \caption{Baseline Model}
 \label{table:1}
 \end{table}
-\footnotetext{Number of adult coinhabitants that aren't your family, partner, or friend.}
+\footnotetext{Number of adult coinhabitants that are not your family, partner, or friend.}
 
 This baseline model has an adjusted $R^2$ score of $0.0400$ which means that the variables selected account only for approximately 4\% of the variance of Concreteness, which is abysmally low and unusable for prediction purposes. This low score can  mean two possible things. First is that the relationship between the predictors and the target variable may not be linear in nature. Second is that the baseline variables may simply not be strongly related to a person's concreteness of mental imagery that is estimated by humans by assessing the response text.  
 
@@ -273,7 +277,7 @@ A one-vs-rest classification approach has been applied to the data. This will al
 \label{table:low}
 \end{table}
 
-The model parameters can be found in Table \ref{table:low}. The low concreteness model has yielded a training accuracy of 0.6758 and a test accuracy of 0.72. This model is the simplest one we've encountered which is quite insightful. Both high concreteness word count and perceived risk of listlessness are consistently significant predictors for many of our models here, and the patterns are the same. More occurences of high concreteness words generally lead to high concreteness scores (hence the negative relationship between high concreteness word counts and the probability of being a low concreteness observation) and a higher perceived risk of listlessness generally leads to low concreteness scores.
+The model parameters can be found in Table \ref{table:low}. The low concreteness model has yielded a training accuracy of 0.6758 and a test accuracy of 0.7200. This model is the simplest one we've encountered which is quite insightful. Both high concreteness word count and perceived risk of listlessness are consistently significant predictors for many of our models here, and the patterns are the same. More occurences of high concreteness words generally lead to high concreteness scores (hence the negative relationship between high concreteness word counts and the probability of being a low concreteness observation) and a higher perceived risk of listlessness generally leads to low concreteness scores.
 
 \paragraph{Medium Concreteness model}
 
@@ -346,7 +350,7 @@ A concreteness classifier that uses the outputs of the three individual models a
 \cline{2-5}
 \multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{57} & \multicolumn{    1}{c}{76} & \multicolumn{    1}{c}{42} & \multicolumn{1}{c}{175}\\
 \end{tabular}
-\caption{One-vs-rest Classifier}
+\caption{One-vs-rest Classifier confusion matrix}
 \label{table:onevall}
 \end{table}
 
@@ -393,7 +397,7 @@ A conditional inference tree as specified in Hothorn, Hornik, and Zeileis's pape
 \cline{2-5}
 \multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{58} & \multicolumn{    1}{c}{77} & \multicolumn{    1}{c}{43} & \multicolumn{1}{c}{178}\\
 \end{tabular}
-\caption{Decision Tree}
+\caption{Decision Tree confusion matrix}
 \label{table:decision_tree}
 \end{table}
 
@@ -420,6 +424,7 @@ The importance of the count of high concreteness words have repeatedly shown up 
 
 \subsection{Prediction with natural language processing techniques}
 
+\begin{comment}
 \subsubsection{BERT Pretrained models}
 The bert-base-cased pretrained model has been selected for this study. The training time has been set to 15 epochs. The first feed forward neural network created has the following layers: 
 
@@ -471,19 +476,352 @@ The first network has achieved a test accuracy of 0.4404, while the second netwo
 \label{table:pretrained2}
 \end{table}
 
+\end{comment}
+
 \subsubsection{BiLSTM Classifier}
 
-\subsubsection{Transformer model with XLNet}
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{2}{c}{True level}&\\
+\cline{3-4}
+\multicolumn{2}{c|}{}&Low&Not Low&\multicolumn{1}{c}{Total}\\
+\cline{2-4}
+\multirow{2}{*}{Predicted level}& Low & 0 & 2 & 2\\
+\cline{2-4}
+& Not Low & 35 & 72 & 107\\
+\cline{2-4}
+\multicolumn{1}{c}{Total} & \multicolumn{1}{c}{35} & \multicolumn{    1}{c}{74} & \multicolumn{1}{c}{109}\\
+\end{tabular}
+\caption{BiLSTM binary classifier confusion matrix}
+\label{table:bilstm_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ Statistic & Score & Low & Not Low  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.0000 & 0.6729 \\ 
+ Recall & & 0.0000 & 0.9730 \\
+ F1 Score &  & 0.0000 & 0.7956 \\
+ F1 Score (micro) & 0.6606 & & \\
+ F1 Score (macro)  & 0.3978 & &  \\ 
+ Accuracy  & 0.6606 & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{BiLSTM binary classifier statistics}
+\label{table:bilstmstat_low}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{3}{c}{True level}&\\
+\cline{3-5}
+\multicolumn{2}{c|}{}&Low&Medium&High&\multicolumn{1}{c}{Total}\\
+\cline{2-5}
+\multirow{3}{*}{Predicted level}& Low & 29 & 38 & 24 & 91\\
+\cline{2-5}
+& Medium & 7 & 7 & 3 & 17\\
+\cline{2-5}
+& High & 0 & 1 & 0 & 1\\
+\cline{2-5}
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{36} & \multicolumn{    1}{c}{46} & \multicolumn{    1}{c}{27} & \multicolumn{1}{c}{109}\\
+\end{tabular}
+
+\caption{BiLSTM multiclassifier confusion matrix}
+\label{table:bilstm}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c c||} 
+ \hline
+ Statistic & Score & Low & Medium & High  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.3187 & 0.4118 & 0.0000 \\ 
+ Recall & & 0.8056 & 0.1522  & 0.0000\\
+ F1 Score &  & 0.4567 & 0.2222  & 0.0000\\
+ F1 Score (micro) & 0.3303 & & & \\
+ F1 Score (macro)  & 0.2263 & & & \\ 
+ Accuracy  & 0.3303 & & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{BiLSTM multiclassifier statistics}
+\label{table:bilstmstat}
+\end{table}
+
+\subsubsection{Transformer model}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{2}{c}{True level}&\\
+\cline{3-4}
+\multicolumn{2}{c|}{}&Low&Not Low&\multicolumn{1}{c}{Total}\\
+\cline{2-4}
+\multirow{2}{*}{Predicted level}& Low & 0 & 0 & 0\\
+\cline{2-4}
+& Not Low & 35 & 74 & 109\\
+\cline{2-4}
+\multicolumn{1}{c}{Total} & \multicolumn{1}{c}{35} & \multicolumn{    1}{c}{74} & \multicolumn{1}{c}{109}\\
+\end{tabular}
+\caption{RoBERTa binary classifier confusion matrix}
+\label{table:robertacm_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ Statistic & Score & Low & Not Low  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.0000 & 0.6789 \\ 
+ Recall & & 0.0000 & 1.0000 \\
+ F1 Score &  & 0.0000 & 0.8087 \\
+ F1 Score (micro) & 0.6789 & & \\
+ F1 Score (macro)  & 0.4044 & &  \\ 
+ Accuracy  & 0.6789 & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{RoBERTa binary classifier statistics}
+\label{table:robertastat_low}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{3}{c}{True level}&\\
+\cline{3-5}
+\multicolumn{2}{c|}{}&Low&Medium&High&\multicolumn{1}{c}{Total}\\
+\cline{2-5}
+\multirow{3}{*}{Predicted level}& Low & 21 & 24 & 8 & 53\\
+\cline{2-5}
+& Medium & 14 & 22 & 18 & 54\\
+\cline{2-5}
+& High & 1 & 0 & 1 & 2\\
+\cline{2-5}
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{36} & \multicolumn{    1}{c}{46} & \multicolumn{    1}{c}{27} & \multicolumn{1}{c}{109}\\
+\end{tabular}
+
+\caption{RoBERTa multiclassifier confusion matrix}
+\label{table:robertacm}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c c||} 
+ \hline
+ Statistic & Score & Low & Medium & High  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.3962 & 0.4074 & 0.5000 \\ 
+ Recall & & 0.5833 & 0.4783  & 0.0370\\
+ F1 Score &  & 0.4719 & 0.4400  & 0.0690\\
+ F1 Score (micro) & 0.4037 & & & \\
+ F1 Score (macro)  & 0.327 & & & \\ 
+ Accuracy  & 0.4037 & & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{RoBERTa multiclassifier statistics}
+\label{table:robertastat}
+\end{table}
 
 \subsection{Prediction with classical techniques}
 
 \subsubsection{SVM Classifier}
 
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{2}{c}{True level}&\\
+\cline{3-4}
+\multicolumn{2}{c|}{}&Low&Not Low&\multicolumn{1}{c}{Total}\\
+\cline{2-4}
+\multirow{2}{*}{Predicted level}& Low & 7 & 6 & 13\\
+\cline{2-4}
+& Not Low & 56 & 119 & 175\\
+\cline{2-4}
+\multicolumn{1}{c}{Total} & \multicolumn{1}{c}{63} & \multicolumn{    1}{c}{125} & \multicolumn{1}{c}{188}\\
+\end{tabular}
+\caption{SVM binary classifier confusion matrix}
+\label{table:svmcm_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ Statistic & Score & Low & Not Low  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.5385 & 0.6800 \\ 
+ Recall & & 0.1111 & 0.9520 \\
+ F1 Score &  & 0.1842 & 0.7933 \\
+ F1 Score (micro) & 0.6702 & & \\
+ F1 Score (macro)  & 0.4888 & &  \\ 
+ Accuracy  & 0.6702 & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{SVM binary classifier statistics}
+\label{table:svmstat_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{3}{c}{True level}&\\
+\cline{3-5}
+\multicolumn{2}{c|}{}&Low&Medium&High&\multicolumn{1}{c}{Total}\\
+\cline{2-5}
+\multirow{3}{*}{Predicted level}& Low & 25 & 17 & 5 & 47\\
+\cline{2-5}
+& Medium & 38 & 58 & 33 & 129\\
+\cline{2-5}
+& High & 0 & 6 & 7 & 13\\
+\cline{2-5}
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{63} & \multicolumn{    1}{c}{81} & \multicolumn{    1}{c}{45} & \multicolumn{1}{c}{189}\\
+\end{tabular}
+
+\caption{SVM multiclassifier confusion matrix}
+\label{table:svmcm}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c c||} 
+ \hline
+ Statistic & Score & Low & Medium & High  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.5319 & 0.4496 & 0.5385 \\ 
+ Recall & & 0.3968 & 0.7160  & 0.1556 \\
+ F1 Score &  & 0.4545 & 0.5524  & 0.2414\\
+ F1 Score (micro) & 0.4762 & & & \\
+ F1 Score (macro)  & 0.4161 & & & \\ 
+ Accuracy  & 0.4762 & & & \\ [1ex] 
+ \hline
+\end{tabular}
+
+\caption{SVM multiclassifier statistics}
+\label{table:svmstat}
+\end{table}
+
 \subsubsection{Random Forest Classifier}
 
-\subsubsection{XGBoost Classifier}
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{2}{c}{True level}&\\
+\cline{3-4}
+\multicolumn{2}{c|}{}&Low&Not Low&\multicolumn{1}{c}{Total}\\
+\cline{2-4}
+\multirow{2}{*}{Predicted level}& Low & 11 & 4 & 15\\
+\cline{2-4}
+& Not Low & 47 & 115 & 162\\
+\cline{2-4}
+\multicolumn{1}{c}{Total} & \multicolumn{1}{c}{58} & \multicolumn{    1}{c}{119} & \multicolumn{1}{c}{177}\\
+\end{tabular}
+\caption{Random forest binary classifier confusion matrix}
+\label{table:rfcm_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ Statistic & Score & Low & Not Low  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.7333 & 0.7099 \\ 
+ Recall & & 0.1897 & 0.9664 \\
+ F1 Score &  & 0.3014 & 0.8185 \\
+ F1 Score (micro) & 0.7119 & & \\
+ F1 Score (macro)  & 0.5600 & &  \\ 
+ Accuracy  & 0.7119 & & \\ [1ex] 
+ \hline
+\end{tabular}
+\caption{Random forest binary classifier statistics}
+\label{table:rfstat_low}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{l|l|c|c|c|c}
+\multicolumn{2}{c}{}&\multicolumn{3}{c}{True level}&\\
+\cline{3-5}
+\multicolumn{2}{c|}{}&Low&Medium&High&\multicolumn{1}{c}{Total}\\
+\cline{2-5}
+\multirow{3}{*}{Predicted level}& Low & 27 & 21 & 7 & 55\\
+\cline{2-5}
+& Medium & 29 & 45 & 26 & 100\\
+\cline{2-5}
+& High & 2 & 11 & 10 & 23\\
+\cline{2-5}
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{Total} & \multicolumn{1}{c}{58} & \multicolumn{    1}{c}{77} & \multicolumn{    1}{c}{43} & \multicolumn{1}{c}{178}\\
+\end{tabular}
+
+\caption{Random forest multiclassifier confusion matrix}
+\label{table:rfcm}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c c||} 
+ \hline
+ Statistic & Score & Low & Medium & High  \\ [0.5ex] 
+ \hline\hline
+ Precision &  & 0.4909 & 0.4500 & 0.4348 \\ 
+ Recall & & 0.4655 & 0.5844  & 0.2326 \\
+ F1 Score &  & 0.4779 & 0.5085  & 0.3031\\
+ F1 Score (micro) & 0.4607 & & & \\
+ F1 Score (macro)  & 0.4298 & & & \\ 
+ Accuracy  & 0.4607 & & & \\ [1ex] 
+ \hline
+\end{tabular}
+
+\caption{Random forest multiclassifier statistics}
+\label{table:rfstat}
+\end{table}
 
 \subsection{Summary}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c c||} 
+ \hline
+ Model & F1 Score (micro) & F1 Score (Low) & F1 Score (Medium) & F1 Score (High)  \\ [0.5ex] 
+ \hline\hline
+ BiLSTM & 0.3303 & 0.4567 & 0.2222 & 0.0000 \\ 
+ RoBERTa & 0.4037 & 0.4719 & 0.4400  & 0.0690 \\
+ SVM & 0.4762 & 0.4545  & 0.5524 & 0.2414\\
+ Random Forest & 0.4607 & 0.4779 & 0.5085 & 0.3031 \\
+ \hline
+\end{tabular}
+
+\caption{Summary of multiclass predictors}
+\label{table:summary_multi}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ Model & F1 Score (micro) & F1 Score (Low) & F1 Score (Not Low) \\ [0.5ex] 
+ \hline\hline
+ BiLSTM & 0.6606 & 0.0000 & 0.7956 \\ 
+ RoBERTa & 0.6789 & 0.0000 & 0.8087  \\
+ SVM & 0.6702 & 0.1842  & 0.7933 \\
+ Random Forest & 0.7119 & 0.3014 & 0.8185 \\
+ \hline
+\end{tabular}
+
+\caption{Summary of binary predictors}
+\label{table:summary_binaryi}
+\end{table}
+
+
 
 \bibliographystyle{plain}
 \bibliography{dissertation}

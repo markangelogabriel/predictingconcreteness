@@ -1,0 +1,27 @@
+---
+title: "Rater Diffs"
+author: "Mark Angelo Gabriel  - 22210681"
+date: "20/05/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r}
+
+```
+
+# Data setup
+
+```{r}
+df <- read.csv('../data/CAREStudy.RaterDiffs.20May2021.csv')
+```
+
+```{r}
+summary(df$score_diff)
+```
+```{r}
+boxplot(df$score_diff)
+```
